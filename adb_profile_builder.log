@@ -1,0 +1,1009 @@
+2024-10-06 00:03:45,974 - INFO - Starting tasks on Pixel 6a (25281JEGR07570)
+2024-10-06 00:03:45,974 - INFO - Running 7 loops on Pixel 6a
+2024-10-06 00:03:45,975 - INFO - Starting loop 1/7 on Pixel 6a
+2024-10-06 00:03:45,975 - INFO - Browsing to https://www.google.com on 25281JEGR07570
+2024-10-06 00:03:46,340 - INFO - Waiting for 5.84 seconds.
+2024-10-06 00:03:52,179 - INFO - Waiting for 3.54 seconds.
+2024-10-06 00:03:55,716 - INFO - Scrolling webpage on 25281JEGR07570
+2024-10-06 00:03:56,098 - INFO - Waiting for 3.62 seconds.
+2024-10-06 00:04:00,101 - INFO - Waiting for 2.42 seconds.
+2024-10-06 00:04:02,923 - INFO - Waiting for 2.11 seconds.
+2024-10-06 00:04:05,403 - INFO - Waiting for 2.72 seconds.
+2024-10-06 00:04:08,505 - INFO - Waiting for 3.10 seconds.
+2024-10-06 00:04:11,982 - INFO - Waiting for 2.21 seconds.
+2024-10-06 00:04:14,564 - INFO - Waiting for 3.08 seconds.
+2024-10-06 00:04:18,037 - INFO - Waiting for 3.35 seconds.
+2024-10-06 00:04:21,754 - INFO - Waiting for 2.26 seconds.
+2024-10-06 00:04:24,017 - INFO - Waiting for 5.24 seconds.
+2024-10-06 00:04:28,867 - INFO - Starting tasks on Pixel 6a (25281JEGR07570)
+2024-10-06 00:04:28,867 - INFO - Running 10 loops on Pixel 6a
+2024-10-06 00:04:28,867 - INFO - Starting loop 1/10 on Pixel 6a
+2024-10-06 00:04:28,867 - INFO - Browsing to https://www.wikipedia.org on 25281JEGR07570
+2024-10-06 00:04:29,102 - INFO - Waiting for 5.30 seconds.
+2024-10-06 00:04:34,400 - INFO - Waiting for 8.94 seconds.
+2024-10-06 00:04:43,339 - INFO - Scrolling webpage on 25281JEGR07570
+2024-10-06 00:04:43,713 - INFO - Waiting for 3.76 seconds.
+2024-10-06 00:04:47,852 - INFO - Waiting for 3.04 seconds.
+2024-10-06 00:04:51,289 - INFO - Waiting for 3.79 seconds.
+2024-10-06 00:04:55,457 - INFO - Waiting for 2.73 seconds.
+2024-10-06 00:04:58,583 - INFO - Waiting for 3.32 seconds.
+2024-10-06 00:05:53,062 - INFO - Script starting...
+2024-10-06 00:05:53,062 - INFO - Loading configuration...
+2024-10-06 00:05:53,065 - INFO - Loaded configuration: {'devices': [{'id': '25281JEGR07570', 'alias': 'Pixel 6a'}], 'tasks': [{'open_chrome': True}, {'browse_web': True}, {'scroll_webpages': True}, {'watch_videos': True}], 'timing_parameters': {'min_delay_between_tasks': 3, 'max_delay_between_tasks': 10, 'min_typing_speed': 0.1, 'max_typing_speed': 0.4}, 'urls': ['https://www.google.com', 'https://www.youtube.com', 'https://www.wikipedia.org'], 'loop_settings': {'min_loops': 5, 'max_loops': 10}}
+2024-10-06 00:05:53,065 - INFO - Starting tasks on Pixel 6a (25281JEGR07570)
+2024-10-06 00:05:53,066 - INFO - Running 5 loops on Pixel 6a
+2024-10-06 00:05:53,066 - INFO - Starting loop 1/5 on Pixel 6a
+2024-10-06 00:05:53,066 - INFO - Performing tasks on 25281JEGR07570
+2024-10-06 00:05:53,066 - INFO - Watching a video on 25281JEGR07570
+2024-10-06 00:05:53,066 - INFO - Waiting for 70.40 seconds.
+2024-10-06 00:07:32,631 - INFO - Script starting...
+2024-10-06 00:07:32,631 - INFO - Loading configuration...
+2024-10-06 00:07:32,634 - INFO - Loaded configuration: {'devices': [{'id': '25281JEGR07570', 'alias': 'Pixel 6a'}], 'tasks': [{'open_chrome': True}, {'browse_web': True}, {'scroll_webpages': True}, {'watch_videos': True}], 'timing_parameters': {'min_delay_between_tasks': 3, 'max_delay_between_tasks': 10, 'min_typing_speed': 0.1, 'max_typing_speed': 0.4}, 'urls': ['https://www.google.com', 'https://www.youtube.com', 'https://www.wikipedia.org'], 'loop_settings': {'min_loops': 5, 'max_loops': 10}}
+2024-10-06 00:07:32,634 - INFO - Testing ADB connection for device 25281JEGR07570
+2024-10-06 00:07:32,635 - INFO - Executing command: adb -s 25281JEGR07570 devices
+2024-10-06 00:07:32,682 - INFO - ADB Output: List of devices attached
+25281JEGR07570	device
+
+
+2024-10-06 00:07:32,684 - INFO - Starting tasks on Pixel 6a (25281JEGR07570)
+2024-10-06 00:07:32,684 - INFO - Running 9 loops on Pixel 6a
+2024-10-06 00:07:32,684 - INFO - Starting loop 1/9 on Pixel 6a
+2024-10-06 00:07:32,685 - INFO - Performing tasks on 25281JEGR07570
+2024-10-06 00:07:32,685 - INFO - Opening Chrome on 25281JEGR07570
+2024-10-06 00:07:32,685 - INFO - Executing command: adb -s 25281JEGR07570 shell am start -n com.android.chrome/com.google.android.apps.chrome.Main
+2024-10-06 00:07:32,854 - INFO - ADB Output: Starting: Intent { cmp=com.android.chrome/com.google.android.apps.chrome.Main }
+
+2024-10-06 00:07:32,854 - ERROR - ADB command error: Warning: Activity not started, intent has been delivered to currently running top-most instance.
+
+2024-10-06 00:07:32,854 - INFO - Waiting for 3.74 seconds.
+2024-10-06 00:07:36,592 - INFO - Waiting for 7.20 seconds.
+2024-10-06 00:07:43,797 - INFO - Scrolling webpage on 25281JEGR07570
+2024-10-06 00:07:43,797 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:07:44,195 - INFO - ADB Output: 
+2024-10-06 00:07:44,195 - INFO - Waiting for 2.40 seconds.
+2024-10-06 00:07:46,592 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:07:46,962 - INFO - ADB Output: 
+2024-10-06 00:07:46,962 - INFO - Waiting for 3.43 seconds.
+2024-10-06 00:07:50,397 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:07:50,777 - INFO - ADB Output: 
+2024-10-06 00:07:50,777 - INFO - Waiting for 3.51 seconds.
+2024-10-06 00:07:54,290 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:07:54,675 - INFO - ADB Output: 
+2024-10-06 00:07:54,675 - INFO - Waiting for 2.74 seconds.
+2024-10-06 00:07:57,417 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:07:57,773 - INFO - ADB Output: 
+2024-10-06 00:07:57,774 - INFO - Waiting for 3.64 seconds.
+2024-10-06 00:08:01,416 - INFO - Waiting for 4.01 seconds.
+2024-10-06 00:08:05,425 - INFO - Watching a video on 25281JEGR07570
+2024-10-06 00:08:05,425 - INFO - Waiting for 77.93 seconds.
+2024-10-06 00:09:03,037 - INFO - Script starting...
+2024-10-06 00:09:03,037 - INFO - Loading configuration...
+2024-10-06 00:09:03,039 - INFO - Loaded configuration: {'devices': [{'id': '25281JEGR07570', 'alias': 'Pixel 6a'}], 'tasks': [{'open_chrome': True}, {'browse_web': True}, {'scroll_webpages': True}, {'watch_videos': True}], 'timing_parameters': {'min_delay_between_tasks': 3, 'max_delay_between_tasks': 10, 'min_typing_speed': 0.1, 'max_typing_speed': 0.4}, 'urls': ['https://www.google.com', 'https://www.youtube.com', 'https://www.wikipedia.org'], 'loop_settings': {'min_loops': 5, 'max_loops': 10}}
+2024-10-06 00:09:03,039 - INFO - Testing ADB connection for device 25281JEGR07570
+2024-10-06 00:09:03,040 - INFO - Executing command: adb -s 25281JEGR07570 devices
+2024-10-06 00:09:03,083 - INFO - ADB Output: List of devices attached
+25281JEGR07570	device
+
+
+2024-10-06 00:09:03,083 - INFO - Starting tasks on Pixel 6a (25281JEGR07570)
+2024-10-06 00:09:03,083 - INFO - Running 10 loops on Pixel 6a
+2024-10-06 00:09:03,084 - INFO - Starting loop 1/10 on Pixel 6a
+2024-10-06 00:09:03,084 - INFO - Performing tasks on 25281JEGR07570
+2024-10-06 00:09:03,084 - INFO - Opening Chrome on 25281JEGR07570
+2024-10-06 00:09:03,084 - INFO - Executing command: adb -s 25281JEGR07570 shell am start -n com.android.chrome/com.google.android.apps.chrome.Main
+2024-10-06 00:09:03,183 - INFO - ADB Output: Starting: Intent { cmp=com.android.chrome/com.google.android.apps.chrome.Main }
+
+2024-10-06 00:09:03,183 - ERROR - ADB command error: Warning: Activity not started, intent has been delivered to currently running top-most instance.
+
+2024-10-06 00:09:03,183 - INFO - Waiting for 3.39 seconds.
+2024-10-06 00:09:06,578 - INFO - Waiting for 6.32 seconds.
+2024-10-06 00:09:12,899 - INFO - Browsing to https://www.youtube.com on 25281JEGR07570
+2024-10-06 00:09:12,899 - INFO - Executing command: adb -s 25281JEGR07570 shell input text 'https://www.youtube.com'
+2024-10-06 00:09:13,093 - INFO - ADB Output: 
+2024-10-06 00:09:13,093 - INFO - Executing command: adb -s 25281JEGR07570 shell input keyevent 66
+2024-10-06 00:09:13,171 - INFO - ADB Output: 
+2024-10-06 00:09:13,171 - INFO - Waiting for 7.57 seconds.
+2024-10-06 00:09:20,742 - INFO - Waiting for 9.39 seconds.
+2024-10-06 00:09:30,133 - INFO - Scrolling webpage on 25281JEGR07570
+2024-10-06 00:09:30,133 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:09:30,511 - INFO - ADB Output: 
+2024-10-06 00:09:30,512 - INFO - Waiting for 2.71 seconds.
+2024-10-06 00:10:29,604 - INFO - Script starting...
+2024-10-06 00:10:29,604 - INFO - Loading configuration...
+2024-10-06 00:10:29,607 - INFO - Loaded configuration: {'devices': [{'id': '25281JEGR07570', 'alias': 'Pixel 6a'}], 'tasks': [{'open_chrome': True}, {'browse_web': True}, {'scroll_webpages': True}, {'watch_videos': True}], 'timing_parameters': {'min_delay_between_tasks': 3, 'max_delay_between_tasks': 10, 'min_typing_speed': 0.1, 'max_typing_speed': 0.4}, 'urls': ['https://www.google.com', 'https://www.youtube.com', 'https://www.wikipedia.org'], 'loop_settings': {'min_loops': 5, 'max_loops': 10}}
+2024-10-06 00:10:29,607 - INFO - Testing ADB connection for device 25281JEGR07570
+2024-10-06 00:10:29,607 - INFO - Executing command: adb -s 25281JEGR07570 devices
+2024-10-06 00:10:29,655 - INFO - ADB Output: List of devices attached
+25281JEGR07570	device
+
+
+2024-10-06 00:10:29,655 - INFO - Starting tasks on Pixel 6a (25281JEGR07570)
+2024-10-06 00:10:29,656 - INFO - Running 9 loops on Pixel 6a
+2024-10-06 00:10:29,656 - INFO - Starting loop 1/9 on Pixel 6a
+2024-10-06 00:10:29,656 - INFO - Performing tasks on 25281JEGR07570
+2024-10-06 00:10:29,656 - INFO - Navigating to YouTube on 25281JEGR07570
+2024-10-06 00:10:29,656 - INFO - Executing command: adb -s 25281JEGR07570 shell am start -a android.intent.action.VIEW -d 'https://www.youtube.com'
+2024-10-06 00:10:29,833 - INFO - ADB Output: Starting: Intent { act=android.intent.action.VIEW dat=https://www.youtube.com/... }
+
+2024-10-06 00:10:29,834 - INFO - Waiting for 5.54 seconds.
+2024-10-06 00:10:35,370 - INFO - Tapping on a random video on YouTube on 25281JEGR07570
+2024-10-06 00:10:35,370 - INFO - Executing command: adb -s 25281JEGR07570 shell input tap 500 850
+2024-10-06 00:10:35,492 - INFO - ADB Output: 
+2024-10-06 00:10:35,492 - INFO - Watching the video for 111.16 seconds.
+2024-10-06 00:10:51,630 - INFO - Script starting...
+2024-10-06 00:10:51,630 - INFO - Loading configuration...
+2024-10-06 00:10:51,634 - INFO - Loaded configuration: {'devices': [{'id': '25281JEGR07570', 'alias': 'Pixel 6a'}], 'tasks': [{'open_chrome': True}, {'browse_web': True}, {'scroll_webpages': True}, {'watch_videos': True}], 'timing_parameters': {'min_delay_between_tasks': 3, 'max_delay_between_tasks': 10, 'min_typing_speed': 0.1, 'max_typing_speed': 0.4}, 'urls': ['https://www.google.com', 'https://www.youtube.com', 'https://www.wikipedia.org'], 'loop_settings': {'min_loops': 5, 'max_loops': 10}}
+2024-10-06 00:10:51,634 - INFO - Testing ADB connection for device 25281JEGR07570
+2024-10-06 00:10:51,634 - INFO - Executing command: adb -s 25281JEGR07570 devices
+2024-10-06 00:10:51,670 - INFO - ADB Output: List of devices attached
+25281JEGR07570	device
+
+
+2024-10-06 00:10:51,671 - INFO - Starting tasks on Pixel 6a (25281JEGR07570)
+2024-10-06 00:10:51,671 - INFO - Running 9 loops on Pixel 6a
+2024-10-06 00:10:51,671 - INFO - Starting loop 1/9 on Pixel 6a
+2024-10-06 00:10:51,671 - INFO - Performing tasks on 25281JEGR07570
+2024-10-06 00:10:51,671 - INFO - Browsing to https://www.google.com on 25281JEGR07570
+2024-10-06 00:10:51,671 - INFO - Executing command: adb -s 25281JEGR07570 shell am start -n com.android.chrome/com.google.android.apps.chrome.Main
+2024-10-06 00:10:51,773 - INFO - ADB Output: Starting: Intent { cmp=com.android.chrome/com.google.android.apps.chrome.Main }
+
+2024-10-06 00:10:51,773 - ERROR - ADB command error: Warning: Activity not started, its current task has been brought to the front
+
+2024-10-06 00:10:51,773 - INFO - Waiting for 5.68 seconds.
+2024-10-06 00:10:57,449 - INFO - Executing command: adb -s 25281JEGR07570 shell input text 'https://www.google.com'
+2024-10-06 00:10:57,646 - INFO - ADB Output: 
+2024-10-06 00:10:57,646 - INFO - Executing command: adb -s 25281JEGR07570 shell input keyevent 66
+2024-10-06 00:10:57,725 - INFO - ADB Output: 
+2024-10-06 00:10:57,726 - INFO - Waiting for 13.81 seconds.
+2024-10-06 00:11:07,789 - INFO - Script starting...
+2024-10-06 00:11:07,789 - INFO - Loading configuration...
+2024-10-06 00:11:07,791 - INFO - Loaded configuration: {'devices': [{'id': '25281JEGR07570', 'alias': 'Pixel 6a'}], 'tasks': [{'open_chrome': True}, {'browse_web': True}, {'scroll_webpages': True}, {'watch_videos': True}], 'timing_parameters': {'min_delay_between_tasks': 3, 'max_delay_between_tasks': 10, 'min_typing_speed': 0.1, 'max_typing_speed': 0.4}, 'urls': ['https://www.google.com', 'https://www.youtube.com', 'https://www.wikipedia.org'], 'loop_settings': {'min_loops': 5, 'max_loops': 10}}
+2024-10-06 00:11:07,791 - INFO - Testing ADB connection for device 25281JEGR07570
+2024-10-06 00:11:07,792 - INFO - Executing command: adb -s 25281JEGR07570 devices
+2024-10-06 00:11:07,828 - INFO - ADB Output: List of devices attached
+25281JEGR07570	device
+
+
+2024-10-06 00:11:07,828 - INFO - Starting tasks on Pixel 6a (25281JEGR07570)
+2024-10-06 00:11:07,828 - INFO - Running 8 loops on Pixel 6a
+2024-10-06 00:11:07,829 - INFO - Starting loop 1/8 on Pixel 6a
+2024-10-06 00:11:07,829 - INFO - Performing tasks on 25281JEGR07570
+2024-10-06 00:11:07,829 - INFO - Browsing to https://www.wikipedia.org on 25281JEGR07570
+2024-10-06 00:11:07,829 - INFO - Executing command: adb -s 25281JEGR07570 shell am start -n com.android.chrome/com.google.android.apps.chrome.Main
+2024-10-06 00:11:07,918 - INFO - ADB Output: Starting: Intent { cmp=com.android.chrome/com.google.android.apps.chrome.Main }
+
+2024-10-06 00:11:07,918 - INFO - Waiting for 6.84 seconds.
+2024-10-06 00:11:14,758 - INFO - Executing command: adb -s 25281JEGR07570 shell input text 'https://www.wikipedia.org'
+2024-10-06 00:11:14,925 - INFO - ADB Output: 
+2024-10-06 00:11:14,925 - INFO - Executing command: adb -s 25281JEGR07570 shell input keyevent 66
+2024-10-06 00:11:15,006 - INFO - ADB Output: 
+2024-10-06 00:11:15,006 - INFO - Waiting for 12.05 seconds.
+2024-10-06 00:11:24,131 - INFO - Script starting...
+2024-10-06 00:11:24,132 - INFO - Loading configuration...
+2024-10-06 00:11:24,135 - INFO - Loaded configuration: {'devices': [{'id': '25281JEGR07570', 'alias': 'Pixel 6a'}], 'tasks': [{'open_chrome': True}, {'browse_web': True}, {'scroll_webpages': True}, {'watch_videos': True}], 'timing_parameters': {'min_delay_between_tasks': 3, 'max_delay_between_tasks': 10, 'min_typing_speed': 0.1, 'max_typing_speed': 0.4}, 'urls': ['https://www.google.com', 'https://www.youtube.com', 'https://www.wikipedia.org'], 'loop_settings': {'min_loops': 5, 'max_loops': 10}}
+2024-10-06 00:11:24,135 - INFO - Testing ADB connection for device 25281JEGR07570
+2024-10-06 00:11:24,135 - INFO - Executing command: adb -s 25281JEGR07570 devices
+2024-10-06 00:11:24,176 - INFO - ADB Output: List of devices attached
+25281JEGR07570	device
+
+
+2024-10-06 00:11:24,176 - INFO - Starting tasks on Pixel 6a (25281JEGR07570)
+2024-10-06 00:11:24,176 - INFO - Running 6 loops on Pixel 6a
+2024-10-06 00:11:24,176 - INFO - Starting loop 1/6 on Pixel 6a
+2024-10-06 00:11:24,176 - INFO - Performing tasks on 25281JEGR07570
+2024-10-06 00:11:24,176 - INFO - Scrolling webpage on 25281JEGR07570
+2024-10-06 00:11:24,176 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:11:24,545 - INFO - ADB Output: 
+2024-10-06 00:11:24,545 - INFO - Waiting for 2.38 seconds.
+2024-10-06 00:11:26,926 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:11:27,322 - INFO - ADB Output: 
+2024-10-06 00:11:27,322 - INFO - Waiting for 3.79 seconds.
+2024-10-06 00:11:31,036 - INFO - Script starting...
+2024-10-06 00:11:31,036 - INFO - Loading configuration...
+2024-10-06 00:11:31,038 - INFO - Loaded configuration: {'devices': [{'id': '25281JEGR07570', 'alias': 'Pixel 6a'}], 'tasks': [{'open_chrome': True}, {'browse_web': True}, {'scroll_webpages': True}, {'watch_videos': True}], 'timing_parameters': {'min_delay_between_tasks': 3, 'max_delay_between_tasks': 10, 'min_typing_speed': 0.1, 'max_typing_speed': 0.4}, 'urls': ['https://www.google.com', 'https://www.youtube.com', 'https://www.wikipedia.org'], 'loop_settings': {'min_loops': 5, 'max_loops': 10}}
+2024-10-06 00:11:31,038 - INFO - Testing ADB connection for device 25281JEGR07570
+2024-10-06 00:11:31,038 - INFO - Executing command: adb -s 25281JEGR07570 devices
+2024-10-06 00:11:31,076 - INFO - ADB Output: List of devices attached
+25281JEGR07570	device
+
+
+2024-10-06 00:11:31,076 - INFO - Starting tasks on Pixel 6a (25281JEGR07570)
+2024-10-06 00:11:31,077 - INFO - Running 6 loops on Pixel 6a
+2024-10-06 00:11:31,077 - INFO - Starting loop 1/6 on Pixel 6a
+2024-10-06 00:11:31,077 - INFO - Performing tasks on 25281JEGR07570
+2024-10-06 00:11:31,077 - INFO - Navigating to YouTube on 25281JEGR07570
+2024-10-06 00:11:31,077 - INFO - Executing command: adb -s 25281JEGR07570 shell am start -a android.intent.action.VIEW -d 'https://www.youtube.com'
+2024-10-06 00:11:31,169 - INFO - ADB Output: Starting: Intent { act=android.intent.action.VIEW dat=https://www.youtube.com/... }
+
+2024-10-06 00:11:31,169 - INFO - Waiting for 9.75 seconds.
+2024-10-06 00:11:40,921 - INFO - Tapping on a random video on YouTube on 25281JEGR07570
+2024-10-06 00:11:40,921 - INFO - Executing command: adb -s 25281JEGR07570 shell input tap 500 850
+2024-10-06 00:11:41,002 - INFO - ADB Output: 
+2024-10-06 00:11:41,003 - INFO - Watching the video for 107.67 seconds.
+2024-10-06 00:18:48,300 - INFO - Script starting...
+2024-10-06 00:18:48,301 - INFO - Loading configuration...
+2024-10-06 00:19:09,439 - INFO - Script starting...
+2024-10-06 00:19:09,439 - INFO - Loading configuration...
+2024-10-06 00:19:33,488 - INFO - Script starting...
+2024-10-06 00:19:33,489 - INFO - Loading configuration...
+2024-10-06 00:19:33,497 - INFO - Loaded configuration: {'devices': [{'id': '25281JEGR07570', 'alias': 'Pixel 6a'}], 'tasks': [{'open_chrome': True}, {'browse_web': True}, {'scroll_webpages': True}, {'watch_videos': True}], 'timing_parameters': {'min_delay_between_tasks': 3, 'max_delay_between_tasks': 10, 'min_typing_speed': 0.1, 'max_typing_speed': 0.4}, 'urls': ['https://www.google.com', 'https://www.wikipedia.org'], 'loop_settings': {'min_loops': 5, 'max_loops': 10}}
+2024-10-06 00:19:33,498 - INFO - Testing ADB connection for device 25281JEGR07570
+2024-10-06 00:19:33,498 - INFO - Executing command: adb -s 25281JEGR07570 devices
+2024-10-06 00:19:33,546 - INFO - ADB Output: List of devices attached
+25281JEGR07570	device
+
+
+2024-10-06 00:19:33,546 - INFO - Starting tasks on Pixel 6a (25281JEGR07570)
+2024-10-06 00:19:33,546 - INFO - Running 7 loops on Pixel 6a
+2024-10-06 00:19:33,546 - INFO - Starting loop 1/7 on Pixel 6a
+2024-10-06 00:19:33,547 - INFO - Performing tasks on 25281JEGR07570
+2024-10-06 00:19:33,547 - INFO - Scrolling webpage on 25281JEGR07570
+2024-10-06 00:19:33,547 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:19:33,974 - INFO - ADB Output: 
+2024-10-06 00:19:33,974 - INFO - Waiting for 2.27 seconds.
+2024-10-06 00:19:36,244 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:19:36,631 - INFO - ADB Output: 
+2024-10-06 00:19:36,631 - INFO - Waiting for 3.23 seconds.
+2024-10-06 00:19:39,864 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:19:40,259 - INFO - ADB Output: 
+2024-10-06 00:19:40,259 - INFO - Waiting for 2.66 seconds.
+2024-10-06 00:19:44,250 - INFO - Script starting...
+2024-10-06 00:19:44,250 - INFO - Loading configuration...
+2024-10-06 00:19:44,253 - INFO - Loaded configuration: {'devices': [{'id': '25281JEGR07570', 'alias': 'Pixel 6a'}], 'tasks': [{'open_chrome': True}, {'browse_web': True}, {'scroll_webpages': True}, {'watch_videos': True}], 'timing_parameters': {'min_delay_between_tasks': 3, 'max_delay_between_tasks': 10, 'min_typing_speed': 0.1, 'max_typing_speed': 0.4}, 'urls': ['https://www.google.com', 'https://www.wikipedia.org'], 'loop_settings': {'min_loops': 5, 'max_loops': 10}}
+2024-10-06 00:19:44,253 - INFO - Testing ADB connection for device 25281JEGR07570
+2024-10-06 00:19:44,254 - INFO - Executing command: adb -s 25281JEGR07570 devices
+2024-10-06 00:19:44,292 - INFO - ADB Output: List of devices attached
+25281JEGR07570	device
+
+
+2024-10-06 00:19:44,293 - INFO - Starting tasks on Pixel 6a (25281JEGR07570)
+2024-10-06 00:19:44,293 - INFO - Running 5 loops on Pixel 6a
+2024-10-06 00:19:44,293 - INFO - Starting loop 1/5 on Pixel 6a
+2024-10-06 00:19:44,293 - INFO - Performing tasks on 25281JEGR07570
+2024-10-06 00:19:44,293 - INFO - Opening Chrome on 25281JEGR07570
+2024-10-06 00:19:44,293 - INFO - Executing command: adb -s 25281JEGR07570 shell am start -n com.android.chrome/com.google.android.apps.chrome.Main
+2024-10-06 00:19:44,371 - INFO - ADB Output: Starting: Intent { cmp=com.android.chrome/com.google.android.apps.chrome.Main }
+
+2024-10-06 00:19:44,371 - INFO - Waiting for 4.92 seconds.
+2024-10-06 00:19:49,296 - INFO - Waiting for 9.43 seconds.
+2024-10-06 00:19:58,724 - INFO - Browsing to https://www.wikipedia.org on 25281JEGR07570
+2024-10-06 00:19:58,724 - INFO - Executing command: adb -s 25281JEGR07570 shell am start -n com.android.chrome/com.google.android.apps.chrome.Main
+2024-10-06 00:19:58,798 - INFO - ADB Output: Starting: Intent { cmp=com.android.chrome/com.google.android.apps.chrome.Main }
+
+2024-10-06 00:19:58,798 - ERROR - ADB command error: Warning: Activity not started, intent has been delivered to currently running top-most instance.
+
+2024-10-06 00:19:58,798 - INFO - Waiting for 5.74 seconds.
+2024-10-06 00:20:04,534 - INFO - Executing command: adb -s 25281JEGR07570 shell input text 'https://www.wikipedia.org'
+2024-10-06 00:20:04,691 - INFO - ADB Output: 
+2024-10-06 00:20:04,691 - INFO - Executing command: adb -s 25281JEGR07570 shell input keyevent 66
+2024-10-06 00:20:04,773 - INFO - ADB Output: 
+2024-10-06 00:20:04,773 - INFO - Waiting for 12.91 seconds.
+2024-10-06 00:20:17,682 - INFO - Waiting for 6.56 seconds.
+2024-10-06 00:20:24,241 - INFO - Scrolling webpage on 25281JEGR07570
+2024-10-06 00:20:24,241 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:20:24,627 - INFO - ADB Output: 
+2024-10-06 00:20:24,628 - INFO - Waiting for 2.50 seconds.
+2024-10-06 00:20:27,125 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:20:27,485 - INFO - ADB Output: 
+2024-10-06 00:20:27,487 - INFO - Waiting for 3.48 seconds.
+2024-10-06 00:20:30,969 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:20:31,331 - INFO - ADB Output: 
+2024-10-06 00:20:31,331 - INFO - Waiting for 3.09 seconds.
+2024-10-06 00:20:34,417 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:20:34,794 - INFO - ADB Output: 
+2024-10-06 00:20:34,794 - INFO - Waiting for 2.33 seconds.
+2024-10-06 00:20:37,121 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:20:37,513 - INFO - ADB Output: 
+2024-10-06 00:20:37,514 - INFO - Waiting for 3.42 seconds.
+2024-10-06 00:20:40,935 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:20:41,326 - INFO - ADB Output: 
+2024-10-06 00:20:41,327 - INFO - Waiting for 3.12 seconds.
+2024-10-06 00:20:44,446 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:20:44,820 - INFO - ADB Output: 
+2024-10-06 00:20:44,821 - INFO - Waiting for 2.43 seconds.
+2024-10-06 00:20:47,250 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:20:47,625 - INFO - ADB Output: 
+2024-10-06 00:20:47,625 - INFO - Waiting for 2.77 seconds.
+2024-10-06 00:20:50,398 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:20:50,783 - INFO - ADB Output: 
+2024-10-06 00:20:50,783 - INFO - Waiting for 2.63 seconds.
+2024-10-06 00:20:53,413 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:20:53,781 - INFO - ADB Output: 
+2024-10-06 00:20:53,781 - INFO - Waiting for 3.73 seconds.
+2024-10-06 00:20:57,513 - INFO - Waiting for 9.22 seconds.
+2024-10-06 00:21:06,737 - INFO - Opening YouTube app on 25281JEGR07570
+2024-10-06 00:21:06,737 - INFO - Executing command: adb -s 25281JEGR07570 shell am start -n com.google.android.youtube/com.google.android.youtube.HomeActivity
+2024-10-06 00:21:06,821 - INFO - ADB Output: Starting: Intent { cmp=com.google.android.youtube/.HomeActivity }
+
+2024-10-06 00:21:06,822 - INFO - Waiting for 8.92 seconds.
+2024-10-06 00:21:15,747 - INFO - Scrolling through YouTube feed on 25281JEGR07570
+2024-10-06 00:21:15,747 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:21:16,131 - INFO - ADB Output: 
+2024-10-06 00:21:16,131 - INFO - Waiting for 3.79 seconds.
+2024-10-06 00:21:19,925 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:21:20,382 - INFO - ADB Output: 
+2024-10-06 00:21:20,383 - INFO - Waiting for 3.67 seconds.
+2024-10-06 00:21:24,053 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:21:24,451 - INFO - ADB Output: 
+2024-10-06 00:21:24,451 - INFO - Waiting for 2.33 seconds.
+2024-10-06 00:21:26,781 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:21:27,171 - INFO - ADB Output: 
+2024-10-06 00:21:27,172 - INFO - Waiting for 3.92 seconds.
+2024-10-06 00:21:31,091 - INFO - Tapping on a random video on YouTube on 25281JEGR07570
+2024-10-06 00:21:31,091 - INFO - Executing command: adb -s 25281JEGR07570 shell input tap 500 800
+2024-10-06 00:21:31,161 - INFO - ADB Output: 
+2024-10-06 00:21:31,161 - INFO - Watching the video for 103.70 seconds.
+2024-10-06 00:21:54,132 - INFO - Script starting...
+2024-10-06 00:21:54,132 - INFO - Loading configuration...
+2024-10-06 00:21:54,135 - INFO - Loaded configuration: {'devices': [{'id': '25281JEGR07570', 'alias': 'Pixel 6a'}], 'tasks': [{'open_chrome': True}, {'browse_web': True}, {'scroll_webpages': True}, {'watch_videos': True}], 'timing_parameters': {'min_delay_between_tasks': 3, 'max_delay_between_tasks': 10, 'min_typing_speed': 0.1, 'max_typing_speed': 0.4}, 'urls': ['https://www.google.com', 'https://www.wikipedia.org'], 'loop_settings': {'min_loops': 5, 'max_loops': 10}}
+2024-10-06 00:21:54,135 - INFO - Testing ADB connection for device 25281JEGR07570
+2024-10-06 00:21:54,135 - INFO - Executing command: adb -s 25281JEGR07570 devices
+2024-10-06 00:21:54,179 - INFO - ADB Output: List of devices attached
+25281JEGR07570	device
+
+
+2024-10-06 00:21:54,179 - INFO - Starting tasks on Pixel 6a (25281JEGR07570)
+2024-10-06 00:21:54,179 - INFO - Running 6 loops on Pixel 6a
+2024-10-06 00:21:54,179 - INFO - Starting loop 1/6 on Pixel 6a
+2024-10-06 00:21:54,179 - INFO - Performing tasks on 25281JEGR07570
+2024-10-06 00:21:54,179 - INFO - Opening YouTube app on 25281JEGR07570
+2024-10-06 00:21:54,180 - INFO - Executing command: adb -s 25281JEGR07570 shell am start -n com.google.android.youtube/com.google.android.youtube.HomeActivity
+2024-10-06 00:21:54,301 - INFO - ADB Output: Starting: Intent { cmp=com.google.android.youtube/.HomeActivity }
+
+2024-10-06 00:21:54,301 - ERROR - ADB command error: Warning: Activity not started, intent has been delivered to currently running top-most instance.
+
+2024-10-06 00:21:54,301 - INFO - Waiting for 9.92 seconds.
+2024-10-06 00:22:04,222 - INFO - Scrolling through YouTube feed on 25281JEGR07570
+2024-10-06 00:22:04,222 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:22:04,601 - INFO - ADB Output: 
+2024-10-06 00:22:04,601 - INFO - Waiting for 2.14 seconds.
+2024-10-06 00:22:06,745 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:22:07,120 - INFO - ADB Output: 
+2024-10-06 00:22:07,121 - INFO - Waiting for 3.82 seconds.
+2024-10-06 00:22:10,942 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:22:11,308 - INFO - ADB Output: 
+2024-10-06 00:22:11,308 - INFO - Waiting for 3.87 seconds.
+2024-10-06 00:22:15,179 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:22:15,550 - INFO - ADB Output: 
+2024-10-06 00:22:15,550 - INFO - Waiting for 3.06 seconds.
+2024-10-06 00:22:18,612 - INFO - Tapping on a random video on YouTube on 25281JEGR07570
+2024-10-06 00:22:18,612 - INFO - Executing command: adb -s 25281JEGR07570 shell input tap 500 800
+2024-10-06 00:22:18,698 - INFO - ADB Output: 
+2024-10-06 00:22:18,698 - INFO - Watching the video for 159.18 seconds.
+2024-10-06 00:22:25,199 - INFO - Script starting...
+2024-10-06 00:22:25,200 - INFO - Loading configuration...
+2024-10-06 00:22:25,203 - INFO - Loaded configuration: {'devices': [{'id': '25281JEGR07570', 'alias': 'Pixel 6a'}], 'tasks': [{'open_chrome': True}, {'browse_web': True}, {'scroll_webpages': True}, {'watch_videos': True}], 'timing_parameters': {'min_delay_between_tasks': 3, 'max_delay_between_tasks': 10, 'min_typing_speed': 0.1, 'max_typing_speed': 0.4}, 'urls': ['https://www.google.com', 'https://www.wikipedia.org'], 'loop_settings': {'min_loops': 5, 'max_loops': 10}}
+2024-10-06 00:22:25,203 - INFO - Testing ADB connection for device 25281JEGR07570
+2024-10-06 00:22:25,203 - INFO - Executing command: adb -s 25281JEGR07570 devices
+2024-10-06 00:22:25,238 - INFO - ADB Output: List of devices attached
+25281JEGR07570	device
+
+
+2024-10-06 00:22:25,238 - INFO - Starting tasks on Pixel 6a (25281JEGR07570)
+2024-10-06 00:22:25,238 - INFO - Running 8 loops on Pixel 6a
+2024-10-06 00:22:25,238 - INFO - Starting loop 1/8 on Pixel 6a
+2024-10-06 00:22:25,238 - INFO - Performing tasks on 25281JEGR07570
+2024-10-06 00:22:25,238 - INFO - Opening Chrome on 25281JEGR07570
+2024-10-06 00:22:25,239 - INFO - Executing command: adb -s 25281JEGR07570 shell am start -n com.android.chrome/com.google.android.apps.chrome.Main
+2024-10-06 00:22:25,312 - INFO - ADB Output: Starting: Intent { cmp=com.android.chrome/com.google.android.apps.chrome.Main }
+
+2024-10-06 00:22:25,312 - ERROR - ADB command error: Warning: Activity not started, its current task has been brought to the front
+
+2024-10-06 00:22:25,312 - INFO - Waiting for 2.26 seconds.
+2024-10-06 00:22:27,577 - INFO - Waiting for 7.92 seconds.
+2024-10-06 00:22:35,499 - INFO - Browsing to https://www.wikipedia.org on 25281JEGR07570
+2024-10-06 00:22:35,499 - INFO - Executing command: adb -s 25281JEGR07570 shell am start -n com.android.chrome/com.google.android.apps.chrome.Main
+2024-10-06 00:22:35,592 - INFO - ADB Output: Starting: Intent { cmp=com.android.chrome/com.google.android.apps.chrome.Main }
+
+2024-10-06 00:22:35,592 - ERROR - ADB command error: Warning: Activity not started, intent has been delivered to currently running top-most instance.
+
+2024-10-06 00:22:35,592 - INFO - Waiting for 7.92 seconds.
+2024-10-06 00:22:43,509 - INFO - Executing command: adb -s 25281JEGR07570 shell input text 'https://www.wikipedia.org'
+2024-10-06 00:22:43,695 - INFO - ADB Output: 
+2024-10-06 00:22:43,695 - INFO - Executing command: adb -s 25281JEGR07570 shell input keyevent 66
+2024-10-06 00:22:43,799 - INFO - ADB Output: 
+2024-10-06 00:22:43,800 - INFO - Waiting for 14.84 seconds.
+2024-10-06 00:22:58,640 - INFO - Waiting for 7.90 seconds.
+2024-10-06 00:23:06,540 - INFO - Opening YouTube app on 25281JEGR07570
+2024-10-06 00:23:06,540 - INFO - Executing command: adb -s 25281JEGR07570 shell am start -n com.google.android.youtube/com.google.android.youtube.HomeActivity
+2024-10-06 00:23:06,626 - INFO - ADB Output: Starting: Intent { cmp=com.google.android.youtube/.HomeActivity }
+
+2024-10-06 00:23:06,627 - ERROR - ADB command error: Warning: Activity not started, intent has been delivered to currently running top-most instance.
+
+2024-10-06 00:23:06,627 - INFO - Waiting for 6.04 seconds.
+2024-10-06 00:23:12,666 - INFO - Scrolling through YouTube feed on 25281JEGR07570
+2024-10-06 00:23:12,667 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:23:13,057 - INFO - ADB Output: 
+2024-10-06 00:23:13,057 - INFO - Waiting for 3.80 seconds.
+2024-10-06 00:23:16,857 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:23:17,233 - INFO - ADB Output: 
+2024-10-06 00:23:17,234 - INFO - Waiting for 3.57 seconds.
+2024-10-06 00:23:20,805 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:23:21,176 - INFO - ADB Output: 
+2024-10-06 00:23:21,176 - INFO - Waiting for 3.11 seconds.
+2024-10-06 00:23:24,286 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:23:24,681 - INFO - ADB Output: 
+2024-10-06 00:23:24,681 - INFO - Waiting for 2.75 seconds.
+2024-10-06 00:23:27,431 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:23:27,802 - INFO - ADB Output: 
+2024-10-06 00:23:27,803 - INFO - Waiting for 2.43 seconds.
+2024-10-06 00:23:30,231 - INFO - Tapping on a random video on YouTube on 25281JEGR07570
+2024-10-06 00:23:30,231 - INFO - Executing command: adb -s 25281JEGR07570 shell input tap 500 800
+2024-10-06 00:23:30,298 - INFO - ADB Output: 
+2024-10-06 00:23:30,298 - INFO - Watching the video for 125.65 seconds.
+2024-10-06 00:25:35,949 - INFO - Waiting for 8.91 seconds.
+2024-10-06 00:25:44,859 - INFO - Scrolling webpage on 25281JEGR07570
+2024-10-06 00:25:44,859 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:25:45,258 - INFO - ADB Output: 
+2024-10-06 00:25:45,259 - INFO - Waiting for 3.20 seconds.
+2024-10-06 00:25:48,464 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:25:48,830 - INFO - ADB Output: 
+2024-10-06 00:25:48,831 - INFO - Waiting for 2.62 seconds.
+2024-10-06 00:25:51,455 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:25:51,839 - INFO - ADB Output: 
+2024-10-06 00:25:51,839 - INFO - Waiting for 3.32 seconds.
+2024-10-06 00:25:55,162 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:25:55,556 - INFO - ADB Output: 
+2024-10-06 00:25:55,556 - INFO - Waiting for 3.73 seconds.
+2024-10-06 00:25:59,289 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:25:59,653 - INFO - ADB Output: 
+2024-10-06 00:25:59,653 - INFO - Waiting for 3.18 seconds.
+2024-10-06 00:26:02,832 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:26:03,212 - INFO - ADB Output: 
+2024-10-06 00:26:03,213 - INFO - Waiting for 2.20 seconds.
+2024-10-06 00:26:05,410 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:26:05,781 - INFO - ADB Output: 
+2024-10-06 00:26:05,782 - INFO - Waiting for 2.21 seconds.
+2024-10-06 00:26:07,996 - INFO - Waiting for 3.07 seconds.
+2024-10-06 00:26:11,067 - INFO - Finished loop 1/8 on Pixel 6a
+2024-10-06 00:26:11,068 - INFO - Waiting for 17.58 seconds.
+2024-10-06 00:26:28,653 - INFO - Starting loop 2/8 on Pixel 6a
+2024-10-06 00:26:28,653 - INFO - Performing tasks on 25281JEGR07570
+2024-10-06 00:26:28,653 - INFO - Scrolling webpage on 25281JEGR07570
+2024-10-06 00:26:28,653 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:26:29,024 - INFO - ADB Output: 
+2024-10-06 00:26:29,025 - INFO - Waiting for 3.14 seconds.
+2024-10-06 00:26:32,166 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:26:32,542 - INFO - ADB Output: 
+2024-10-06 00:26:32,542 - INFO - Waiting for 3.89 seconds.
+2024-10-06 00:26:36,433 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:26:36,812 - INFO - ADB Output: 
+2024-10-06 00:26:36,812 - INFO - Waiting for 3.31 seconds.
+2024-10-06 00:26:40,124 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:26:40,499 - INFO - ADB Output: 
+2024-10-06 00:26:40,500 - INFO - Waiting for 2.54 seconds.
+2024-10-06 00:26:43,043 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:26:43,421 - INFO - ADB Output: 
+2024-10-06 00:26:43,421 - INFO - Waiting for 2.94 seconds.
+2024-10-06 00:26:46,358 - INFO - Waiting for 4.07 seconds.
+2024-10-06 00:26:50,430 - INFO - Opening Chrome on 25281JEGR07570
+2024-10-06 00:26:50,430 - INFO - Executing command: adb -s 25281JEGR07570 shell am start -n com.android.chrome/com.google.android.apps.chrome.Main
+2024-10-06 00:26:50,520 - INFO - ADB Output: Starting: Intent { cmp=com.android.chrome/com.google.android.apps.chrome.Main }
+
+2024-10-06 00:26:50,520 - ERROR - ADB command error: Warning: Activity not started, its current task has been brought to the front
+
+2024-10-06 00:26:50,521 - INFO - Waiting for 3.01 seconds.
+2024-10-06 00:26:53,529 - INFO - Waiting for 5.96 seconds.
+2024-10-06 00:26:59,486 - INFO - Opening YouTube app on 25281JEGR07570
+2024-10-06 00:26:59,486 - INFO - Executing command: adb -s 25281JEGR07570 shell am start -n com.google.android.youtube/com.google.android.youtube.HomeActivity
+2024-10-06 00:26:59,645 - INFO - ADB Output: Starting: Intent { cmp=com.google.android.youtube/.HomeActivity }
+
+2024-10-06 00:26:59,646 - ERROR - ADB command error: Warning: Activity not started, intent has been delivered to currently running top-most instance.
+
+2024-10-06 00:26:59,647 - INFO - Waiting for 9.41 seconds.
+2024-10-06 00:28:09,471 - INFO - Script starting...
+2024-10-06 00:28:09,471 - INFO - Loading configuration...
+2024-10-06 00:28:09,475 - INFO - Loaded configuration: {'devices': [{'id': '25281JEGR07570', 'alias': 'Pixel 6a'}], 'tasks': [{'open_chrome': True}, {'browse_web': True}, {'scroll_webpages': True}, {'watch_videos': True}], 'timing_parameters': {'min_delay_between_tasks': 3, 'max_delay_between_tasks': 10, 'min_typing_speed': 0.1, 'max_typing_speed': 0.4}, 'urls': ['https://www.google.com', 'https://www.wikipedia.org'], 'loop_settings': {'min_loops': 5, 'max_loops': 10}}
+2024-10-06 00:28:09,475 - INFO - Testing ADB connection for device 25281JEGR07570
+2024-10-06 00:28:09,475 - INFO - Executing command: adb -s 25281JEGR07570 devices
+2024-10-06 00:28:09,521 - INFO - ADB Output: List of devices attached
+25281JEGR07570	device
+
+
+2024-10-06 00:28:09,521 - INFO - Starting tasks on Pixel 6a (25281JEGR07570)
+2024-10-06 00:28:09,521 - INFO - Running 5 loops on Pixel 6a
+2024-10-06 00:28:09,521 - INFO - Starting loop 1/5 on Pixel 6a
+2024-10-06 00:28:09,521 - INFO - Performing tasks on 25281JEGR07570
+2024-10-06 00:28:09,521 - INFO - Scrolling webpage on 25281JEGR07570
+2024-10-06 00:28:09,521 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:28:09,908 - INFO - ADB Output: 
+2024-10-06 00:28:09,908 - INFO - Waiting for 2.04 seconds.
+2024-10-06 00:28:11,947 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:28:12,325 - INFO - ADB Output: 
+2024-10-06 00:28:12,325 - INFO - Waiting for 2.99 seconds.
+2024-10-06 00:28:15,315 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:28:15,698 - INFO - ADB Output: 
+2024-10-06 00:28:15,698 - INFO - Waiting for 2.19 seconds.
+2024-10-06 00:28:17,894 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:28:18,268 - INFO - ADB Output: 
+2024-10-06 00:28:18,268 - INFO - Waiting for 2.92 seconds.
+2024-10-06 00:28:21,188 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:28:21,568 - INFO - ADB Output: 
+2024-10-06 00:28:21,568 - INFO - Waiting for 2.20 seconds.
+2024-10-06 00:28:23,765 - INFO - Waiting for 6.76 seconds.
+2024-10-06 00:28:30,524 - INFO - Launching Chrome with URL: https://www.wikipedia.org on 25281JEGR07570
+2024-10-06 00:28:30,524 - INFO - Executing command: adb -s 25281JEGR07570 shell am start -a android.intent.action.VIEW -d 'https://www.wikipedia.org'
+2024-10-06 00:28:30,651 - INFO - ADB Output: Starting: Intent { act=android.intent.action.VIEW dat=https://www.wikipedia.org/... }
+
+2024-10-06 00:28:30,652 - INFO - Waiting for 14.14 seconds.
+2024-10-06 00:28:44,788 - INFO - Waiting for 3.30 seconds.
+2024-10-06 00:30:54,199 - INFO - Script starting...
+2024-10-06 00:30:54,199 - INFO - Loading configuration...
+2024-10-06 00:30:54,217 - INFO - Loaded configuration: {'devices': [{'id': '25281JEGR07570', 'alias': 'Pixel 6a'}], 'tasks': [{'wikipedia_search': True}], 'timing_parameters': {'min_delay_between_tasks': 3, 'max_delay_between_tasks': 10}, 'search_queries': ['Quantum mechanics', 'Artificial intelligence', 'Machine learning', 'History of the internet', 'Python programming language', 'Cryptography', 'History of space exploration', 'Renaissance art', 'Black hole formation', 'Photosynthesis process', 'Evolution of mammals', 'Ancient Egyptian civilization', 'History of the Roman Empire', 'Theory of relativity', 'Thermodynamics', 'Plate tectonics', 'History of World War II', 'String theory', 'History of computers', 'Blockchain technology', 'History of video games', 'Classical music composers', 'Baroque architecture', 'Genetic engineering', 'Nanotechnology', 'Particle physics', 'Augmented reality', 'Neuroscience breakthroughs', 'Cybersecurity threats', 'History of encryption', 'Quantum computing', '3D printing technology', 'History of mathematics', 'Dark matter', 'Fossil fuel impact on the environment', 'History of photography', 'Ocean ecosystems', 'History of human migration', 'Evolution of birds', 'History of astronomy', 'Meteorology and climate change', 'Cultural anthropology', 'History of the Silk Road', "Fermat's last theorem", 'Number theory', 'Medieval history of Europe', 'Colonialism in Africa', 'History of medicine', 'DNA replication process', 'Types of renewable energy', 'The Big Bang theory', 'Human immune system', 'The Industrial Revolution', 'History of robotics', 'Astrobiology', 'History of aviation', 'History of the English language', 'Cognitive psychology', 'Philosophy of mind', 'Evolutionary biology', 'Globalization and its effects', 'Subatomic particles', 'History of feminism', 'Virtual reality', 'Greek mythology', 'World mythology', "Saturn's rings", 'History of democracy', 'History of quantum theory', 'Oceanography', 'History of artificial intelligence', 'Sustainable agriculture', 'Human body systems', 'Evolution of insects', 'History of the internet', 'Mitochondrial DNA', 'History of blockchain', 'Wireless communication technology', 'Cryptocurrency', 'History of transportation', 'Space colonization', 'History of timekeeping', 'Space shuttle program', 'History of theater', 'Ancient Greek philosophy', 'Relativity and spacetime', 'Nuclear fusion', 'Biodiversity conservation', 'History of printing press', 'Dark web', 'Climate change and global warming', 'Types of social networks', 'History of space exploration', 'History of antibiotics', 'History of artificial satellites', 'Cognitive behavioral therapy', 'Exoplanets', 'Mars rovers', 'Ethics of AI', 'Drone technology', 'Nuclear energy', 'Virtual economies', 'Space telescopes', 'Submarine communications', 'Ecosystems of the Amazon rainforest', 'History of ancient China', 'Human brain anatomy', 'Evolution of reptiles', 'Theory of probability', 'Exploration of Antarctica'], 'loop_settings': {'min_loops': 5, 'max_loops': 10}}
+2024-10-06 00:30:54,218 - INFO - Testing ADB connection for device 25281JEGR07570
+2024-10-06 00:30:54,218 - INFO - Executing command: adb -s 25281JEGR07570 devices
+2024-10-06 00:30:54,260 - INFO - ADB Output: List of devices attached
+25281JEGR07570	device
+
+
+2024-10-06 00:30:54,261 - INFO - Starting tasks on Pixel 6a (25281JEGR07570)
+2024-10-06 00:30:54,261 - INFO - Running 9 loops on Pixel 6a
+2024-10-06 00:30:54,261 - INFO - Starting loop 1/9 on Pixel 6a
+2024-10-06 00:30:54,261 - INFO - Performing tasks on 25281JEGR07570
+2024-10-06 00:30:54,261 - INFO - Opening Wikipedia on 25281JEGR07570
+2024-10-06 00:30:54,261 - INFO - Executing command: adb -s 25281JEGR07570 shell am start -a android.intent.action.VIEW -d 'https://www.wikipedia.org'
+2024-10-06 00:30:54,368 - INFO - ADB Output: Starting: Intent { act=android.intent.action.VIEW dat=https://www.wikipedia.org/... }
+
+2024-10-06 00:30:54,368 - INFO - Waiting for 7.33 seconds.
+2024-10-06 00:31:01,703 - INFO - Performing search for 'Quantum mechanics' on 25281JEGR07570
+2024-10-06 00:31:01,703 - INFO - Executing command: adb -s 25281JEGR07570 shell input tap 500 300
+2024-10-06 00:31:01,786 - INFO - ADB Output: 
+2024-10-06 00:31:01,786 - INFO - Waiting for 3.07 seconds.
+2024-10-06 00:31:04,855 - INFO - Executing command: adb -s 25281JEGR07570 shell input text Q
+2024-10-06 00:31:04,952 - INFO - ADB Output: 
+2024-10-06 00:31:05,154 - INFO - Executing command: adb -s 25281JEGR07570 shell input text u
+2024-10-06 00:31:05,226 - INFO - ADB Output: 
+2024-10-06 00:31:05,411 - INFO - Executing command: adb -s 25281JEGR07570 shell input text a
+2024-10-06 00:31:05,501 - INFO - ADB Output: 
+2024-10-06 00:31:05,655 - INFO - Executing command: adb -s 25281JEGR07570 shell input text n
+2024-10-06 00:31:05,726 - INFO - ADB Output: 
+2024-10-06 00:31:06,018 - INFO - Executing command: adb -s 25281JEGR07570 shell input text t
+2024-10-06 00:31:06,113 - INFO - ADB Output: 
+2024-10-06 00:31:06,255 - INFO - Executing command: adb -s 25281JEGR07570 shell input text u
+2024-10-06 00:31:06,330 - INFO - ADB Output: 
+2024-10-06 00:31:06,561 - INFO - Executing command: adb -s 25281JEGR07570 shell input text m
+2024-10-06 00:31:06,651 - INFO - ADB Output: 
+2024-10-06 00:31:06,924 - INFO - Executing command: adb -s 25281JEGR07570 shell input text  
+2024-10-06 00:31:07,012 - INFO - ADB Output: 
+2024-10-06 00:31:07,012 - ERROR - ADB command error: 
+Exception occurred while executing 'text':
+java.lang.IllegalArgumentException: Argument expected after "text"
+	at com.android.modules.utils.BasicShellCommandHandler.getNextArgRequired(BasicShellCommandHandler.java:295)
+	at com.android.server.input.InputShellCommand.runText(InputShellCommand.java:362)
+	at com.android.server.input.InputShellCommand.onCommand(InputShellCommand.java:287)
+	at com.android.modules.utils.BasicShellCommandHandler.exec(BasicShellCommandHandler.java:97)
+	at android.os.ShellCommand.exec(ShellCommand.java:38)
+	at com.android.server.input.InputManagerService.onShellCommand(InputManagerService.java:3353)
+	at android.os.Binder.shellCommand(Binder.java:1230)
+	at android.os.Binder.onTransact(Binder.java:1043)
+	at android.hardware.input.IInputManager$Stub.onTransact(IInputManager.java:1428)
+	at android.os.Binder.execTransactInternal(Binder.java:1505)
+	at android.os.Binder.execTransact(Binder.java:1444)
+
+2024-10-06 00:31:07,013 - ERROR - ADB command failed with return code 255
+2024-10-06 00:31:07,156 - INFO - Executing command: adb -s 25281JEGR07570 shell input text m
+2024-10-06 00:31:07,233 - INFO - ADB Output: 
+2024-10-06 00:31:07,479 - INFO - Executing command: adb -s 25281JEGR07570 shell input text e
+2024-10-06 00:31:07,566 - INFO - ADB Output: 
+2024-10-06 00:31:07,689 - INFO - Executing command: adb -s 25281JEGR07570 shell input text c
+2024-10-06 00:31:07,772 - INFO - ADB Output: 
+2024-10-06 00:31:07,976 - INFO - Executing command: adb -s 25281JEGR07570 shell input text h
+2024-10-06 00:31:08,070 - INFO - ADB Output: 
+2024-10-06 00:31:08,174 - INFO - Executing command: adb -s 25281JEGR07570 shell input text a
+2024-10-06 00:31:08,255 - INFO - ADB Output: 
+2024-10-06 00:31:08,476 - INFO - Executing command: adb -s 25281JEGR07570 shell input text n
+2024-10-06 00:31:08,539 - INFO - ADB Output: 
+2024-10-06 00:31:08,746 - INFO - Executing command: adb -s 25281JEGR07570 shell input text i
+2024-10-06 00:31:08,811 - INFO - ADB Output: 
+2024-10-06 00:31:09,022 - INFO - Executing command: adb -s 25281JEGR07570 shell input text c
+2024-10-06 00:31:09,081 - INFO - ADB Output: 
+2024-10-06 00:31:09,271 - INFO - Executing command: adb -s 25281JEGR07570 shell input text s
+2024-10-06 00:31:09,345 - INFO - ADB Output: 
+2024-10-06 00:31:09,510 - INFO - Executing command: adb -s 25281JEGR07570 shell input keyevent 66
+2024-10-06 00:31:09,571 - INFO - ADB Output: 
+2024-10-06 00:31:09,572 - INFO - Waiting for 5.66 seconds.
+2024-10-06 00:31:15,231 - INFO - Scrolling through Wikipedia search results on 25281JEGR07570
+2024-10-06 00:31:15,231 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:31:15,590 - INFO - ADB Output: 
+2024-10-06 00:31:15,590 - INFO - Waiting for 2.59 seconds.
+2024-10-06 00:31:18,186 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:31:18,547 - INFO - ADB Output: 
+2024-10-06 00:31:18,547 - INFO - Waiting for 3.18 seconds.
+2024-10-06 00:31:21,726 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:31:22,101 - INFO - ADB Output: 
+2024-10-06 00:31:22,101 - INFO - Waiting for 3.06 seconds.
+2024-10-06 00:31:42,027 - INFO - Script starting...
+2024-10-06 00:31:42,027 - INFO - Loading configuration...
+2024-10-06 00:31:42,033 - INFO - Loaded configuration: {'devices': [{'id': '25281JEGR07570', 'alias': 'Pixel 6a'}], 'tasks': [{'wikipedia_search': True}], 'timing_parameters': {'min_delay_between_tasks': 3, 'max_delay_between_tasks': 10}, 'search_queries': ['Quantum mechanics', 'Artificial intelligence', 'Machine learning', 'History of the internet', 'Python programming language', 'Cryptography', 'History of space exploration', 'Renaissance art', 'Black hole formation', 'Photosynthesis process', 'Evolution of mammals', 'Ancient Egyptian civilization', 'History of the Roman Empire', 'Theory of relativity', 'Thermodynamics', 'Plate tectonics', 'History of World War II', 'String theory', 'History of computers', 'Blockchain technology', 'History of video games', 'Classical music composers', 'Baroque architecture', 'Genetic engineering', 'Nanotechnology', 'Particle physics', 'Augmented reality', 'Neuroscience breakthroughs', 'Cybersecurity threats', 'History of encryption', 'Quantum computing', '3D printing technology', 'History of mathematics', 'Dark matter', 'Fossil fuel impact on the environment', 'History of photography', 'Ocean ecosystems', 'History of human migration', 'Evolution of birds', 'History of astronomy', 'Meteorology and climate change', 'Cultural anthropology', 'History of the Silk Road', "Fermat's last theorem", 'Number theory', 'Medieval history of Europe', 'Colonialism in Africa', 'History of medicine', 'DNA replication process', 'Types of renewable energy', 'The Big Bang theory', 'Human immune system', 'The Industrial Revolution', 'History of robotics', 'Astrobiology', 'History of aviation', 'History of the English language', 'Cognitive psychology', 'Philosophy of mind', 'Evolutionary biology', 'Globalization and its effects', 'Subatomic particles', 'History of feminism', 'Virtual reality', 'Greek mythology', 'World mythology', "Saturn's rings", 'History of democracy', 'History of quantum theory', 'Oceanography', 'History of artificial intelligence', 'Sustainable agriculture', 'Human body systems', 'Evolution of insects', 'History of the internet', 'Mitochondrial DNA', 'History of blockchain', 'Wireless communication technology', 'Cryptocurrency', 'History of transportation', 'Space colonization', 'History of timekeeping', 'Space shuttle program', 'History of theater', 'Ancient Greek philosophy', 'Relativity and spacetime', 'Nuclear fusion', 'Biodiversity conservation', 'History of printing press', 'Dark web', 'Climate change and global warming', 'Types of social networks', 'History of space exploration', 'History of antibiotics', 'History of artificial satellites', 'Cognitive behavioral therapy', 'Exoplanets', 'Mars rovers', 'Ethics of AI', 'Drone technology', 'Nuclear energy', 'Virtual economies', 'Space telescopes', 'Submarine communications', 'Ecosystems of the Amazon rainforest', 'History of ancient China', 'Human brain anatomy', 'Evolution of reptiles', 'Theory of probability', 'Exploration of Antarctica'], 'loop_settings': {'min_loops': 5, 'max_loops': 10}}
+2024-10-06 00:31:42,033 - INFO - Testing ADB connection for device 25281JEGR07570
+2024-10-06 00:31:42,033 - INFO - Executing command: adb -s 25281JEGR07570 devices
+2024-10-06 00:31:42,078 - INFO - ADB Output: List of devices attached
+25281JEGR07570	device
+
+
+2024-10-06 00:31:42,079 - INFO - Starting tasks on Pixel 6a (25281JEGR07570)
+2024-10-06 00:31:42,079 - INFO - Running 7 loops on Pixel 6a
+2024-10-06 00:31:42,079 - INFO - Starting loop 1/7 on Pixel 6a
+2024-10-06 00:31:42,079 - INFO - Performing tasks on 25281JEGR07570
+2024-10-06 00:31:42,079 - INFO - Opening Wikipedia on 25281JEGR07570
+2024-10-06 00:31:42,079 - INFO - Executing command: adb -s 25281JEGR07570 shell am start -a android.intent.action.VIEW -d 'https://www.wikipedia.org'
+2024-10-06 00:31:42,171 - INFO - ADB Output: Starting: Intent { act=android.intent.action.VIEW dat=https://www.wikipedia.org/... }
+
+2024-10-06 00:31:42,171 - INFO - Waiting for 6.93 seconds.
+2024-10-06 00:31:49,101 - INFO - Performing search for 'Quantum mechanics' on 25281JEGR07570
+2024-10-06 00:31:49,101 - INFO - Executing command: adb -s 25281JEGR07570 shell input text 'Quantum'
+2024-10-06 00:31:49,653 - INFO - ADB Output: 
+2024-10-06 00:31:49,653 - INFO - Executing command: adb -s 25281JEGR07570 shell input text '%20'
+2024-10-06 00:31:49,799 - INFO - ADB Output: 
+2024-10-06 00:31:49,800 - INFO - Executing command: adb -s 25281JEGR07570 shell input text 'mechanics'
+2024-10-06 00:31:49,988 - INFO - ADB Output: 
+2024-10-06 00:31:49,989 - INFO - Executing command: adb -s 25281JEGR07570 shell input text '%20'
+2024-10-06 00:31:50,081 - INFO - ADB Output: 
+2024-10-06 00:31:50,081 - INFO - Executing command: adb -s 25281JEGR07570 shell input keyevent 66
+2024-10-06 00:31:50,173 - INFO - ADB Output: 
+2024-10-06 00:31:50,173 - INFO - Waiting for 9.83 seconds.
+2024-10-06 00:32:00,005 - INFO - Scrolling through Wikipedia search results on 25281JEGR07570
+2024-10-06 00:32:00,006 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:32:00,429 - INFO - ADB Output: 
+2024-10-06 00:32:00,429 - INFO - Waiting for 3.63 seconds.
+2024-10-06 00:32:04,060 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:32:04,450 - INFO - ADB Output: 
+2024-10-06 00:32:04,450 - INFO - Waiting for 2.43 seconds.
+2024-10-06 00:32:06,876 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:32:07,235 - INFO - ADB Output: 
+2024-10-06 00:32:07,235 - INFO - Waiting for 3.43 seconds.
+2024-10-06 00:32:10,665 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:32:11,045 - INFO - ADB Output: 
+2024-10-06 00:32:11,045 - INFO - Waiting for 3.63 seconds.
+2024-10-06 00:32:27,941 - INFO - Script starting...
+2024-10-06 00:32:27,942 - INFO - Loading configuration...
+2024-10-06 00:32:27,951 - INFO - Loaded configuration: {'devices': [{'id': '25281JEGR07570', 'alias': 'Pixel 6a'}], 'tasks': [{'wikipedia_search': True}], 'timing_parameters': {'min_delay_between_tasks': 3, 'max_delay_between_tasks': 10}, 'search_queries': ['Quantum mechanics', 'Artificial intelligence', 'Machine learning', 'History of the internet', 'Python programming language', 'Cryptography', 'History of space exploration', 'Renaissance art', 'Black hole formation', 'Photosynthesis process', 'Evolution of mammals', 'Ancient Egyptian civilization', 'History of the Roman Empire', 'Theory of relativity', 'Thermodynamics', 'Plate tectonics', 'History of World War II', 'String theory', 'History of computers', 'Blockchain technology', 'History of video games', 'Classical music composers', 'Baroque architecture', 'Genetic engineering', 'Nanotechnology', 'Particle physics', 'Augmented reality', 'Neuroscience breakthroughs', 'Cybersecurity threats', 'History of encryption', 'Quantum computing', '3D printing technology', 'History of mathematics', 'Dark matter', 'Fossil fuel impact on the environment', 'History of photography', 'Ocean ecosystems', 'History of human migration', 'Evolution of birds', 'History of astronomy', 'Meteorology and climate change', 'Cultural anthropology', 'History of the Silk Road', "Fermat's last theorem", 'Number theory', 'Medieval history of Europe', 'Colonialism in Africa', 'History of medicine', 'DNA replication process', 'Types of renewable energy', 'The Big Bang theory', 'Human immune system', 'The Industrial Revolution', 'History of robotics', 'Astrobiology', 'History of aviation', 'History of the English language', 'Cognitive psychology', 'Philosophy of mind', 'Evolutionary biology', 'Globalization and its effects', 'Subatomic particles', 'History of feminism', 'Virtual reality', 'Greek mythology', 'World mythology', "Saturn's rings", 'History of democracy', 'History of quantum theory', 'Oceanography', 'History of artificial intelligence', 'Sustainable agriculture', 'Human body systems', 'Evolution of insects', 'History of the internet', 'Mitochondrial DNA', 'History of blockchain', 'Wireless communication technology', 'Cryptocurrency', 'History of transportation', 'Space colonization', 'History of timekeeping', 'Space shuttle program', 'History of theater', 'Ancient Greek philosophy', 'Relativity and spacetime', 'Nuclear fusion', 'Biodiversity conservation', 'History of printing press', 'Dark web', 'Climate change and global warming', 'Types of social networks', 'History of space exploration', 'History of antibiotics', 'History of artificial satellites', 'Cognitive behavioral therapy', 'Exoplanets', 'Mars rovers', 'Ethics of AI', 'Drone technology', 'Nuclear energy', 'Virtual economies', 'Space telescopes', 'Submarine communications', 'Ecosystems of the Amazon rainforest', 'History of ancient China', 'Human brain anatomy', 'Evolution of reptiles', 'Theory of probability', 'Exploration of Antarctica'], 'loop_settings': {'min_loops': 5, 'max_loops': 10}}
+2024-10-06 00:32:27,952 - INFO - Testing ADB connection for device 25281JEGR07570
+2024-10-06 00:32:27,952 - INFO - Executing command: adb -s 25281JEGR07570 devices
+2024-10-06 00:32:27,997 - INFO - ADB Output: List of devices attached
+25281JEGR07570	device
+
+
+2024-10-06 00:32:27,998 - INFO - Starting tasks on Pixel 6a (25281JEGR07570)
+2024-10-06 00:32:27,998 - INFO - Running 10 loops on Pixel 6a
+2024-10-06 00:32:27,998 - INFO - Starting loop 1/10 on Pixel 6a
+2024-10-06 00:32:27,998 - INFO - Performing tasks on 25281JEGR07570
+2024-10-06 00:32:27,998 - INFO - Opening Wikipedia on 25281JEGR07570
+2024-10-06 00:32:27,998 - INFO - Executing command: adb -s 25281JEGR07570 shell am start -a android.intent.action.VIEW -d 'https://www.wikipedia.org'
+2024-10-06 00:32:28,115 - INFO - ADB Output: Starting: Intent { act=android.intent.action.VIEW dat=https://www.wikipedia.org/... }
+
+2024-10-06 00:32:28,115 - INFO - Waiting for 5.45 seconds.
+2024-10-06 00:32:33,562 - INFO - Performing search for 'Quantum mechanics' on 25281JEGR07570
+2024-10-06 00:32:33,562 - INFO - Executing command: adb -s 25281JEGR07570 shell input text 'Quantum'
+2024-10-06 00:32:33,825 - INFO - ADB Output: 
+2024-10-06 00:32:33,825 - INFO - Executing command: adb -s 25281JEGR07570 shell input text ' '
+2024-10-06 00:32:33,966 - INFO - ADB Output: 
+2024-10-06 00:32:33,966 - INFO - Executing command: adb -s 25281JEGR07570 shell input text 'mechanics'
+2024-10-06 00:32:34,141 - INFO - ADB Output: 
+2024-10-06 00:32:34,142 - INFO - Executing command: adb -s 25281JEGR07570 shell input text ' '
+2024-10-06 00:32:34,225 - INFO - ADB Output: 
+2024-10-06 00:32:34,225 - INFO - Executing command: adb -s 25281JEGR07570 shell input keyevent 66
+2024-10-06 00:32:34,309 - INFO - ADB Output: 
+2024-10-06 00:32:34,309 - INFO - Waiting for 6.31 seconds.
+2024-10-06 00:32:40,625 - INFO - Scrolling through Wikipedia search results on 25281JEGR07570
+2024-10-06 00:32:40,626 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:32:41,031 - INFO - ADB Output: 
+2024-10-06 00:32:41,033 - INFO - Waiting for 2.83 seconds.
+2024-10-06 00:32:43,863 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:32:44,228 - INFO - ADB Output: 
+2024-10-06 00:32:44,228 - INFO - Waiting for 3.83 seconds.
+2024-10-06 00:32:48,060 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:32:48,464 - INFO - ADB Output: 
+2024-10-06 00:32:48,464 - INFO - Waiting for 2.14 seconds.
+2024-10-06 00:32:50,611 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:32:50,988 - INFO - ADB Output: 
+2024-10-06 00:32:50,988 - INFO - Waiting for 2.72 seconds.
+2024-10-06 00:32:53,704 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:32:54,064 - INFO - ADB Output: 
+2024-10-06 00:32:54,064 - INFO - Waiting for 3.89 seconds.
+2024-10-06 00:32:57,955 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:32:58,321 - INFO - ADB Output: 
+2024-10-06 00:32:58,321 - INFO - Waiting for 3.58 seconds.
+2024-10-06 00:33:01,906 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:33:02,282 - INFO - ADB Output: 
+2024-10-06 00:33:02,282 - INFO - Waiting for 2.56 seconds.
+2024-10-06 00:33:04,839 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 500
+2024-10-06 00:33:05,212 - INFO - ADB Output: 
+2024-10-06 00:33:05,212 - INFO - Waiting for 2.52 seconds.
+2024-10-06 00:33:07,729 - INFO - Returning to Wikipedia main page on 25281JEGR07570
+2024-10-06 00:33:07,729 - INFO - Executing command: adb -s 25281JEGR07570 shell input keyevent 4
+2024-10-06 00:33:07,813 - INFO - ADB Output: 
+2024-10-06 00:33:07,814 - INFO - Waiting for 2.69 seconds.
+2024-10-06 00:33:10,505 - INFO - Waiting for 6.22 seconds.
+2024-10-06 00:33:16,729 - INFO - Performing search for 'Artificial intelligence' on 25281JEGR07570
+2024-10-06 00:33:16,729 - INFO - Executing command: adb -s 25281JEGR07570 shell input text 'Artificial'
+2024-10-06 00:33:16,873 - INFO - ADB Output: 
+2024-10-06 00:33:16,873 - INFO - Executing command: adb -s 25281JEGR07570 shell input text ' '
+2024-10-06 00:33:16,953 - INFO - ADB Output: 
+2024-10-06 00:33:16,953 - INFO - Executing command: adb -s 25281JEGR07570 shell input text 'intelligence'
+2024-10-06 00:33:17,040 - INFO - ADB Output: 
+2024-10-06 00:33:17,041 - INFO - Executing command: adb -s 25281JEGR07570 shell input text ' '
+2024-10-06 00:33:17,104 - INFO - ADB Output: 
+2024-10-06 00:33:17,105 - INFO - Executing command: adb -s 25281JEGR07570 shell input keyevent 66
+2024-10-06 00:33:17,165 - INFO - ADB Output: 
+2024-10-06 00:33:17,165 - INFO - Waiting for 6.07 seconds.
+2024-10-06 00:34:51,304 - INFO - Script starting...
+2024-10-06 00:34:51,304 - INFO - Loading configuration...
+2024-10-06 00:34:51,309 - INFO - Loaded configuration: {'devices': [{'id': '25281JEGR07570', 'alias': 'Pixel 6a'}], 'tasks': [{'wikipedia_search': True}], 'timing_parameters': {'min_delay_between_tasks': 3, 'max_delay_between_tasks': 10}, 'search_queries': ['Quantum mechanics', 'Artificial intelligence', 'Machine learning', 'History of the internet', 'Python programming language', 'Cryptography', 'History of space exploration', 'Renaissance art', 'Black hole formation', 'Photosynthesis process', 'Evolution of mammals', 'Ancient Egyptian civilization', 'History of the Roman Empire', 'Theory of relativity', 'Thermodynamics', 'Plate tectonics', 'History of World War II', 'String theory', 'History of computers', 'Blockchain technology', 'History of video games', 'Classical music composers', 'Baroque architecture', 'Genetic engineering', 'Nanotechnology', 'Particle physics', 'Augmented reality', 'Neuroscience breakthroughs', 'Cybersecurity threats', 'History of encryption', 'Quantum computing', '3D printing technology', 'History of mathematics', 'Dark matter', 'Fossil fuel impact on the environment', 'History of photography', 'Ocean ecosystems', 'History of human migration', 'Evolution of birds', 'History of astronomy', 'Meteorology and climate change', 'Cultural anthropology', 'History of the Silk Road', "Fermat's last theorem", 'Number theory', 'Medieval history of Europe', 'Colonialism in Africa', 'History of medicine', 'DNA replication process', 'Types of renewable energy', 'The Big Bang theory', 'Human immune system', 'The Industrial Revolution', 'History of robotics', 'Astrobiology', 'History of aviation', 'History of the English language', 'Cognitive psychology', 'Philosophy of mind', 'Evolutionary biology', 'Globalization and its effects', 'Subatomic particles', 'History of feminism', 'Virtual reality', 'Greek mythology', 'World mythology', "Saturn's rings", 'History of democracy', 'History of quantum theory', 'Oceanography', 'History of artificial intelligence', 'Sustainable agriculture', 'Human body systems', 'Evolution of insects', 'History of the internet', 'Mitochondrial DNA', 'History of blockchain', 'Wireless communication technology', 'Cryptocurrency', 'History of transportation', 'Space colonization', 'History of timekeeping', 'Space shuttle program', 'History of theater', 'Ancient Greek philosophy', 'Relativity and spacetime', 'Nuclear fusion', 'Biodiversity conservation', 'History of printing press', 'Dark web', 'Climate change and global warming', 'Types of social networks', 'History of space exploration', 'History of antibiotics', 'History of artificial satellites', 'Cognitive behavioral therapy', 'Exoplanets', 'Mars rovers', 'Ethics of AI', 'Drone technology', 'Nuclear energy', 'Virtual economies', 'Space telescopes', 'Submarine communications', 'Ecosystems of the Amazon rainforest', 'History of ancient China', 'Human brain anatomy', 'Evolution of reptiles', 'Theory of probability', 'Exploration of Antarctica'], 'loop_settings': {'min_loops': 5, 'max_loops': 10}}
+2024-10-06 00:34:51,311 - INFO - Testing ADB connection for device 25281JEGR07570
+2024-10-06 00:34:51,311 - INFO - Executing command: adb -s 25281JEGR07570 devices
+2024-10-06 00:34:51,352 - INFO - ADB Output: List of devices attached
+25281JEGR07570	device
+
+
+2024-10-06 00:34:51,352 - INFO - Starting tasks on Pixel 6a (25281JEGR07570)
+2024-10-06 00:34:51,352 - INFO - Running 8 loops on Pixel 6a
+2024-10-06 00:34:51,352 - INFO - Starting loop 1/8 on Pixel 6a
+2024-10-06 00:34:51,353 - INFO - Performing tasks on 25281JEGR07570
+2024-10-06 00:34:51,353 - INFO - Opening Wikipedia on 25281JEGR07570
+2024-10-06 00:34:51,353 - INFO - Executing command: adb -s 25281JEGR07570 shell am start -a android.intent.action.VIEW -d 'https://www.wikipedia.org'
+2024-10-06 00:34:51,491 - INFO - ADB Output: Starting: Intent { act=android.intent.action.VIEW dat=https://www.wikipedia.org/... }
+
+2024-10-06 00:34:51,491 - INFO - Waiting for 6.19 seconds.
+2024-10-06 00:34:57,677 - INFO - Performing search for 'Quantum mechanics' on 25281JEGR07570
+2024-10-06 00:34:57,677 - INFO - Executing command: adb -s 25281JEGR07570 shell input text 'Quantum'
+2024-10-06 00:34:57,961 - INFO - ADB Output: 
+2024-10-06 00:34:57,962 - INFO - Executing command: adb -s 25281JEGR07570 shell input text ' '
+2024-10-06 00:34:58,094 - INFO - ADB Output: 
+2024-10-06 00:34:58,095 - INFO - Executing command: adb -s 25281JEGR07570 shell input text 'mechanics'
+2024-10-06 00:34:58,319 - INFO - ADB Output: 
+2024-10-06 00:34:58,319 - INFO - Executing command: adb -s 25281JEGR07570 shell input text ' '
+2024-10-06 00:34:58,402 - INFO - ADB Output: 
+2024-10-06 00:34:58,403 - INFO - Executing command: adb -s 25281JEGR07570 shell input keyevent 66
+2024-10-06 00:34:58,488 - INFO - ADB Output: 
+2024-10-06 00:34:58,489 - INFO - Waiting for 9.79 seconds.
+2024-10-06 00:35:08,282 - INFO - Scrolling through Wikipedia search results on 25281JEGR07570
+2024-10-06 00:35:08,282 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 1000
+2024-10-06 00:35:08,676 - INFO - ADB Output: 
+2024-10-06 00:35:08,676 - INFO - Waiting for 4.99 seconds.
+2024-10-06 00:35:13,664 - INFO - Completed scroll 1/3 and paused for reading
+2024-10-06 00:35:13,664 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 1000
+2024-10-06 00:35:14,047 - INFO - ADB Output: 
+2024-10-06 00:35:14,047 - INFO - Waiting for 4.66 seconds.
+2024-10-06 00:35:18,709 - INFO - Completed scroll 2/3 and paused for reading
+2024-10-06 00:35:18,709 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 1000
+2024-10-06 00:35:19,085 - INFO - ADB Output: 
+2024-10-06 00:35:19,087 - INFO - Waiting for 4.13 seconds.
+2024-10-06 00:35:23,221 - INFO - Completed scroll 3/3 and paused for reading
+2024-10-06 00:35:23,221 - INFO - Waiting for 8.04 seconds.
+2024-10-06 00:35:31,258 - INFO - Opening Wikipedia on 25281JEGR07570
+2024-10-06 00:35:31,258 - INFO - Executing command: adb -s 25281JEGR07570 shell am start -a android.intent.action.VIEW -d 'https://www.wikipedia.org'
+2024-10-06 00:35:31,405 - INFO - ADB Output: Starting: Intent { act=android.intent.action.VIEW dat=https://www.wikipedia.org/... }
+
+2024-10-06 00:35:31,406 - INFO - Waiting for 6.57 seconds.
+2024-10-06 00:35:38,419 - INFO - Script starting...
+2024-10-06 00:35:38,420 - INFO - Loading configuration...
+2024-10-06 00:35:38,426 - INFO - Loaded configuration: {'devices': [{'id': '25281JEGR07570', 'alias': 'Pixel 6a'}], 'tasks': [{'wikipedia_search': True}], 'timing_parameters': {'min_delay_between_tasks': 3, 'max_delay_between_tasks': 10}, 'search_queries': ['Quantum mechanics', 'Artificial intelligence', 'Machine learning', 'History of the internet', 'Python programming language', 'Cryptography', 'History of space exploration', 'Renaissance art', 'Black hole formation', 'Photosynthesis process', 'Evolution of mammals', 'Ancient Egyptian civilization', 'History of the Roman Empire', 'Theory of relativity', 'Thermodynamics', 'Plate tectonics', 'History of World War II', 'String theory', 'History of computers', 'Blockchain technology', 'History of video games', 'Classical music composers', 'Baroque architecture', 'Genetic engineering', 'Nanotechnology', 'Particle physics', 'Augmented reality', 'Neuroscience breakthroughs', 'Cybersecurity threats', 'History of encryption', 'Quantum computing', '3D printing technology', 'History of mathematics', 'Dark matter', 'Fossil fuel impact on the environment', 'History of photography', 'Ocean ecosystems', 'History of human migration', 'Evolution of birds', 'History of astronomy', 'Meteorology and climate change', 'Cultural anthropology', 'History of the Silk Road', "Fermat's last theorem", 'Number theory', 'Medieval history of Europe', 'Colonialism in Africa', 'History of medicine', 'DNA replication process', 'Types of renewable energy', 'The Big Bang theory', 'Human immune system', 'The Industrial Revolution', 'History of robotics', 'Astrobiology', 'History of aviation', 'History of the English language', 'Cognitive psychology', 'Philosophy of mind', 'Evolutionary biology', 'Globalization and its effects', 'Subatomic particles', 'History of feminism', 'Virtual reality', 'Greek mythology', 'World mythology', "Saturn's rings", 'History of democracy', 'History of quantum theory', 'Oceanography', 'History of artificial intelligence', 'Sustainable agriculture', 'Human body systems', 'Evolution of insects', 'History of the internet', 'Mitochondrial DNA', 'History of blockchain', 'Wireless communication technology', 'Cryptocurrency', 'History of transportation', 'Space colonization', 'History of timekeeping', 'Space shuttle program', 'History of theater', 'Ancient Greek philosophy', 'Relativity and spacetime', 'Nuclear fusion', 'Biodiversity conservation', 'History of printing press', 'Dark web', 'Climate change and global warming', 'Types of social networks', 'History of space exploration', 'History of antibiotics', 'History of artificial satellites', 'Cognitive behavioral therapy', 'Exoplanets', 'Mars rovers', 'Ethics of AI', 'Drone technology', 'Nuclear energy', 'Virtual economies', 'Space telescopes', 'Submarine communications', 'Ecosystems of the Amazon rainforest', 'History of ancient China', 'Human brain anatomy', 'Evolution of reptiles', 'Theory of probability', 'Exploration of Antarctica'], 'loop_settings': {'min_loops': 5, 'max_loops': 10}}
+2024-10-06 00:35:38,427 - INFO - Testing ADB connection for device 25281JEGR07570
+2024-10-06 00:35:38,427 - INFO - Executing command: adb -s 25281JEGR07570 devices
+2024-10-06 00:35:38,468 - INFO - ADB Output: List of devices attached
+25281JEGR07570	device
+
+
+2024-10-06 00:35:38,470 - INFO - Starting tasks on Pixel 6a (25281JEGR07570)
+2024-10-06 00:35:38,470 - INFO - Running 7 loops on Pixel 6a
+2024-10-06 00:35:38,470 - INFO - Starting loop 1/7 on Pixel 6a
+2024-10-06 00:35:38,470 - INFO - Performing tasks on 25281JEGR07570
+2024-10-06 00:35:38,470 - INFO - Opening Wikipedia on 25281JEGR07570
+2024-10-06 00:35:38,470 - INFO - Executing command: adb -s 25281JEGR07570 shell am start -a android.intent.action.VIEW -d 'https://www.wikipedia.org'
+2024-10-06 00:35:38,588 - INFO - ADB Output: Starting: Intent { act=android.intent.action.VIEW dat=https://www.wikipedia.org/... }
+
+2024-10-06 00:35:38,588 - INFO - Waiting for 7.70 seconds.
+2024-10-06 00:35:46,286 - INFO - Performing search for 'Evolutionary biology' on 25281JEGR07570
+2024-10-06 00:35:46,286 - INFO - Performing search for 'Evolutionary biology' on 25281JEGR07570
+2024-10-06 00:35:46,286 - INFO - Executing command: adb -s 25281JEGR07570 shell input text 'Evolutionary'
+2024-10-06 00:35:46,620 - INFO - ADB Output: 
+2024-10-06 00:35:46,620 - INFO - Executing command: adb -s 25281JEGR07570 shell input text ' '
+2024-10-06 00:35:46,745 - INFO - ADB Output: 
+2024-10-06 00:35:46,746 - INFO - Executing command: adb -s 25281JEGR07570 shell input text 'biology'
+2024-10-06 00:35:46,862 - INFO - ADB Output: 
+2024-10-06 00:35:46,862 - INFO - Executing command: adb -s 25281JEGR07570 shell input text ' '
+2024-10-06 00:35:46,949 - INFO - ADB Output: 
+2024-10-06 00:35:46,950 - INFO - Executing command: adb -s 25281JEGR07570 shell input keyevent 66
+2024-10-06 00:35:47,015 - INFO - ADB Output: 
+2024-10-06 00:35:47,015 - INFO - Waiting for 9.57 seconds.
+2024-10-06 00:35:56,586 - INFO - Scrolling through Wikipedia search results on 25281JEGR07570
+2024-10-06 00:35:56,586 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 1000
+2024-10-06 00:35:56,960 - INFO - ADB Output: 
+2024-10-06 00:35:56,960 - INFO - Waiting for 4.28 seconds.
+2024-10-06 00:36:01,237 - INFO - Completed scroll 1/3 and paused for reading
+2024-10-06 00:36:01,237 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 1000
+2024-10-06 00:36:01,597 - INFO - ADB Output: 
+2024-10-06 00:36:01,597 - INFO - Waiting for 4.83 seconds.
+2024-10-06 00:36:06,430 - INFO - Completed scroll 2/3 and paused for reading
+2024-10-06 00:36:06,430 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 1000
+2024-10-06 00:36:06,797 - INFO - ADB Output: 
+2024-10-06 00:36:06,797 - INFO - Waiting for 5.79 seconds.
+2024-10-06 00:36:12,586 - INFO - Completed scroll 3/3 and paused for reading
+2024-10-06 00:36:12,586 - INFO - Waiting for 9.89 seconds.
+2024-10-06 00:36:22,473 - INFO - Opening Wikipedia on 25281JEGR07570
+2024-10-06 00:36:22,473 - INFO - Executing command: adb -s 25281JEGR07570 shell am start -a android.intent.action.VIEW -d 'https://www.wikipedia.org'
+2024-10-06 00:36:22,558 - INFO - ADB Output: Starting: Intent { act=android.intent.action.VIEW dat=https://www.wikipedia.org/... }
+
+2024-10-06 00:36:22,559 - INFO - Waiting for 6.60 seconds.
+2024-10-06 00:36:29,163 - INFO - Performing search for 'History of space exploration' on 25281JEGR07570
+2024-10-06 00:36:29,163 - INFO - Performing search for 'History of space exploration' on 25281JEGR07570
+2024-10-06 00:36:29,163 - INFO - Executing command: adb -s 25281JEGR07570 shell input text 'History'
+2024-10-06 00:36:29,391 - INFO - ADB Output: 
+2024-10-06 00:36:29,392 - INFO - Executing command: adb -s 25281JEGR07570 shell input text ' '
+2024-10-06 00:36:29,533 - INFO - ADB Output: 
+2024-10-06 00:36:29,534 - INFO - Executing command: adb -s 25281JEGR07570 shell input text 'of'
+2024-10-06 00:36:29,637 - INFO - ADB Output: 
+2024-10-06 00:36:29,637 - INFO - Executing command: adb -s 25281JEGR07570 shell input text ' '
+2024-10-06 00:36:29,699 - INFO - ADB Output: 
+2024-10-06 00:36:29,699 - INFO - Executing command: adb -s 25281JEGR07570 shell input text 'space'
+2024-10-06 00:36:29,800 - INFO - ADB Output: 
+2024-10-06 00:36:29,800 - INFO - Executing command: adb -s 25281JEGR07570 shell input text ' '
+2024-10-06 00:36:29,868 - INFO - ADB Output: 
+2024-10-06 00:36:29,868 - INFO - Executing command: adb -s 25281JEGR07570 shell input text 'exploration'
+2024-10-06 00:36:30,011 - INFO - ADB Output: 
+2024-10-06 00:36:30,011 - INFO - Executing command: adb -s 25281JEGR07570 shell input text ' '
+2024-10-06 00:36:30,086 - INFO - ADB Output: 
+2024-10-06 00:36:30,086 - INFO - Executing command: adb -s 25281JEGR07570 shell input keyevent 66
+2024-10-06 00:36:30,166 - INFO - ADB Output: 
+2024-10-06 00:36:30,166 - INFO - Waiting for 9.75 seconds.
+2024-10-06 00:36:39,913 - INFO - Scrolling through Wikipedia search results on 25281JEGR07570
+2024-10-06 00:36:39,913 - INFO - Executing command: adb -s 25281JEGR07570 shell input swipe 500 1500 500 1000
+2024-10-06 00:36:40,276 - INFO - ADB Output: 
+2024-10-06 00:36:40,276 - INFO - Waiting for 4.81 seconds.
+2024-10-06 00:37:58,915 - INFO - Script starting...
+2024-10-06 00:37:58,915 - INFO - Loading configuration...
+2024-10-06 00:37:58,922 - INFO - Configuration loaded: {'devices': [{'id': '25281JEGR07570', 'alias': 'Pixel 6a'}], 'tasks': [{'wikipedia_search': True}], 'timing_parameters': {'min_delay_between_tasks': 3, 'max_delay_between_tasks': 10}, 'search_queries': ['Quantum mechanics', 'Artificial intelligence', 'Machine learning', 'History of the internet', 'Python programming language', 'Cryptography', 'History of space exploration', 'Renaissance art', 'Black hole formation', 'Photosynthesis process', 'Evolution of mammals', 'Ancient Egyptian civilization', 'History of the Roman Empire', 'Theory of relativity', 'Thermodynamics', 'Plate tectonics', 'History of World War II', 'String theory', 'History of computers', 'Blockchain technology', 'History of video games', 'Classical music composers', 'Baroque architecture', 'Genetic engineering', 'Nanotechnology', 'Particle physics', 'Augmented reality', 'Neuroscience breakthroughs', 'Cybersecurity threats', 'History of encryption', 'Quantum computing', '3D printing technology', 'History of mathematics', 'Dark matter', 'Fossil fuel impact on the environment', 'History of photography', 'Ocean ecosystems', 'History of human migration', 'Evolution of birds', 'History of astronomy', 'Meteorology and climate change', 'Cultural anthropology', 'History of the Silk Road', "Fermat's last theorem", 'Number theory', 'Medieval history of Europe', 'Colonialism in Africa', 'History of medicine', 'DNA replication process', 'Types of renewable energy', 'The Big Bang theory', 'Human immune system', 'The Industrial Revolution', 'History of robotics', 'Astrobiology', 'History of aviation', 'History of the English language', 'Cognitive psychology', 'Philosophy of mind', 'Evolutionary biology', 'Globalization and its effects', 'Subatomic particles', 'History of feminism', 'Virtual reality', 'Greek mythology', 'World mythology', "Saturn's rings", 'History of democracy', 'History of quantum theory', 'Oceanography', 'History of artificial intelligence', 'Sustainable agriculture', 'Human body systems', 'Evolution of insects', 'History of the internet', 'Mitochondrial DNA', 'History of blockchain', 'Wireless communication technology', 'Cryptocurrency', 'History of transportation', 'Space colonization', 'History of timekeeping', 'Space shuttle program', 'History of theater', 'Ancient Greek philosophy', 'Relativity and spacetime', 'Nuclear fusion', 'Biodiversity conservation', 'History of printing press', 'Dark web', 'Climate change and global warming', 'Types of social networks', 'History of space exploration', 'History of antibiotics', 'History of artificial satellites', 'Cognitive behavioral therapy', 'Exoplanets', 'Mars rovers', 'Ethics of AI', 'Drone technology', 'Nuclear energy', 'Virtual economies', 'Space telescopes', 'Submarine communications', 'Ecosystems of the Amazon rainforest', 'History of ancient China', 'Human brain anatomy', 'Evolution of reptiles', 'Theory of probability', 'Exploration of Antarctica'], 'loop_settings': {'min_loops': 5, 'max_loops': 10}}
+2024-10-06 00:37:58,922 - INFO - Testing ADB connection for device 25281JEGR07570
+2024-10-06 00:37:58,965 - INFO - Starting task loop for device 25281JEGR07570
+2024-10-06 00:37:58,965 - INFO - Running 10 loops on 25281JEGR07570
+2024-10-06 00:37:58,965 - INFO - Starting loop 1/10 on 25281JEGR07570
+2024-10-06 00:37:58,966 - INFO - Starting tasks on 25281JEGR07570
+2024-10-06 00:37:58,966 - INFO - Opening Wikipedia on 25281JEGR07570
+2024-10-06 00:38:05,098 - INFO - Searching for 'Ancient Egyptian civilization' on 25281JEGR07570
+2024-10-06 00:38:12,698 - INFO - Scrolling and reading on 25281JEGR07570
+2024-10-06 00:38:13,066 - INFO - Reading for 19.69 seconds after scroll 1/3
+2024-10-06 00:38:33,134 - INFO - Reading for 18.48 seconds after scroll 2/3
+2024-10-06 00:38:52,022 - INFO - Reading for 24.48 seconds after scroll 3/3
+2024-10-06 00:39:24,885 - INFO - Opening Wikipedia on 25281JEGR07570
+2024-10-06 00:39:30,335 - INFO - Searching for 'Exoplanets' on 25281JEGR07570
+2024-10-06 00:39:37,148 - INFO - Scrolling and reading on 25281JEGR07570
+2024-10-06 00:39:37,569 - INFO - Reading for 23.18 seconds after scroll 1/3
+2024-10-06 00:40:01,141 - INFO - Reading for 22.03 seconds after scroll 2/3
+2024-10-06 00:40:20,794 - INFO - Script starting...
+2024-10-06 00:40:20,795 - INFO - Loading configuration...
+2024-10-06 00:40:20,800 - INFO - Configuration loaded: {'devices': [{'id': '25281JEGR07570', 'alias': 'Pixel 6a'}], 'tasks': [{'wikipedia_search': True}], 'timing_parameters': {'min_delay_between_tasks': 3, 'max_delay_between_tasks': 10}, 'search_queries': ['Quantum mechanics', 'Artificial intelligence', 'Machine learning', 'History of the internet', 'Python programming language', 'Cryptography', 'History of space exploration', 'Renaissance art', 'Black hole formation', 'Photosynthesis process', 'Evolution of mammals', 'Ancient Egyptian civilization', 'History of the Roman Empire', 'Theory of relativity', 'Thermodynamics', 'Plate tectonics', 'History of World War II', 'String theory', 'History of computers', 'Blockchain technology', 'History of video games', 'Classical music composers', 'Baroque architecture', 'Genetic engineering', 'Nanotechnology', 'Particle physics', 'Augmented reality', 'Neuroscience breakthroughs', 'Cybersecurity threats', 'History of encryption', 'Quantum computing', '3D printing technology', 'History of mathematics', 'Dark matter', 'Fossil fuel impact on the environment', 'History of photography', 'Ocean ecosystems', 'History of human migration', 'Evolution of birds', 'History of astronomy', 'Meteorology and climate change', 'Cultural anthropology', 'History of the Silk Road', "Fermat's last theorem", 'Number theory', 'Medieval history of Europe', 'Colonialism in Africa', 'History of medicine', 'DNA replication process', 'Types of renewable energy', 'The Big Bang theory', 'Human immune system', 'The Industrial Revolution', 'History of robotics', 'Astrobiology', 'History of aviation', 'History of the English language', 'Cognitive psychology', 'Philosophy of mind', 'Evolutionary biology', 'Globalization and its effects', 'Subatomic particles', 'History of feminism', 'Virtual reality', 'Greek mythology', 'World mythology', "Saturn's rings", 'History of democracy', 'History of quantum theory', 'Oceanography', 'History of artificial intelligence', 'Sustainable agriculture', 'Human body systems', 'Evolution of insects', 'History of the internet', 'Mitochondrial DNA', 'History of blockchain', 'Wireless communication technology', 'Cryptocurrency', 'History of transportation', 'Space colonization', 'History of timekeeping', 'Space shuttle program', 'History of theater', 'Ancient Greek philosophy', 'Relativity and spacetime', 'Nuclear fusion', 'Biodiversity conservation', 'History of printing press', 'Dark web', 'Climate change and global warming', 'Types of social networks', 'History of space exploration', 'History of antibiotics', 'History of artificial satellites', 'Cognitive behavioral therapy', 'Exoplanets', 'Mars rovers', 'Ethics of AI', 'Drone technology', 'Nuclear energy', 'Virtual economies', 'Space telescopes', 'Submarine communications', 'Ecosystems of the Amazon rainforest', 'History of ancient China', 'Human brain anatomy', 'Evolution of reptiles', 'Theory of probability', 'Exploration of Antarctica'], 'loop_settings': {'min_loops': 5, 'max_loops': 10}}
+2024-10-06 00:40:20,800 - INFO - Testing ADB connection for device 25281JEGR07570
+2024-10-06 00:40:20,838 - INFO - Starting task loop for device 25281JEGR07570
+2024-10-06 00:40:20,838 - INFO - Running 10 loops on 25281JEGR07570
+2024-10-06 00:40:20,838 - INFO - Starting loop 1/10 on 25281JEGR07570
+2024-10-06 00:40:20,838 - INFO - Starting tasks on 25281JEGR07570
+2024-10-06 00:40:49,851 - INFO - Script starting...
+2024-10-06 00:40:49,851 - INFO - Loading configuration...
+2024-10-06 00:40:49,858 - INFO - Configuration loaded: {'devices': [{'id': '25281JEGR07570', 'alias': 'Pixel 6a'}], 'tasks': [{'wikipedia_search': True}], 'timing_parameters': {'min_delay_between_tasks': 3, 'max_delay_between_tasks': 10}, 'search_queries': ['Quantum mechanics', 'Artificial intelligence', 'Machine learning', 'History of the internet', 'Python programming language', 'Cryptography', 'History of space exploration', 'Renaissance art', 'Black hole formation', 'Photosynthesis process', 'Evolution of mammals', 'Ancient Egyptian civilization', 'History of the Roman Empire', 'Theory of relativity', 'Thermodynamics', 'Plate tectonics', 'History of World War II', 'String theory', 'History of computers', 'Blockchain technology', 'History of video games', 'Classical music composers', 'Baroque architecture', 'Genetic engineering', 'Nanotechnology', 'Particle physics', 'Augmented reality', 'Neuroscience breakthroughs', 'Cybersecurity threats', 'History of encryption', 'Quantum computing', '3D printing technology', 'History of mathematics', 'Dark matter', 'Fossil fuel impact on the environment', 'History of photography', 'Ocean ecosystems', 'History of human migration', 'Evolution of birds', 'History of astronomy', 'Meteorology and climate change', 'Cultural anthropology', 'History of the Silk Road', "Fermat's last theorem", 'Number theory', 'Medieval history of Europe', 'Colonialism in Africa', 'History of medicine', 'DNA replication process', 'Types of renewable energy', 'The Big Bang theory', 'Human immune system', 'The Industrial Revolution', 'History of robotics', 'Astrobiology', 'History of aviation', 'History of the English language', 'Cognitive psychology', 'Philosophy of mind', 'Evolutionary biology', 'Globalization and its effects', 'Subatomic particles', 'History of feminism', 'Virtual reality', 'Greek mythology', 'World mythology', "Saturn's rings", 'History of democracy', 'History of quantum theory', 'Oceanography', 'History of artificial intelligence', 'Sustainable agriculture', 'Human body systems', 'Evolution of insects', 'History of the internet', 'Mitochondrial DNA', 'History of blockchain', 'Wireless communication technology', 'Cryptocurrency', 'History of transportation', 'Space colonization', 'History of timekeeping', 'Space shuttle program', 'History of theater', 'Ancient Greek philosophy', 'Relativity and spacetime', 'Nuclear fusion', 'Biodiversity conservation', 'History of printing press', 'Dark web', 'Climate change and global warming', 'Types of social networks', 'History of space exploration', 'History of antibiotics', 'History of artificial satellites', 'Cognitive behavioral therapy', 'Exoplanets', 'Mars rovers', 'Ethics of AI', 'Drone technology', 'Nuclear energy', 'Virtual economies', 'Space telescopes', 'Submarine communications', 'Ecosystems of the Amazon rainforest', 'History of ancient China', 'Human brain anatomy', 'Evolution of reptiles', 'Theory of probability', 'Exploration of Antarctica'], 'loop_settings': {'min_loops': 5, 'max_loops': 10}}
+2024-10-06 00:40:49,858 - INFO - Testing ADB connection for device 25281JEGR07570
+2024-10-06 00:40:49,903 - INFO - Starting task loop for device 25281JEGR07570
+2024-10-06 00:40:49,904 - INFO - Running 7 loops on 25281JEGR07570
+2024-10-06 00:40:49,904 - INFO - Starting loop 1/7 on 25281JEGR07570
+2024-10-06 00:40:49,904 - INFO - Starting tasks on 25281JEGR07570
+2024-10-06 00:40:49,904 - INFO - Performing a Wikipedia search on 25281JEGR07570
+2024-10-06 00:40:49,904 - INFO - Opening Wikipedia on 25281JEGR07570
+2024-10-06 00:40:55,635 - INFO - Searching for 'History of medicine' on 25281JEGR07570
+2024-10-06 00:41:05,845 - INFO - Scrolling and reading on 25281JEGR07570
+2024-10-06 00:41:06,234 - INFO - Reading for 16.57 seconds after scroll 1/3
+2024-10-06 00:41:23,167 - INFO - Reading for 21.46 seconds after scroll 2/3
+2024-10-06 00:41:44,997 - INFO - Reading for 16.63 seconds after scroll 3/3
+2024-10-06 00:42:11,384 - INFO - Performing a Wikipedia search on 25281JEGR07570
+2024-10-06 00:42:11,384 - INFO - Opening Wikipedia on 25281JEGR07570
+2024-10-06 00:42:17,499 - INFO - Searching for 'Neuroscience breakthroughs' on 25281JEGR07570
+2024-10-06 00:42:23,403 - INFO - Scrolling and reading on 25281JEGR07570
+2024-10-06 00:42:23,782 - INFO - Reading for 16.68 seconds after scroll 1/3
+2024-10-06 00:42:40,824 - INFO - Reading for 16.70 seconds after scroll 2/3
+2024-10-06 00:42:57,884 - INFO - Reading for 16.60 seconds after scroll 3/3
+2024-10-06 00:43:17,750 - INFO - Performing a Wikipedia search on 25281JEGR07570
+2024-10-06 00:43:17,750 - INFO - Opening Wikipedia on 25281JEGR07570
+2024-10-06 00:43:27,947 - INFO - Script starting...
+2024-10-06 00:43:27,947 - INFO - Loading configuration...
+2024-10-06 00:43:27,958 - INFO - Configuration loaded: {'devices': [{'id': '25281JEGR07570', 'alias': 'Pixel 6a'}], 'tasks': [{'wikipedia_search': False}, {'google_search': True}], 'timing_parameters': {'min_delay_between_tasks': 3, 'max_delay_between_tasks': 10}, 'search_queries': ['Quantum mechanics', 'Artificial intelligence', 'Machine learning', 'History of the internet', 'Python programming language', 'Cryptography', 'History of space exploration', 'Renaissance art', 'Black hole formation', 'Photosynthesis process', 'Evolution of mammals', 'Ancient Egyptian civilization', 'History of the Roman Empire', 'Theory of relativity', 'Thermodynamics', 'Plate tectonics', 'History of World War II', 'String theory', 'History of computers', 'Blockchain technology', 'History of video games', 'Classical music composers', 'Baroque architecture', 'Genetic engineering', 'Nanotechnology', 'Particle physics', 'Augmented reality', 'Neuroscience breakthroughs', 'Cybersecurity threats', 'History of encryption', 'Quantum computing', '3D printing technology', 'History of mathematics', 'Dark matter', 'Fossil fuel impact on the environment', 'History of photography', 'Ocean ecosystems', 'History of human migration', 'Evolution of birds', 'History of astronomy', 'Meteorology and climate change', 'Cultural anthropology', 'History of the Silk Road', "Fermat's last theorem", 'Number theory', 'Medieval history of Europe', 'Colonialism in Africa', 'History of medicine', 'DNA replication process', 'Types of renewable energy', 'The Big Bang theory', 'Human immune system', 'The Industrial Revolution', 'History of robotics', 'Astrobiology', 'History of aviation', 'History of the English language', 'Cognitive psychology', 'Philosophy of mind', 'Evolutionary biology', 'Globalization and its effects', 'Subatomic particles', 'History of feminism', 'Virtual reality', 'Greek mythology', 'World mythology', "Saturn's rings", 'History of democracy', 'History of quantum theory', 'Oceanography', 'History of artificial intelligence', 'Sustainable agriculture', 'Human body systems', 'Evolution of insects', 'History of the internet', 'Mitochondrial DNA', 'History of blockchain', 'Wireless communication technology', 'Cryptocurrency', 'History of transportation', 'Space colonization', 'History of timekeeping', 'Space shuttle program', 'History of theater', 'Ancient Greek philosophy', 'Relativity and spacetime', 'Nuclear fusion', 'Biodiversity conservation', 'History of printing press', 'Dark web', 'Climate change and global warming', 'Types of social networks', 'History of space exploration', 'History of antibiotics', 'History of artificial satellites', 'Cognitive behavioral therapy', 'Exoplanets', 'Mars rovers', 'Ethics of AI', 'Drone technology', 'Nuclear energy', 'Virtual economies', 'Space telescopes', 'Submarine communications', 'Ecosystems of the Amazon rainforest', 'History of ancient China', 'Human brain anatomy', 'Evolution of reptiles', 'Theory of probability', 'Exploration of Antarctica'], 'loop_settings': {'min_loops': 5, 'max_loops': 10}}
+2024-10-06 00:43:27,959 - INFO - Testing ADB connection for device 25281JEGR07570
+2024-10-06 00:43:28,001 - INFO - Starting task loop for device 25281JEGR07570
+2024-10-06 00:43:28,001 - INFO - Running 9 loops on 25281JEGR07570
+2024-10-06 00:43:28,001 - INFO - Starting loop 1/9 on 25281JEGR07570
+2024-10-06 00:43:28,001 - INFO - Starting tasks on 25281JEGR07570
+2024-10-06 00:43:28,001 - INFO - Performing a Google search on 25281JEGR07570
+2024-10-06 00:43:28,001 - INFO - Opening Google on 25281JEGR07570
+2024-10-06 00:43:34,347 - INFO - Searching for 'Globalization and its effects' on 25281JEGR07570
+2024-10-06 00:44:32,346 - INFO - Script starting...
+2024-10-06 00:44:32,346 - INFO - Loading configuration...
+2024-10-06 00:44:32,352 - INFO - Configuration loaded: {'devices': [{'id': '25281JEGR07570', 'alias': 'Pixel 6a'}], 'tasks': [{'wikipedia_search': False}, {'google_search': True}], 'timing_parameters': {'min_delay_between_tasks': 3, 'max_delay_between_tasks': 10}, 'search_queries': ['Quantum mechanics', 'Artificial intelligence', 'Machine learning', 'History of the internet', 'Python programming language', 'Cryptography', 'History of space exploration', 'Renaissance art', 'Black hole formation', 'Photosynthesis process', 'Evolution of mammals', 'Ancient Egyptian civilization', 'History of the Roman Empire', 'Theory of relativity', 'Thermodynamics', 'Plate tectonics', 'History of World War II', 'String theory', 'History of computers', 'Blockchain technology', 'History of video games', 'Classical music composers', 'Baroque architecture', 'Genetic engineering', 'Nanotechnology', 'Particle physics', 'Augmented reality', 'Neuroscience breakthroughs', 'Cybersecurity threats', 'History of encryption', 'Quantum computing', '3D printing technology', 'History of mathematics', 'Dark matter', 'Fossil fuel impact on the environment', 'History of photography', 'Ocean ecosystems', 'History of human migration', 'Evolution of birds', 'History of astronomy', 'Meteorology and climate change', 'Cultural anthropology', 'History of the Silk Road', "Fermat's last theorem", 'Number theory', 'Medieval history of Europe', 'Colonialism in Africa', 'History of medicine', 'DNA replication process', 'Types of renewable energy', 'The Big Bang theory', 'Human immune system', 'The Industrial Revolution', 'History of robotics', 'Astrobiology', 'History of aviation', 'History of the English language', 'Cognitive psychology', 'Philosophy of mind', 'Evolutionary biology', 'Globalization and its effects', 'Subatomic particles', 'History of feminism', 'Virtual reality', 'Greek mythology', 'World mythology', "Saturn's rings", 'History of democracy', 'History of quantum theory', 'Oceanography', 'History of artificial intelligence', 'Sustainable agriculture', 'Human body systems', 'Evolution of insects', 'History of the internet', 'Mitochondrial DNA', 'History of blockchain', 'Wireless communication technology', 'Cryptocurrency', 'History of transportation', 'Space colonization', 'History of timekeeping', 'Space shuttle program', 'History of theater', 'Ancient Greek philosophy', 'Relativity and spacetime', 'Nuclear fusion', 'Biodiversity conservation', 'History of printing press', 'Dark web', 'Climate change and global warming', 'Types of social networks', 'History of space exploration', 'History of antibiotics', 'History of artificial satellites', 'Cognitive behavioral therapy', 'Exoplanets', 'Mars rovers', 'Ethics of AI', 'Drone technology', 'Nuclear energy', 'Virtual economies', 'Space telescopes', 'Submarine communications', 'Ecosystems of the Amazon rainforest', 'History of ancient China', 'Human brain anatomy', 'Evolution of reptiles', 'Theory of probability', 'Exploration of Antarctica'], 'loop_settings': {'min_loops': 5, 'max_loops': 10}}
+2024-10-06 00:44:32,353 - INFO - Testing ADB connection for device 25281JEGR07570
+2024-10-06 00:44:32,393 - INFO - Starting task loop for device 25281JEGR07570
+2024-10-06 00:44:32,393 - INFO - Running 8 loops on 25281JEGR07570
+2024-10-06 00:44:32,394 - INFO - Starting loop 1/8 on 25281JEGR07570
+2024-10-06 00:44:32,394 - INFO - Starting tasks on 25281JEGR07570
+2024-10-06 00:44:32,394 - INFO - Performing a Google search on 25281JEGR07570
+2024-10-06 00:44:32,394 - INFO - Opening Google on 25281JEGR07570
+2024-10-06 00:44:49,660 - INFO - Searching for 'Nuclear energy' on 25281JEGR07570
+2024-10-06 00:44:56,807 - INFO - Scrolling and reading on 25281JEGR07570
+2024-10-06 00:44:57,169 - INFO - Reading for 21.51 seconds after scroll 1/3
+2024-10-06 00:45:19,050 - INFO - Reading for 15.98 seconds after scroll 2/3
+2024-10-06 00:45:35,406 - INFO - Reading for 22.16 seconds after scroll 3/3
+2024-10-06 00:46:06,368 - INFO - Performing a Google search on 25281JEGR07570
+2024-10-06 00:46:06,368 - INFO - Opening Google on 25281JEGR07570
+2024-10-06 00:46:23,528 - INFO - Searching for 'History of computers' on 25281JEGR07570
+2024-10-06 00:46:30,232 - INFO - Scrolling and reading on 25281JEGR07570
+2024-10-06 00:46:30,622 - INFO - Reading for 20.75 seconds after scroll 1/3
+2024-10-06 00:46:56,947 - INFO - Script starting...
+2024-10-06 00:46:56,948 - INFO - Loading configuration...
+2024-10-06 00:46:56,955 - INFO - Configuration loaded: {'devices': [{'id': '25281JEGR07570', 'alias': 'Pixel 6a'}], 'tasks': [{'wikipedia_search': True}, {'google_search': True}], 'timing_parameters': {'min_delay_between_tasks': 3, 'max_delay_between_tasks': 10}, 'search_queries': ['Quantum mechanics', 'Artificial intelligence', 'Machine learning', 'History of the internet', 'Python programming language', 'Cryptography', 'History of space exploration', 'Renaissance art', 'Black hole formation', 'Photosynthesis process', 'Evolution of mammals', 'Ancient Egyptian civilization', 'History of the Roman Empire', 'Theory of relativity', 'Thermodynamics', 'Plate tectonics', 'History of World War II', 'String theory', 'History of computers', 'Blockchain technology', 'History of video games', 'Classical music composers', 'Baroque architecture', 'Genetic engineering', 'Nanotechnology', 'Particle physics', 'Augmented reality', 'Neuroscience breakthroughs', 'Cybersecurity threats', 'History of encryption', 'Quantum computing', '3D printing technology', 'History of mathematics', 'Dark matter', 'Fossil fuel impact on the environment', 'History of photography', 'Ocean ecosystems', 'History of human migration', 'Evolution of birds', 'History of astronomy', 'Meteorology and climate change', 'Cultural anthropology', 'History of the Silk Road', "Fermat's last theorem", 'Number theory', 'Medieval history of Europe', 'Colonialism in Africa', 'History of medicine', 'DNA replication process', 'Types of renewable energy', 'The Big Bang theory', 'Human immune system', 'The Industrial Revolution', 'History of robotics', 'Astrobiology', 'History of aviation', 'History of the English language', 'Cognitive psychology', 'Philosophy of mind', 'Evolutionary biology', 'Globalization and its effects', 'Subatomic particles', 'History of feminism', 'Virtual reality', 'Greek mythology', 'World mythology', "Saturn's rings", 'History of democracy', 'History of quantum theory', 'Oceanography', 'History of artificial intelligence', 'Sustainable agriculture', 'Human body systems', 'Evolution of insects', 'History of the internet', 'Mitochondrial DNA', 'History of blockchain', 'Wireless communication technology', 'Cryptocurrency', 'History of transportation', 'Space colonization', 'History of timekeeping', 'Space shuttle program', 'History of theater', 'Ancient Greek philosophy', 'Relativity and spacetime', 'Nuclear fusion', 'Biodiversity conservation', 'History of printing press', 'Dark web', 'Climate change and global warming', 'Types of social networks', 'History of space exploration', 'History of antibiotics', 'History of artificial satellites', 'Cognitive behavioral therapy', 'Exoplanets', 'Mars rovers', 'Ethics of AI', 'Drone technology', 'Nuclear energy', 'Virtual economies', 'Space telescopes', 'Submarine communications', 'Ecosystems of the Amazon rainforest', 'History of ancient China', 'Human brain anatomy', 'Evolution of reptiles', 'Theory of probability', 'Exploration of Antarctica'], 'loop_settings': {'min_loops': 5, 'max_loops': 10}}
+2024-10-06 00:46:56,956 - INFO - Testing ADB connection for device 25281JEGR07570
+2024-10-06 00:46:57,002 - INFO - Starting task loop for device 25281JEGR07570
+2024-10-06 00:46:57,002 - INFO - Running 8 loops on 25281JEGR07570
+2024-10-06 00:46:57,002 - INFO - Starting loop 1/8 on 25281JEGR07570
+2024-10-06 00:46:57,002 - INFO - Starting tasks on 25281JEGR07570
+2024-10-06 00:46:57,002 - INFO - Performing a Wikipedia search on 25281JEGR07570
+2024-10-06 00:46:57,003 - INFO - Opening Wikipedia on 25281JEGR07570
+2024-10-06 00:47:02,488 - INFO - Searching for 'Theory of probability' on 25281JEGR07570
+2024-10-06 00:47:10,437 - INFO - Scrolling and reading on 25281JEGR07570
+2024-10-06 00:47:10,809 - INFO - Reading for 17.63 seconds after scroll 1/3
+2024-10-06 00:47:28,798 - INFO - Reading for 19.67 seconds after scroll 2/3
+2024-10-06 00:47:48,843 - INFO - Reading for 20.38 seconds after scroll 3/3
+2024-10-06 00:48:14,625 - INFO - Performing a Wikipedia search on 25281JEGR07570
+2024-10-06 00:48:14,625 - INFO - Opening Wikipedia on 25281JEGR07570
+2024-10-06 00:48:21,774 - INFO - Searching for 'History of space exploration' on 25281JEGR07570
+2024-10-06 00:48:31,398 - INFO - Scrolling and reading on 25281JEGR07570
+2024-10-06 00:48:31,777 - INFO - Reading for 15.10 seconds after scroll 1/3
+2024-10-06 00:48:47,283 - INFO - Reading for 17.99 seconds after scroll 2/3
+2024-10-06 00:49:05,656 - INFO - Reading for 16.37 seconds after scroll 3/3
+2024-10-06 00:49:26,453 - INFO - Script starting...
+2024-10-06 00:49:26,453 - INFO - Loading configuration...
+2024-10-06 00:49:26,460 - INFO - Configuration loaded: {'devices': [{'id': '25281JEGR07570', 'alias': 'Pixel 6a'}], 'tasks': [{'wikipedia_search': True}, {'google_search': True}], 'timing_parameters': {'min_delay_between_tasks': 3, 'max_delay_between_tasks': 10}, 'search_queries': ['Quantum mechanics', 'Artificial intelligence', 'Machine learning', 'History of the internet', 'Python programming language', 'Cryptography', 'History of space exploration', 'Renaissance art', 'Black hole formation', 'Photosynthesis process', 'Evolution of mammals', 'Ancient Egyptian civilization', 'History of the Roman Empire', 'Theory of relativity', 'Thermodynamics', 'Plate tectonics', 'History of World War II', 'String theory', 'History of computers', 'Blockchain technology', 'History of video games', 'Classical music composers', 'Baroque architecture', 'Genetic engineering', 'Nanotechnology', 'Particle physics', 'Augmented reality', 'Neuroscience breakthroughs', 'Cybersecurity threats', 'History of encryption', 'Quantum computing', '3D printing technology', 'History of mathematics', 'Dark matter', 'Fossil fuel impact on the environment', 'History of photography', 'Ocean ecosystems', 'History of human migration', 'Evolution of birds', 'History of astronomy', 'Meteorology and climate change', 'Cultural anthropology', 'History of the Silk Road', "Fermat's last theorem", 'Number theory', 'Medieval history of Europe', 'Colonialism in Africa', 'History of medicine', 'DNA replication process', 'Types of renewable energy', 'The Big Bang theory', 'Human immune system', 'The Industrial Revolution', 'History of robotics', 'Astrobiology', 'History of aviation', 'History of the English language', 'Cognitive psychology', 'Philosophy of mind', 'Evolutionary biology', 'Globalization and its effects', 'Subatomic particles', 'History of feminism', 'Virtual reality', 'Greek mythology', 'World mythology', "Saturn's rings", 'History of democracy', 'History of quantum theory', 'Oceanography', 'History of artificial intelligence', 'Sustainable agriculture', 'Human body systems', 'Evolution of insects', 'History of the internet', 'Mitochondrial DNA', 'History of blockchain', 'Wireless communication technology', 'Cryptocurrency', 'History of transportation', 'Space colonization', 'History of timekeeping', 'Space shuttle program', 'History of theater', 'Ancient Greek philosophy', 'Relativity and spacetime', 'Nuclear fusion', 'Biodiversity conservation', 'History of printing press', 'Dark web', 'Climate change and global warming', 'Types of social networks', 'History of space exploration', 'History of antibiotics', 'History of artificial satellites', 'Cognitive behavioral therapy', 'Exoplanets', 'Mars rovers', 'Ethics of AI', 'Drone technology', 'Nuclear energy', 'Virtual economies', 'Space telescopes', 'Submarine communications', 'Ecosystems of the Amazon rainforest', 'History of ancient China', 'Human brain anatomy', 'Evolution of reptiles', 'Theory of probability', 'Exploration of Antarctica'], 'loop_settings': {'min_loops': 5, 'max_loops': 10}}
+2024-10-06 00:49:26,460 - INFO - Testing ADB connection for device 25281JEGR07570
+2024-10-06 00:49:26,497 - INFO - Starting task loop for device 25281JEGR07570
+2024-10-06 00:49:26,497 - INFO - Running 5 loops on 25281JEGR07570
+2024-10-06 00:49:26,497 - INFO - Starting loop 1/5 on 25281JEGR07570
+2024-10-06 00:49:26,498 - INFO - Starting tasks on 25281JEGR07570
+2024-10-06 00:49:26,498 - INFO - Task list generated: ['wikipedia_search', 'google_search']
+2024-10-06 00:49:26,498 - INFO - Randomly selected task: google_search
+2024-10-06 00:49:26,498 - INFO - Performing a Google search on 25281JEGR07570
+2024-10-06 00:49:26,498 - INFO - Opening Google on 25281JEGR07570
+2024-10-06 00:49:41,872 - INFO - Searching for 'History of feminism' on 25281JEGR07570
+2024-10-06 00:49:51,997 - INFO - Scrolling and reading on 25281JEGR07570
+2024-10-06 00:49:52,382 - INFO - Reading for 19.01 seconds after scroll 1/3
+2024-10-06 00:50:11,766 - INFO - Reading for 19.45 seconds after scroll 2/3
+2024-10-06 00:50:31,594 - INFO - Reading for 20.22 seconds after scroll 3/3
+2024-10-06 00:50:59,083 - INFO - Randomly selected task: wikipedia_search
+2024-10-06 00:50:59,083 - INFO - Performing a Wikipedia search on 25281JEGR07570
+2024-10-06 00:50:59,083 - INFO - Opening Wikipedia on 25281JEGR07570
+2024-10-06 00:51:05,536 - INFO - Searching for 'Evolution of insects' on 25281JEGR07570
+2024-10-06 00:51:13,605 - INFO - Scrolling and reading on 25281JEGR07570
+2024-10-06 00:51:14,002 - INFO - Reading for 22.99 seconds after scroll 1/3
+2024-10-06 00:51:29,631 - INFO - Script starting...
+2024-10-06 00:51:29,631 - INFO - Loading configuration...
+2024-10-06 00:51:29,654 - INFO - Configuration loaded: {'devices': [{'id': '25281JEGR07570', 'alias': 'Pixel 6a'}], 'tasks': [{'wikipedia_search': True}, {'google_search': True}], 'timing_parameters': {'min_delay_between_tasks': 3, 'max_delay_between_tasks': 10}, 'search_queries': ['Quantum mechanics', 'Artificial intelligence', 'Machine learning', 'History of the internet', 'Python programming language', 'Cryptography', 'History of space exploration', 'Renaissance art', 'Black hole formation', 'Photosynthesis process', 'Evolution of mammals', 'Ancient Egyptian civilization', 'History of the Roman Empire', 'Theory of relativity', 'Thermodynamics', 'Plate tectonics', 'History of World War II', 'String theory', 'History of computers', 'Blockchain technology', 'History of video games', 'Classical music composers', 'Baroque architecture', 'Genetic engineering', 'Nanotechnology', 'Particle physics', 'Augmented reality', 'Neuroscience breakthroughs', 'Cybersecurity threats', 'History of encryption', 'Quantum computing', '3D printing technology', 'History of mathematics', 'Dark matter', 'Fossil fuel impact on the environment', 'History of photography', 'Ocean ecosystems', 'History of human migration', 'Evolution of birds', 'History of astronomy', 'Meteorology and climate change', 'Cultural anthropology', 'History of the Silk Road', "Fermat's last theorem", 'Number theory', 'Medieval history of Europe', 'Colonialism in Africa', 'History of medicine', 'DNA replication process', 'Types of renewable energy', 'The Big Bang theory', 'Human immune system', 'The Industrial Revolution', 'History of robotics', 'Astrobiology', 'History of aviation', 'History of the English language', 'Cognitive psychology', 'Philosophy of mind', 'Evolutionary biology', 'Globalization and its effects', 'Subatomic particles', 'History of feminism', 'Virtual reality', 'Greek mythology', 'World mythology', "Saturn's rings", 'History of democracy', 'History of quantum theory', 'Oceanography', 'History of artificial intelligence', 'Sustainable agriculture', 'Human body systems', 'Evolution of insects', 'History of the internet', 'Mitochondrial DNA', 'History of blockchain', 'Wireless communication technology', 'Cryptocurrency', 'History of transportation', 'Space colonization', 'History of timekeeping', 'Space shuttle program', 'History of theater', 'Ancient Greek philosophy', 'Relativity and spacetime', 'Nuclear fusion', 'Biodiversity conservation', 'History of printing press', 'Dark web', 'Climate change and global warming', 'Types of social networks', 'History of space exploration', 'History of antibiotics', 'History of artificial satellites', 'Cognitive behavioral therapy', 'Exoplanets', 'Mars rovers', 'Ethics of AI', 'Drone technology', 'Nuclear energy', 'Virtual economies', 'Space telescopes', 'Submarine communications', 'Ecosystems of the Amazon rainforest', 'History of ancient China', 'Human brain anatomy', 'Evolution of reptiles', 'Theory of probability', 'Exploration of Antarctica', 'History of evolution', 'Industrial automation', 'Augmented reality in medicine', 'Artificial photosynthesis', 'History of human spaceflight', 'Genomics', 'Astrophysics', 'Space debris and mitigation', 'Human cloning ethics', 'Brain-computer interfaces', 'Quantum entanglement', 'Fusion power', 'Mars colonization', 'Gene therapy', 'Artificial neural networks', 'Deep learning applications', 'Internet of Things (IoT)', 'History of telecommunications', 'Biotechnology breakthroughs', 'History of vaccines', 'Autonomous vehicles', 'Smart cities', 'Solar power innovations', 'Sustainable urban planning', 'History of electric vehicles', 'Carbon capture technology', 'Energy storage solutions', 'Human genome project', 'Theoretical physics', 'History of nuclear power', 'Tidal energy', 'History of the Renaissance', 'Genetic algorithms', 'Bioinformatics', 'Quantum cryptography', 'History of space telescopes', 'Artificial general intelligence', 'Renewable energy technologies', 'Self-driving cars', 'History of the scientific method', 'Digital twins technology', 'Quantum supremacy', 'DNA sequencing technology', 'Molecular biology', 'Graphene applications', 'Satellite internet technology', 'Nanorobotics', 'Robotics in space exploration', 'Quantum field theory', 'History of microbiology', 'Synthetic biology', 'Augmented reality in education', 'History of cryptography', 'Space tourism', 'Neuroplasticity', 'Wearable technology', 'Optical computing', 'Neuromorphic computing', 'Evolution of primates', 'Gene editing with CRISPR', '3D bioprinting', 'Quantum optics', 'Stem cell research', 'Nuclear fusion reactors', 'Space elevator technology', 'Bioengineering', 'AI in healthcare', 'Astrobiology and life on other planets', 'Cognitive neuroscience', 'Cyber warfare', 'Precision medicine', 'Big data in healthcare', 'History of semiconductor technology', 'Photonic computing', 'Brain mapping technology', 'Evolution of language', 'Quantum sensors', 'Memristors', 'Cellular agriculture', 'Smart agriculture', 'Edge computing', 'Bioelectricity', 'Artificial organs', 'Synthetic organisms', 'AI in cybersecurity', 'Quantum materials', 'Virtual tourism', 'Blockchain in supply chain', 'Superconductivity', 'Nanoscale imaging', 'Femtotechnology', 'Hypersonic flight', 'Time dilation', 'Space mining', 'Asteroid deflection technologies', 'Neuroprosthetics', 'History of nanotechnology', 'Quantum teleportation', 'Photonics', 'History of paleontology', 'Virtual reality in education', 'Metaverse technology', 'Artificial emotional intelligence', 'Neuroethics', 'Quantum computing in finance', 'Smart grids', 'Solar sails', 'Advanced robotics', 'Renewable ocean energy', 'Quantum dots', 'Internet censorship', 'History of digital art', 'Biodegradable plastics', 'Humanitarian robotics', 'Cryogenics', 'The Kardashev scale', 'Space-time wormholes', 'Mars exploration missions', 'AI in environmental monitoring', 'Smart homes', 'Hydrogen fuel cells', 'Artificial photosynthesis for energy', 'Electricity generation from algae', 'Battery technology breakthroughs', 'Electric propulsion in space', 'Directed energy weapons', 'Carbon nanotubes', 'Programmable matter', 'Genetic diversity and conservation', 'Autonomous drones', 'Artificial ecosystems', 'Microbiomes', 'Cryonics', 'Space archaeology', 'AI ethics', 'Quantum biology', 'Multiverse theory', 'Terraforming', 'Exoskeleton technology', 'Holography', 'Graphene-based electronics', 'Neuroscience of memory', 'AI-generated art', 'Hyperloop transportation technology', 'Self-healing materials', 'Waste-to-energy technologies', 'Bionic limbs', 'Conservation genetics', 'In-vitro meat production', 'Machine translation', 'History of cryptoeconomics', 'Global water scarcity', 'Remote sensing technologies', 'Microgravity research', 'Space law', 'Swarm robotics', 'Quantum radar', 'Energy-efficient computing', 'Dark energy', 'Genetic drift', 'Artificial intelligence in space exploration', 'Smart textiles', 'Neural implants', 'Lunar habitats', 'Zero-emission vehicles', 'Space power generation', 'AI in financial markets', 'Cyber-physical systems', 'Cryptocurrency mining', 'AI in natural language processing', 'DNA data storage', 'Invisibility cloaks', 'Mars atmosphere terraforming', 'Volcanic eruption prediction', 'Biomimetic robotics', 'Quantum machine learning', 'Molecular nanotechnology', 'Solar storm prediction', 'Extraterrestrial intelligence', 'Neurogenesis', 'Cybersecurity and AI integration', 'Sustainable fashion technology', 'Artificial skin', 'Quantum finance', 'Space resource utilization', 'Ethics of genetic modification', 'Human factors engineering', 'Organic photovoltaics', 'Wireless energy transfer', '3D printed homes', 'AI in climate science', 'History of space law', 'Underwater drones', 'AI in robotics', 'Quantum error correction', 'AI-powered prosthetics', 'History of social media', 'Internet freedom and privacy', 'Advanced prosthetics', 'Astrochemistry', 'Quantum electrodynamics', 'Behavioral genetics', 'History of fractals'], 'loop_settings': {'min_loops': 5, 'max_loops': 10}}
+2024-10-06 00:51:29,656 - INFO - Testing ADB connection for device 25281JEGR07570
+2024-10-06 00:51:29,699 - INFO - Starting task loop for device 25281JEGR07570
+2024-10-06 00:51:29,700 - INFO - Running 8 loops on 25281JEGR07570
+2024-10-06 00:51:29,700 - INFO - Starting loop 1/8 on 25281JEGR07570
+2024-10-06 00:51:29,701 - INFO - Starting tasks on 25281JEGR07570
+2024-10-06 00:51:29,701 - INFO - Task list generated: ['wikipedia_search', 'google_search']
+2024-10-06 00:51:29,701 - INFO - Randomly selected task: google_search
+2024-10-06 00:51:29,701 - INFO - Performing a Google search on 25281JEGR07570
+2024-10-06 00:51:29,701 - INFO - Opening Google on 25281JEGR07570
+2024-10-06 00:51:45,627 - INFO - Searching for 'Cyber warfare' on 25281JEGR07570
+2024-10-06 00:51:55,251 - INFO - Scrolling and reading on 25281JEGR07570
+2024-10-06 00:51:55,643 - INFO - Reading for 22.33 seconds after scroll 1/3
+2024-10-06 00:52:47,847 - INFO - Script starting...
+2024-10-06 00:52:47,847 - INFO - Welcome to Rare's Android Profile Builder! Enjoy the process.
+2024-10-06 00:52:47,847 - INFO - Loading configuration...
+2024-10-06 00:52:47,900 - INFO - Starting task loop on device: 25281JEGR07570
+2024-10-06 00:52:47,901 - INFO - Running 10 loops on device 25281JEGR07570
+2024-10-06 00:52:47,901 - INFO - Starting loop 1/10
+2024-10-06 00:52:47,901 - INFO - Performing tasks on device 25281JEGR07570
+2024-10-06 00:52:47,901 - INFO - Selected task: Google search
+2024-10-06 00:52:47,901 - INFO - Opening Google...
+2024-10-06 00:53:03,511 - INFO - Searching for: Evolution of mammals
+2024-10-06 00:53:13,157 - INFO - Scrolling through content and simulating reading.
+2024-10-06 00:53:13,566 - INFO - Simulated reading for 22.28 seconds after scroll 1/3
+2024-10-06 00:53:36,238 - INFO - Simulated reading for 19.16 seconds after scroll 2/3
+2024-10-06 00:53:55,764 - INFO - Simulated reading for 18.04 seconds after scroll 3/3
