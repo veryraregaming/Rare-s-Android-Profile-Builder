@@ -1007,3 +1007,647 @@ java.lang.IllegalArgumentException: Argument expected after "text"
 2024-10-06 00:53:13,566 - INFO - Simulated reading for 22.28 seconds after scroll 1/3
 2024-10-06 00:53:36,238 - INFO - Simulated reading for 19.16 seconds after scroll 2/3
 2024-10-06 00:53:55,764 - INFO - Simulated reading for 18.04 seconds after scroll 3/3
+2024-10-06 00:57:12,004 - INFO - Script starting...
+2024-10-06 00:57:12,004 - INFO - Welcome to Rare's Android Profile Builder! Enjoy the process.
+2024-10-06 00:57:12,004 - INFO - Loading configuration...
+2024-10-06 00:57:12,064 - INFO - Starting task loop on device: 25281JEGR07570
+2024-10-06 00:57:12,065 - INFO - Running 8 loops on device 25281JEGR07570
+2024-10-06 00:57:12,065 - INFO - Starting loop 1/8
+2024-10-06 00:57:12,065 - INFO - Performing tasks on device 25281JEGR07570
+2024-10-06 00:57:12,065 - INFO - Selected task: Wikipedia search
+2024-10-06 00:57:12,065 - INFO - Opening Wikipedia...
+2024-10-06 00:57:18,089 - INFO - Searching for: Greek mythology
+2024-10-06 00:57:26,939 - INFO - Scrolling through content and simulating reading.
+2024-10-06 00:57:27,303 - INFO - Simulated reading for 17.46 seconds after scroll 1/3
+2024-10-06 00:57:45,154 - INFO - Simulated reading for 15.76 seconds after scroll 2/3
+2024-10-06 00:58:01,311 - INFO - Simulated reading for 21.79 seconds after scroll 3/3
+2024-10-06 00:58:27,858 - INFO - Selected task: Wikipedia search
+2024-10-06 00:58:27,858 - INFO - Opening Wikipedia...
+2024-10-06 00:58:35,708 - INFO - Searching for: Nuclear fusion reactors
+2024-10-06 00:58:46,263 - INFO - Scrolling through content and simulating reading.
+2024-10-06 00:58:46,628 - INFO - Simulated reading for 16.50 seconds after scroll 1/3
+2024-10-06 00:59:03,495 - INFO - Simulated reading for 22.60 seconds after scroll 2/3
+2024-10-06 00:59:26,454 - INFO - Simulated reading for 19.71 seconds after scroll 3/3
+2024-10-06 00:59:49,779 - INFO - Selected task: Wikipedia search
+2024-10-06 00:59:49,779 - INFO - Opening Wikipedia...
+2024-10-06 00:59:55,697 - INFO - Searching for: Cryogenics
+2024-10-06 01:00:02,665 - INFO - Scrolling through content and simulating reading.
+2024-10-06 01:00:03,041 - INFO - Simulated reading for 17.06 seconds after scroll 1/3
+2024-10-06 01:00:20,477 - INFO - Simulated reading for 15.39 seconds after scroll 2/3
+2024-10-06 01:00:36,231 - INFO - Simulated reading for 15.63 seconds after scroll 3/3
+2024-10-06 01:00:55,000 - INFO - Selected task: Wikipedia search
+2024-10-06 01:00:55,000 - INFO - Opening Wikipedia...
+2024-10-06 01:01:01,756 - INFO - Searching for: Electricity generation from algae
+2024-10-06 01:01:08,029 - INFO - Scrolling through content and simulating reading.
+2024-10-06 01:01:08,409 - INFO - Simulated reading for 23.33 seconds after scroll 1/3
+2024-10-06 01:01:32,115 - INFO - Simulated reading for 22.07 seconds after scroll 2/3
+2024-10-06 01:01:54,547 - INFO - Simulated reading for 15.21 seconds after scroll 3/3
+2024-10-06 01:02:17,936 - INFO - Selected task: Google search
+2024-10-06 01:02:17,936 - INFO - Opening Google...
+2024-10-06 01:02:36,961 - INFO - Searching for: Autonomous vehicles
+2024-10-06 01:02:45,606 - INFO - Scrolling through content and simulating reading.
+2024-10-06 01:02:46,012 - INFO - Simulated reading for 16.04 seconds after scroll 1/3
+2024-10-06 01:03:02,417 - INFO - Simulated reading for 15.09 seconds after scroll 2/3
+2024-10-06 01:03:17,878 - INFO - Simulated reading for 20.35 seconds after scroll 3/3
+2024-10-06 01:03:42,843 - INFO - Selected task: Wikipedia search
+2024-10-06 01:03:42,843 - INFO - Opening Wikipedia...
+2024-10-06 01:03:49,604 - INFO - Searching for: Augmented reality in medicine
+2024-10-06 01:03:57,984 - INFO - Scrolling through content and simulating reading.
+2024-10-06 01:03:58,349 - INFO - Simulated reading for 21.76 seconds after scroll 1/3
+2024-10-06 01:04:20,493 - INFO - Simulated reading for 21.17 seconds after scroll 2/3
+2024-10-06 01:04:42,056 - INFO - Simulated reading for 18.92 seconds after scroll 3/3
+2024-10-06 01:05:07,789 - INFO - Selected task: Wikipedia search
+2024-10-06 01:05:07,789 - INFO - Opening Wikipedia...
+2024-10-06 01:05:13,440 - INFO - Searching for: History of the scientific method
+2024-10-06 01:05:20,998 - INFO - Scrolling through content and simulating reading.
+2024-10-06 01:05:21,369 - INFO - Simulated reading for 22.54 seconds after scroll 1/3
+2024-10-06 01:05:44,304 - INFO - Simulated reading for 20.57 seconds after scroll 2/3
+2024-10-06 01:06:05,231 - INFO - Simulated reading for 18.20 seconds after scroll 3/3
+2024-10-06 01:06:30,116 - INFO - Selected task: Google search
+2024-10-06 01:06:30,116 - INFO - Opening Google...
+2024-10-06 01:06:46,559 - INFO - Searching for: Cryptography
+2024-10-06 01:06:52,213 - INFO - Scrolling through content and simulating reading.
+2024-10-06 01:06:52,662 - INFO - Simulated reading for 24.33 seconds after scroll 1/3
+2024-10-06 01:08:58,551 - INFO - Script starting...
+2024-10-06 01:08:58,551 - INFO - Welcome to Rare's Android Profile Builder! Enjoy the process.
+2024-10-06 01:08:58,551 - INFO - Loading configuration...
+2024-10-06 01:08:58,602 - INFO - Starting task loop on device: 25281JEGR07570
+2024-10-06 01:08:58,602 - INFO - Running 9 loops on device 25281JEGR07570
+2024-10-06 01:08:58,603 - INFO - Starting loop 1/9
+2024-10-06 01:08:58,603 - INFO - Starting tasks on 25281JEGR07570
+2024-10-06 01:08:58,603 - INFO - Task list generated: ['wikipedia_search', 'google_search']
+2024-10-06 01:08:58,603 - INFO - Performing a Google search on 25281JEGR07570
+2024-10-06 01:08:58,603 - INFO - Opening Google on 25281JEGR07570
+2024-10-06 01:08:58,720 - INFO - Waiting for 6.95 seconds.
+2024-10-06 01:09:05,667 - INFO - Waiting for 6.06 seconds.
+2024-10-06 01:09:11,817 - INFO - Waiting for 0.73 seconds.
+2024-10-06 01:09:12,603 - INFO - Waiting for 0.53 seconds.
+2024-10-06 01:09:13,200 - INFO - Waiting for 0.68 seconds.
+2024-10-06 01:09:13,966 - INFO - Waiting for 0.76 seconds.
+2024-10-06 01:09:14,844 - INFO - Waiting for 0.75 seconds.
+2024-10-06 01:09:15,597 - INFO - Searching for 'Invisibility cloaks' on 25281JEGR07570
+2024-10-06 01:09:16,174 - INFO - Waiting for 9.61 seconds.
+2024-10-06 01:09:25,785 - INFO - Scrolling and reading on 25281JEGR07570
+2024-10-06 01:09:26,198 - INFO - Reading for 19.34 seconds after scroll 1/3
+2024-10-06 01:09:45,909 - INFO - Reading for 15.85 seconds after scroll 2/3
+2024-10-06 01:10:02,126 - INFO - Reading for 15.13 seconds after scroll 3/3
+2024-10-06 01:10:17,254 - INFO - Waiting for 9.50 seconds.
+2024-10-06 01:12:09,315 - INFO - Script starting...
+2024-10-06 01:12:09,316 - INFO - Welcome to Rare's Android Profile Builder! Enjoy the process.
+2024-10-06 01:12:09,316 - INFO - Loading configuration...
+2024-10-06 01:12:09,333 - INFO - Loaded 0 search queries from searchlist.txt
+2024-10-06 01:12:09,373 - INFO - [36mPixel 6a - Starting task loop on device: 25281JEGR07570[0m
+2024-10-06 01:12:09,374 - INFO - [36mPixel 6a - Running 5 loops on device 25281JEGR07570[0m
+2024-10-06 01:12:09,374 - INFO - [36mPixel 6a - Starting loop 1/5[0m
+2024-10-06 01:12:09,374 - INFO - [36mPixel 6a - Starting tasks on 25281JEGR07570[0m
+2024-10-06 01:12:44,770 - INFO - Script starting...
+2024-10-06 01:12:44,770 - INFO - Welcome to Rare's Android Profile Builder! Enjoy the process.
+2024-10-06 01:12:44,770 - INFO - Loading configuration...
+2024-10-06 01:12:44,792 - INFO - Loaded 0 search queries from searchlist.txt
+2024-10-06 01:12:44,832 - INFO - [36mPixel 6a - Starting task loop on device: 25281JEGR07570[0m
+2024-10-06 01:12:44,832 - INFO - [36mPixel 6a - Running 5 loops on device 25281JEGR07570[0m
+2024-10-06 01:12:44,833 - INFO - [36mPixel 6a - Starting loop 1/5[0m
+2024-10-06 01:12:44,833 - INFO - [36mPixel 6a - Starting tasks on 25281JEGR07570[0m
+2024-10-06 01:13:31,213 - INFO - Script starting...
+2024-10-06 01:13:31,215 - INFO - Welcome to Rare's Android Profile Builder! Enjoy the process.
+2024-10-06 01:13:31,215 - INFO - Loading configuration...
+2024-10-06 01:13:31,228 - INFO - Loaded 0 search queries from searchlist.txt
+2024-10-06 01:13:31,232 - INFO - Loaded 0 search queries from searchlist.txt
+2024-10-06 01:13:31,275 - INFO - [36mPixel 6a - Starting task loop on device: 25281JEGR07570[0m
+2024-10-06 01:13:31,276 - INFO - [36mPixel 6a - Running 5 loops on device 25281JEGR07570[0m
+2024-10-06 01:13:31,276 - INFO - [36mPixel 6a - Starting loop 1/5[0m
+2024-10-06 01:13:31,276 - INFO - [36mPixel 6a - Starting tasks on 25281JEGR07570[0m
+2024-10-06 01:14:10,578 - INFO - Script starting...
+2024-10-06 01:14:10,579 - INFO - Welcome to Rare's Android Profile Builder! Enjoy the process.
+2024-10-06 01:14:10,579 - INFO - Loading configuration...
+2024-10-06 01:14:10,599 - INFO - Loaded 5 search queries from searchlist.txt
+2024-10-06 01:14:10,601 - INFO - Loaded 5 search queries from searchlist.txt
+2024-10-06 01:14:10,644 - INFO - [36mPixel 6a - Starting task loop on device: 25281JEGR07570[0m
+2024-10-06 01:14:10,645 - INFO - [36mPixel 6a - Running 8 loops on device 25281JEGR07570[0m
+2024-10-06 01:14:10,645 - INFO - [36mPixel 6a - Starting loop 1/8[0m
+2024-10-06 01:14:10,645 - INFO - [36mPixel 6a - Starting tasks on 25281JEGR07570[0m
+2024-10-06 01:14:50,924 - INFO - Script starting...
+2024-10-06 01:14:50,925 - INFO - Welcome to Rare's Android Profile Builder! Enjoy the process.
+2024-10-06 01:14:50,925 - INFO - Loading configuration...
+2024-10-06 01:14:50,940 - INFO - Loaded 5 search queries from searchlist.txt
+2024-10-06 01:14:50,942 - INFO - Loaded 5 search queries from searchlist.txt
+2024-10-06 01:14:50,986 - INFO - [36mPixel 6a - Starting task loop on device: 25281JEGR07570[0m
+2024-10-06 01:14:50,986 - INFO - [36mPixel 6a - Running 6 loops on device 25281JEGR07570[0m
+2024-10-06 01:14:50,986 - INFO - [36mPixel 6a - Starting loop 1/6[0m
+2024-10-06 01:14:56,083 - INFO - Script starting...
+2024-10-06 01:14:56,083 - INFO - Welcome to Rare's Android Profile Builder! Enjoy the process.
+2024-10-06 01:14:56,083 - INFO - Loading configuration...
+2024-10-06 01:14:56,096 - INFO - Loaded 5 search queries from searchlist.txt
+2024-10-06 01:14:56,098 - INFO - Loaded 5 search queries from searchlist.txt
+2024-10-06 01:14:56,140 - INFO - [36mPixel 6a - Starting task loop on device: 25281JEGR07570[0m
+2024-10-06 01:14:56,141 - INFO - [36mPixel 6a - Running 9 loops on device 25281JEGR07570[0m
+2024-10-06 01:14:56,141 - INFO - [36mPixel 6a - Starting loop 1/9[0m
+2024-10-06 01:15:21,751 - INFO - Script starting...
+2024-10-06 01:15:21,752 - INFO - Welcome to Rare's Android Profile Builder! Enjoy the process.
+2024-10-06 01:15:21,752 - INFO - Loading configuration...
+2024-10-06 01:15:21,767 - INFO - Loaded 5 search queries from searchlist.txt
+2024-10-06 01:15:21,811 - INFO - [36mPixel 6a - Starting task loop on device: 25281JEGR07570[0m
+2024-10-06 01:15:21,812 - INFO - [36mPixel 6a - Running 8 loops on device 25281JEGR07570[0m
+2024-10-06 01:15:21,812 - INFO - [36mPixel 6a - Starting loop 1/8[0m
+2024-10-06 01:15:21,812 - INFO - [36mPixel 6a - Starting tasks on 25281JEGR07570[0m
+2024-10-06 01:15:21,812 - INFO - [36mPixel 6a - Task list generated: ['wikipedia_search', 'google_search'][0m
+2024-10-06 01:15:21,813 - INFO - [36mPixel 6a - Performing a Google search for 'Machine learning'[0m
+2024-10-06 01:15:21,813 - INFO - Opening Google on 25281JEGR07570
+2024-10-06 01:15:21,999 - INFO - Waiting for 6.02 seconds.
+2024-10-06 01:15:28,023 - INFO - Waiting for 5.51 seconds.
+2024-10-06 01:15:33,670 - INFO - Waiting for 0.86 seconds.
+2024-10-06 01:15:34,595 - INFO - Waiting for 0.86 seconds.
+2024-10-06 01:15:35,534 - INFO - Waiting for 0.90 seconds.
+2024-10-06 01:15:36,571 - INFO - Waiting for 0.64 seconds.
+2024-10-06 01:15:37,335 - INFO - Waiting for 0.52 seconds.
+2024-10-06 01:15:37,852 - INFO - Searching for 'Machine learning' on 25281JEGR07570
+2024-10-06 01:15:38,450 - INFO - Waiting for 8.63 seconds.
+2024-10-06 01:15:47,080 - INFO - Scrolling and reading on 25281JEGR07570
+2024-10-06 01:15:47,478 - INFO - Reading for 22.49 seconds after scroll 1/3
+2024-10-06 01:16:13,148 - INFO - Script starting...
+2024-10-06 01:16:13,148 - INFO - Welcome to Rare's Android Profile Builder! Enjoy the process.
+2024-10-06 01:16:13,150 - INFO - Loading configuration...
+2024-10-06 01:16:13,171 - INFO - Loaded 5 search queries from searchlist.txt
+2024-10-06 01:16:13,212 - INFO - [36mPixel 6a - Starting task loop on device: 25281JEGR07570[0m
+2024-10-06 01:16:13,212 - INFO - [36mPixel 6a - Running 10 loops on device 25281JEGR07570[0m
+2024-10-06 01:16:13,213 - INFO - [36mPixel 6a - Starting loop 1/10[0m
+2024-10-06 01:16:13,213 - INFO - [36mPixel 6a - Starting tasks on 25281JEGR07570[0m
+2024-10-06 01:16:13,213 - INFO - [36mPixel 6a - Task list generated: ['wikipedia_search', 'google_search'][0m
+2024-10-06 01:16:13,213 - INFO - [36mPixel 6a - Performing a Google search for 'History of the internet'[0m
+2024-10-06 01:16:13,213 - INFO - Opening Google on 25281JEGR07570
+2024-10-06 01:16:13,492 - INFO - Waiting for 6.81 seconds.
+2024-10-06 01:16:20,298 - INFO - Waiting for 5.96 seconds.
+2024-10-06 01:16:26,406 - INFO - Waiting for 0.63 seconds.
+2024-10-06 01:16:27,127 - INFO - Waiting for 0.66 seconds.
+2024-10-06 01:16:27,866 - INFO - Waiting for 0.95 seconds.
+2024-10-06 01:16:28,876 - INFO - Waiting for 0.88 seconds.
+2024-10-06 01:16:29,831 - INFO - Waiting for 0.89 seconds.
+2024-10-06 01:16:30,725 - INFO - Searching for 'History of the internet' on 25281JEGR07570
+2024-10-06 01:16:31,462 - INFO - Waiting for 8.15 seconds.
+2024-10-06 01:16:39,612 - INFO - Scrolling and reading on 25281JEGR07570
+2024-10-06 01:16:40,005 - INFO - Reading for 16.79 seconds after scroll 1/3
+2024-10-06 01:17:43,795 - INFO - Script starting...
+2024-10-06 01:17:43,795 - INFO - Welcome to Rare's Android Profile Builder! Enjoy the process.
+2024-10-06 01:17:43,795 - INFO - Loading configuration...
+2024-10-06 01:17:43,809 - INFO - Loaded 5 search queries from searchlist.txt
+2024-10-06 01:17:43,811 - INFO - Setting ADB to TCP/IP mode for device 192.168.50.101
+2024-10-06 01:17:43,854 - INFO - [36mPixel 6a - Running 5 loops on device 25281JEGR07570
+2024-10-06 01:17:43,854 - INFO - [36mPixel 6a - Starting loop 1/5
+2024-10-06 01:17:43,854 - INFO - [36mPixel 6a - Starting tasks on 25281JEGR07570[0m
+2024-10-06 01:17:43,855 - INFO - [36mPixel 6a - Task list generated: ['wikipedia_search', 'google_search'][0m
+2024-10-06 01:17:43,855 - INFO - [36mPixel 6a - Performing a Google search for 'Artificial intelligence'[0m
+2024-10-06 01:17:43,855 - INFO - Opening Google on 25281JEGR07570
+2024-10-06 01:17:44,051 - INFO - Connecting to device at 192.168.50.101
+2024-10-06 01:17:44,052 - ERROR - ADB command failed: shell am start -a android.intent.action.VIEW -d 'https://www.google.com', error: error: closed
+
+2024-10-06 01:17:44,118 - INFO - Successfully connected to device 192.168.50.101 via ADB over IP.
+2024-10-06 01:17:44,118 - INFO - [32mATV01 - Running 8 loops on device 192.168.50.101
+2024-10-06 01:17:44,118 - INFO - [32mATV01 - Starting loop 1/8
+2024-10-06 01:17:44,118 - INFO - [32mATV01 - Starting tasks on 192.168.50.101[0m
+2024-10-06 01:17:44,118 - INFO - [32mATV01 - Task list generated: ['wikipedia_search', 'google_search'][0m
+2024-10-06 01:17:44,118 - INFO - [32mATV01 - Performing a Wikipedia search for 'Artificial intelligence'[0m
+2024-10-06 01:17:44,119 - INFO - Opening Wikipedia on 192.168.50.101
+2024-10-06 01:17:51,155 - INFO - Searching for 'Artificial intelligence' on 192.168.50.101
+2024-10-06 01:18:01,884 - INFO - Searching for 'Artificial intelligence' on 25281JEGR07570
+2024-10-06 01:18:09,498 - INFO - Scrolling and reading on 25281JEGR07570
+2024-10-06 01:18:09,886 - INFO - Reading for 23.78 seconds after scroll 1/3
+2024-10-06 01:18:39,245 - INFO - Script starting...
+2024-10-06 01:18:39,245 - INFO - Welcome to Rare's Android Profile Builder! Enjoy the process.
+2024-10-06 01:18:39,245 - INFO - Loading configuration...
+2024-10-06 01:18:39,260 - INFO - Loaded 5 search queries from searchlist.txt
+2024-10-06 01:18:39,262 - INFO - Setting ADB to TCP/IP mode for device 192.168.50.101
+2024-10-06 01:18:39,305 - ERROR - Failed to connect to device 192.168.50.101 over IP: Command 'adb tcpip 5555' returned non-zero exit status 1.
+2024-10-06 01:18:39,306 - INFO - [36mPixel 6a - Running 9 loops on device 25281JEGR07570
+2024-10-06 01:18:39,306 - ERROR - [32mATV01 - Device 192.168.50.101 is not connected or ADB is not working.
+2024-10-06 01:18:39,306 - INFO - [36mPixel 6a - Starting loop 1/9
+2024-10-06 01:18:39,306 - INFO - [36mPixel 6a - Starting tasks on 25281JEGR07570[0m
+2024-10-06 01:18:39,306 - INFO - [36mPixel 6a - Task list generated: ['wikipedia_search', 'google_search'][0m
+2024-10-06 01:18:39,306 - INFO - [36mPixel 6a - Performing a Google search for 'Artificial intelligence'[0m
+2024-10-06 01:18:39,306 - INFO - Opening Google on 25281JEGR07570
+2024-10-06 01:20:39,532 - INFO - Script starting...
+2024-10-06 01:20:39,532 - INFO - Welcome to Rare's Android Profile Builder! Enjoy the process.
+2024-10-06 01:20:39,533 - INFO - Loading configuration...
+2024-10-06 01:20:39,548 - INFO - Loaded 5 search queries from searchlist.txt
+2024-10-06 01:20:39,551 - INFO - Connecting to device at 192.168.50.101
+2024-10-06 01:20:39,593 - INFO - [36mPixel 6a - Running 5 loops on device 25281JEGR07570
+2024-10-06 01:20:39,593 - INFO - [36mPixel 6a - Starting loop 1/5
+2024-10-06 01:20:39,593 - INFO - [36mPixel 6a - Starting tasks on 25281JEGR07570[0m
+2024-10-06 01:20:39,594 - INFO - [36mPixel 6a - Task list generated: ['wikipedia_search', 'google_search'][0m
+2024-10-06 01:20:39,594 - INFO - [36mPixel 6a - Performing a Google search for 'Python programming language'[0m
+2024-10-06 01:20:39,594 - INFO - Opening Google on 25281JEGR07570
+2024-10-06 01:20:39,595 - INFO - Successfully connected to device 192.168.50.101 via ADB over IP.
+2024-10-06 01:20:39,595 - INFO - [32mATV01 - Running 5 loops on device 192.168.50.101
+2024-10-06 01:20:39,595 - INFO - [32mATV01 - Starting loop 1/5
+2024-10-06 01:20:39,595 - INFO - [32mATV01 - Starting tasks on 192.168.50.101[0m
+2024-10-06 01:20:39,595 - INFO - [32mATV01 - Task list generated: ['wikipedia_search', 'google_search'][0m
+2024-10-06 01:20:39,595 - INFO - [32mATV01 - Performing a Wikipedia search for 'Python programming language'[0m
+2024-10-06 01:20:39,596 - INFO - Opening Wikipedia on 192.168.50.101
+2024-10-06 01:20:47,835 - INFO - Searching for 'Python programming language' on 192.168.50.101
+2024-10-06 01:20:52,097 - ERROR - ADB command failed: shell input keyevent 61, error: adb.exe: device '25281JEGR07570' not found
+
+2024-10-06 01:20:52,897 - ERROR - ADB command failed: shell input keyevent 61, error: adb.exe: device '25281JEGR07570' not found
+
+2024-10-06 01:20:53,746 - ERROR - ADB command failed: shell input keyevent 61, error: adb.exe: device '25281JEGR07570' not found
+
+2024-10-06 01:20:54,418 - ERROR - ADB command failed: shell input keyevent 61, error: adb.exe: device '25281JEGR07570' not found
+
+2024-10-06 01:20:55,247 - ERROR - ADB command failed: shell input keyevent 61, error: adb.exe: device '25281JEGR07570' not found
+
+2024-10-06 01:20:56,214 - INFO - Searching for 'Python programming language' on 25281JEGR07570
+2024-10-06 01:20:56,254 - ERROR - ADB command failed: shell input text 'Python', error: adb.exe: device '25281JEGR07570' not found
+
+2024-10-06 01:20:56,294 - ERROR - ADB command failed: shell input text ' ', error: adb.exe: device '25281JEGR07570' not found
+
+2024-10-06 01:20:56,348 - ERROR - ADB command failed: shell input text 'programming', error: adb.exe: device '25281JEGR07570' not found
+
+2024-10-06 01:20:56,378 - ERROR - ADB command failed: shell input text ' ', error: adb.exe: device '25281JEGR07570' not found
+
+2024-10-06 01:20:56,414 - ERROR - ADB command failed: shell input text 'language', error: adb.exe: device '25281JEGR07570' not found
+
+2024-10-06 01:20:56,447 - ERROR - ADB command failed: shell input text ' ', error: adb.exe: device '25281JEGR07570' not found
+
+2024-10-06 01:20:56,486 - ERROR - ADB command failed: shell input keyevent 66, error: adb.exe: device '25281JEGR07570' not found
+
+2024-10-06 01:21:02,961 - INFO - Scrolling and reading on 25281JEGR07570
+2024-10-06 01:21:03,005 - ERROR - ADB command failed: shell input swipe 500 1500 500 1000, error: adb.exe: device '25281JEGR07570' not found
+
+2024-10-06 01:21:03,005 - INFO - Reading for 17.15 seconds after scroll 1/3
+2024-10-06 01:21:09,882 - INFO - Scrolling and reading on 192.168.50.101
+2024-10-06 01:22:58,468 - INFO - Script starting...
+2024-10-06 01:22:58,468 - INFO - Welcome to Rare's Android Profile Builder! Enjoy the process.
+2024-10-06 01:22:58,468 - INFO - Loading configuration...
+2024-10-06 01:22:58,482 - INFO - Loaded 5 search queries from searchlist.txt
+2024-10-06 01:22:58,484 - INFO - Connecting to device at 192.168.50.101
+2024-10-06 01:22:58,527 - INFO - [36mPixel 6a - Running 8 loops on device 25281JEGR07570
+2024-10-06 01:22:58,527 - INFO - [36mPixel 6a - Starting loop 1/8
+2024-10-06 01:22:58,527 - INFO - Successfully connected to device 192.168.50.101 via ADB over IP.
+2024-10-06 01:22:58,527 - INFO - [36mPixel 6a - Starting tasks on 25281JEGR07570[0m
+2024-10-06 01:22:58,527 - INFO - [32mATV01 - Running 10 loops on device 192.168.50.101
+2024-10-06 01:22:58,527 - INFO - [36mPixel 6a - Task list generated: ['wikipedia_search', 'google_search'][0m
+2024-10-06 01:22:58,527 - INFO - [32mATV01 - Starting loop 1/10
+2024-10-06 01:22:58,527 - INFO - [36mPixel 6a - Performing a Wikipedia search for 'Python programming language'[0m
+2024-10-06 01:22:58,527 - INFO - [32mATV01 - Starting tasks on 192.168.50.101[0m
+2024-10-06 01:22:58,527 - INFO - Opening Wikipedia on 25281JEGR07570
+2024-10-06 01:22:58,527 - INFO - [32mATV01 - Task list generated: ['wikipedia_search', 'google_search'][0m
+2024-10-06 01:22:58,528 - INFO - [32mATV01 - Performing a Wikipedia search for 'Quantum mechanics'[0m
+2024-10-06 01:22:58,528 - INFO - Opening Wikipedia on 192.168.50.101
+2024-10-06 01:22:58,569 - ERROR - Device 25281JEGR07570 is not available: adb.exe: device '25281JEGR07570' not found
+2024-10-06 01:23:05,740 - INFO - Searching for 'Python programming language' on 25281JEGR07570
+2024-10-06 01:23:05,740 - ERROR - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text 'Python'
+2024-10-06 01:23:05,740 - ERROR - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text ' '
+2024-10-06 01:23:05,740 - ERROR - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text 'programming'
+2024-10-06 01:23:05,740 - ERROR - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text ' '
+2024-10-06 01:23:05,740 - ERROR - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text 'language'
+2024-10-06 01:23:05,740 - ERROR - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text ' '
+2024-10-06 01:23:05,740 - ERROR - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input keyevent 66
+2024-10-06 01:23:06,419 - INFO - Searching for 'Quantum mechanics' on 192.168.50.101
+2024-10-06 01:23:10,819 - INFO - Scrolling and reading on 25281JEGR07570
+2024-10-06 01:23:10,819 - ERROR - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input swipe 500 1500 500 1000
+2024-10-06 01:23:10,819 - INFO - Reading for 17.59 seconds after scroll 1/3
+2024-10-06 01:23:20,192 - INFO - Scrolling and reading on 192.168.50.101
+2024-10-06 01:23:21,870 - INFO - Reading for 17.42 seconds after scroll 1/3
+2024-10-06 01:23:28,414 - ERROR - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input swipe 500 1500 500 1000
+2024-10-06 01:23:28,415 - INFO - Reading for 19.53 seconds after scroll 2/3
+2024-10-06 01:23:42,522 - INFO - Reading for 20.64 seconds after scroll 2/3
+2024-10-06 01:23:47,950 - ERROR - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input swipe 500 1500 500 1000
+2024-10-06 01:23:47,950 - INFO - Reading for 18.38 seconds after scroll 3/3
+2024-10-06 01:24:06,234 - INFO - Reading for 19.70 seconds after scroll 3/3
+2024-10-06 01:24:12,460 - INFO - [36mPixel 6a - Completed loop 1/8
+2024-10-06 01:24:23,139 - INFO - Script starting...
+2024-10-06 01:24:23,139 - INFO - Welcome to Rare's Android Profile Builder! Enjoy the process.
+2024-10-06 01:24:23,140 - INFO - Loading configuration...
+2024-10-06 01:24:23,154 - INFO - Loaded 5 search queries from searchlist.txt
+2024-10-06 01:24:23,156 - INFO - Connecting to device at 192.168.50.101
+2024-10-06 01:24:23,199 - INFO - [36mPixel 6a - Running 7 loops on device 25281JEGR07570
+2024-10-06 01:24:23,199 - INFO - [36mPixel 6a - Starting loop 1/7
+2024-10-06 01:24:23,199 - INFO - [36mPixel 6a - Starting tasks on 25281JEGR07570[0m
+2024-10-06 01:24:23,199 - INFO - [36mPixel 6a - Task list generated: ['wikipedia_search', 'google_search'][0m
+2024-10-06 01:24:23,200 - INFO - [36mPixel 6a - Performing a Wikipedia search for 'History of the internet'[0m
+2024-10-06 01:24:23,200 - INFO - Opening Wikipedia on 25281JEGR07570
+2024-10-06 01:24:23,201 - INFO - Successfully connected to device 192.168.50.101 via ADB over IP.
+2024-10-06 01:24:23,201 - INFO - [32mATV01 - Running 9 loops on device 192.168.50.101
+2024-10-06 01:24:23,201 - INFO - [32mATV01 - Starting loop 1/9
+2024-10-06 01:24:23,201 - INFO - [32mATV01 - Starting tasks on 192.168.50.101[0m
+2024-10-06 01:24:23,201 - INFO - [32mATV01 - Task list generated: ['wikipedia_search', 'google_search'][0m
+2024-10-06 01:24:23,201 - INFO - [32mATV01 - Performing a Wikipedia search for 'Quantum mechanics'[0m
+2024-10-06 01:24:23,201 - INFO - Opening Wikipedia on 192.168.50.101
+2024-10-06 01:24:23,240 - ERROR - Device 25281JEGR07570 is not available: adb.exe: device '25281JEGR07570' not found
+2024-10-06 01:24:30,596 - INFO - Searching for 'Quantum mechanics' on 192.168.50.101
+2024-10-06 01:24:30,610 - INFO - Searching for 'History of the internet' on 25281JEGR07570
+2024-10-06 01:24:30,610 - ERROR - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text 'History'
+2024-10-06 01:24:30,610 - ERROR - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text ' '
+2024-10-06 01:24:30,612 - ERROR - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text 'of'
+2024-10-06 01:24:30,612 - ERROR - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text ' '
+2024-10-06 01:24:30,612 - ERROR - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text 'the'
+2024-10-06 01:24:30,612 - ERROR - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text ' '
+2024-10-06 01:24:30,612 - ERROR - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text 'internet'
+2024-10-06 01:24:30,612 - ERROR - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text ' '
+2024-10-06 01:24:30,613 - ERROR - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input keyevent 66
+2024-10-06 01:24:40,251 - INFO - Scrolling and reading on 25281JEGR07570
+2024-10-06 01:24:40,251 - ERROR - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input swipe 500 1500 500 1000
+2024-10-06 01:24:40,251 - INFO - Reading for 15.31 seconds after scroll 1/3
+2024-10-06 01:24:50,085 - INFO - Scrolling and reading on 192.168.50.101
+2024-10-06 01:24:55,564 - ERROR - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input swipe 500 1500 500 1000
+2024-10-06 01:24:55,564 - INFO - Reading for 23.63 seconds after scroll 2/3
+2024-10-06 01:25:00,071 - INFO - Reading for 15.86 seconds after scroll 1/3
+2024-10-06 01:25:17,821 - INFO - Reading for 17.42 seconds after scroll 2/3
+2024-10-06 01:25:19,194 - ERROR - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input swipe 500 1500 500 1000
+2024-10-06 01:25:19,194 - INFO - Reading for 21.46 seconds after scroll 3/3
+2024-10-06 01:25:37,801 - INFO - Reading for 17.44 seconds after scroll 3/3
+2024-10-06 01:25:48,578 - INFO - [36mPixel 6a - Completed loop 1/7
+2024-10-06 01:26:01,858 - INFO - [32mATV01 - Performing a Wikipedia search for 'History of the internet'[0m
+2024-10-06 01:26:01,858 - INFO - Opening Wikipedia on 192.168.50.101
+2024-10-06 01:26:09,650 - INFO - Searching for 'History of the internet' on 192.168.50.101
+2024-10-06 01:26:39,364 - INFO - Scrolling and reading on 192.168.50.101
+2024-10-06 01:26:45,966 - INFO - Reading for 20.53 seconds after scroll 1/3
+2024-10-06 01:27:08,637 - INFO - Reading for 15.19 seconds after scroll 2/3
+2024-10-06 01:27:26,443 - INFO - Reading for 17.07 seconds after scroll 3/3
+2024-10-06 01:27:48,685 - INFO - [32mATV01 - Performing a Google search for 'Artificial intelligence'[0m
+2024-10-06 01:27:48,685 - INFO - Opening Google on 192.168.50.101
+2024-10-06 01:28:36,971 - INFO - Searching for 'Artificial intelligence' on 192.168.50.101
+2024-10-06 01:29:49,495 - INFO - Script starting...
+2024-10-06 01:29:49,495 - INFO - Welcome to Rare's Android Profile Builder! Enjoy the process.
+2024-10-06 01:29:49,495 - INFO - Loading configuration...
+2024-10-06 01:29:49,523 - INFO - Loaded 313 search queries from searchlist.txt
+2024-10-06 01:29:49,525 - INFO - Connecting to device at 192.168.50.101
+2024-10-06 01:29:49,567 - INFO - [36mPixel 6a - Running 7 loops on device 25281JEGR07570
+2024-10-06 01:29:49,568 - INFO - [36mPixel 6a - Starting loop 1/7
+2024-10-06 01:29:49,568 - INFO - [36mPixel 6a - Starting tasks on 25281JEGR07570[0m
+2024-10-06 01:29:49,568 - INFO - [36mPixel 6a - Task list generated: ['wikipedia_search', 'google_search'][0m
+2024-10-06 01:29:49,568 - INFO - [36mPixel 6a - Performing a Wikipedia search for 'Carbon capture technology'[0m
+2024-10-06 01:29:49,568 - INFO - Opening Wikipedia on 25281JEGR07570
+2024-10-06 01:29:49,570 - INFO - Successfully connected to device 192.168.50.101 via ADB over IP.
+2024-10-06 01:29:49,570 - INFO - [32mATV01 - Running 8 loops on device 192.168.50.101
+2024-10-06 01:29:49,570 - INFO - [32mATV01 - Starting loop 1/8
+2024-10-06 01:29:49,570 - INFO - [32mATV01 - Starting tasks on 192.168.50.101[0m
+2024-10-06 01:29:49,570 - INFO - [32mATV01 - Task list generated: ['wikipedia_search', 'google_search'][0m
+2024-10-06 01:29:49,572 - INFO - [32mATV01 - Performing a Wikipedia search for 'Human genome project'[0m
+2024-10-06 01:29:49,572 - INFO - Opening Wikipedia on 192.168.50.101
+2024-10-06 01:29:49,608 - ERROR - Pixel 6a - Device 25281JEGR07570 is not available: adb.exe: device '25281JEGR07570' not found
+2024-10-06 01:29:56,470 - INFO - Searching for 'Human genome project' on 192.168.50.101
+2024-10-06 01:29:56,779 - INFO - Searching for 'Carbon capture technology' on 25281JEGR07570
+2024-10-06 01:29:56,779 - ERROR - Pixel 6a - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text 'Carbon'
+2024-10-06 01:29:56,779 - ERROR - Pixel 6a - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text ' '
+2024-10-06 01:29:56,779 - ERROR - Pixel 6a - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text 'capture'
+2024-10-06 01:29:56,779 - ERROR - Pixel 6a - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text ' '
+2024-10-06 01:29:56,779 - ERROR - Pixel 6a - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text 'technology'
+2024-10-06 01:29:56,779 - ERROR - Pixel 6a - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text ' '
+2024-10-06 01:29:56,780 - ERROR - Pixel 6a - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input keyevent 66
+2024-10-06 01:30:02,547 - INFO - Scrolling and reading on 25281JEGR07570
+2024-10-06 01:30:02,547 - ERROR - Pixel 6a - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input swipe 500 1500 500 1000
+2024-10-06 01:30:02,547 - INFO - Reading for 17.85 seconds after scroll 1/3
+2024-10-06 01:30:20,395 - ERROR - Pixel 6a - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input swipe 500 1500 500 1000
+2024-10-06 01:30:20,395 - INFO - Reading for 23.86 seconds after scroll 2/3
+2024-10-06 01:30:22,640 - INFO - Scrolling and reading on 192.168.50.101
+2024-10-06 01:30:25,801 - INFO - Reading for 22.88 seconds after scroll 1/3
+2024-10-06 01:30:44,259 - ERROR - Pixel 6a - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input swipe 500 1500 500 1000
+2024-10-06 01:30:44,260 - INFO - Reading for 19.76 seconds after scroll 3/3
+2024-10-06 01:30:51,046 - INFO - Reading for 22.46 seconds after scroll 2/3
+2024-10-06 01:31:12,697 - INFO - [36mPixel 6a - Completed loop 1/7
+2024-10-06 01:31:15,465 - INFO - Reading for 17.80 seconds after scroll 3/3
+2024-10-06 01:31:42,748 - INFO - [32mATV01 - Performing a Wikipedia search for 'Space law'[0m
+2024-10-06 01:31:42,748 - INFO - Opening Wikipedia on 192.168.50.101
+2024-10-06 01:31:48,872 - INFO - Script starting...
+2024-10-06 01:31:48,872 - INFO - Welcome to Rare's Android Profile Builder! Enjoy the process.
+2024-10-06 01:31:48,872 - INFO - Loading configuration...
+2024-10-06 01:31:48,887 - INFO - Loaded 313 search queries from searchlist.txt
+2024-10-06 01:31:48,888 - INFO - Connecting to device at 192.168.50.101
+2024-10-06 01:31:48,932 - INFO - [36mPixel 6a - Running 9 loops on device 25281JEGR07570
+2024-10-06 01:31:48,932 - INFO - [36mPixel 6a - Starting loop 1/9
+2024-10-06 01:31:48,933 - INFO - [36mPixel 6a - Starting tasks on 25281JEGR07570[0m
+2024-10-06 01:31:48,933 - INFO - [36mPixel 6a - Task list generated: ['wikipedia_search', 'google_search'][0m
+2024-10-06 01:31:48,933 - INFO - [36mPixel 6a - Performing a Google search for 'Invisibility cloaks'[0m
+2024-10-06 01:31:48,933 - INFO - Opening Google on 25281JEGR07570
+2024-10-06 01:31:48,935 - INFO - Successfully connected to device 192.168.50.101 via ADB over IP.
+2024-10-06 01:31:48,935 - INFO - [32mATV01 - Running 6 loops on device 192.168.50.101
+2024-10-06 01:31:48,935 - INFO - [32mATV01 - Starting loop 1/6
+2024-10-06 01:31:48,935 - INFO - [32mATV01 - Starting tasks on 192.168.50.101[0m
+2024-10-06 01:31:48,935 - INFO - [32mATV01 - Task list generated: ['wikipedia_search', 'google_search'][0m
+2024-10-06 01:31:48,935 - INFO - [32mATV01 - Performing a Google search for 'AI-powered prosthetics'[0m
+2024-10-06 01:31:48,935 - INFO - Opening Google on 192.168.50.101
+2024-10-06 01:31:48,981 - ERROR - Pixel 6a - Device 25281JEGR07570 is not available: adb.exe: device '25281JEGR07570' not found
+2024-10-06 01:32:10,639 - INFO - [36mPixel 6a - Completed loop 1/9
+2024-10-06 01:32:13,746 - INFO - Searching for 'AI-powered prosthetics' on 192.168.50.101
+2024-10-06 01:32:39,113 - INFO - Script starting...
+2024-10-06 01:32:39,113 - INFO - Welcome to Rare's Android Profile Builder! Enjoy the process.
+2024-10-06 01:32:39,115 - INFO - Loading configuration...
+2024-10-06 01:32:39,122 - INFO - Loaded 313 search queries from searchlist.txt
+2024-10-06 01:32:39,123 - INFO - Connecting to device at 192.168.50.101
+2024-10-06 01:32:39,164 - INFO - [36mPixel 6a - Running 9 loops on device 25281JEGR07570
+2024-10-06 01:32:39,164 - INFO - [36mPixel 6a - Starting loop 1/9
+2024-10-06 01:32:39,164 - INFO - [36mPixel 6a - Starting tasks on 25281JEGR07570[0m
+2024-10-06 01:32:39,166 - INFO - [36mPixel 6a - Task list generated: ['wikipedia_search', 'google_search'][0m
+2024-10-06 01:32:39,166 - INFO - [36mPixel 6a - Performing a Google search for 'Internet censorship'[0m
+2024-10-06 01:32:39,166 - INFO - Opening Google on 25281JEGR07570
+2024-10-06 01:32:39,168 - INFO - Successfully connected to device 192.168.50.101 via ADB over IP.
+2024-10-06 01:32:39,168 - INFO - [32mATV01 - Running 9 loops on device 192.168.50.101
+2024-10-06 01:32:39,168 - INFO - [32mATV01 - Starting loop 1/9
+2024-10-06 01:32:39,168 - INFO - [32mATV01 - Starting tasks on 192.168.50.101[0m
+2024-10-06 01:32:39,168 - INFO - [32mATV01 - Task list generated: ['wikipedia_search', 'google_search'][0m
+2024-10-06 01:32:39,169 - INFO - [32mATV01 - Performing a Wikipedia search for 'Theory of relativity'[0m
+2024-10-06 01:32:39,169 - INFO - Opening Wikipedia on 192.168.50.101
+2024-10-06 01:32:39,206 - ERROR - Pixel 6a - Device 25281JEGR07570 is not available: adb.exe: device '25281JEGR07570' not found
+2024-10-06 01:32:47,827 - INFO - Searching for 'Theory of relativity' on 192.168.50.101
+2024-10-06 01:33:00,567 - INFO - [36mPixel 6a - Completed loop 1/9
+2024-10-06 01:33:52,991 - INFO - Script starting...
+2024-10-06 01:33:52,992 - INFO - Welcome to Rare's Android Profile Builder! Enjoy the process.
+2024-10-06 01:33:52,992 - INFO - Loading configuration...
+2024-10-06 01:33:53,002 - INFO - Loaded 313 search queries from searchlist.txt
+2024-10-06 01:33:53,004 - INFO - Connecting to device at 192.168.50.101
+2024-10-06 01:33:53,045 - INFO - Successfully connected to device 192.168.50.101 via ADB over IP.
+2024-10-06 01:34:05,056 - INFO - Script starting...
+2024-10-06 01:34:05,056 - INFO - Welcome to Rare's Android Profile Builder! Enjoy the process.
+2024-10-06 01:34:05,056 - INFO - Loading configuration...
+2024-10-06 01:34:05,059 - INFO - Loaded 313 search queries from searchlist.txt
+2024-10-06 01:34:05,060 - INFO - Connecting to device at 192.168.50.101
+2024-10-06 01:34:05,103 - INFO - Successfully connected to device 192.168.50.101 via ADB over IP.
+2024-10-06 01:36:01,134 - INFO - Script starting...
+2024-10-06 01:36:01,136 - INFO - Welcome to Rare's Android Profile Builder! Enjoy the process.
+2024-10-06 01:36:01,136 - INFO - Loading configuration...
+2024-10-06 01:36:01,147 - INFO - Loaded 608 search queries from searchlist.txt
+2024-10-06 01:36:01,147 - INFO - Configured device: Pixel 6a with ID: 25281JEGR07570
+2024-10-06 01:36:01,148 - INFO - Configured device: ATV01 with ID: 192.168.50.101
+2024-10-06 01:36:01,148 - INFO - Starting tasks for device: [36mPixel 6a[0m
+2024-10-06 01:36:01,150 - INFO - Starting tasks for device: [32mATV01[0m
+2024-10-06 01:36:01,150 - INFO - Connecting to device at 192.168.50.101
+2024-10-06 01:36:01,199 - INFO - Successfully connected to device 192.168.50.101 via ADB over IP.
+2024-10-06 01:36:01,199 - INFO - All tasks submitted for execution.
+2024-10-06 01:36:53,578 - INFO - Script starting...
+2024-10-06 01:36:53,578 - INFO - Welcome to Rare's Android Profile Builder! Enjoy the process.
+2024-10-06 01:36:53,578 - INFO - Loading configuration...
+2024-10-06 01:36:53,582 - INFO - Loaded 608 search queries from searchlist.txt
+2024-10-06 01:36:53,584 - INFO - Connecting to device at 192.168.50.101
+2024-10-06 01:36:53,628 - INFO - Successfully connected to device 192.168.50.101 via ADB over IP.
+2024-10-06 01:36:55,172 - INFO - Script starting...
+2024-10-06 01:36:55,172 - INFO - Welcome to Rare's Android Profile Builder! Enjoy the process.
+2024-10-06 01:36:55,173 - INFO - Loading configuration...
+2024-10-06 01:36:55,175 - INFO - Loaded 608 search queries from searchlist.txt
+2024-10-06 01:36:55,177 - INFO - Connecting to device at 192.168.50.101
+2024-10-06 01:36:55,221 - INFO - Successfully connected to device 192.168.50.101 via ADB over IP.
+2024-10-06 01:37:23,849 - INFO - Script starting...
+2024-10-06 01:37:23,849 - INFO - Welcome to Rare's Android Profile Builder! Enjoy the process.
+2024-10-06 01:37:23,850 - INFO - Loading configuration...
+2024-10-06 01:37:23,860 - INFO - Loaded 608 search queries from searchlist.txt
+2024-10-06 01:37:23,860 - INFO - Configured device: Pixel 6a with ID: 25281JEGR07570
+2024-10-06 01:37:23,860 - INFO - Configured device: ATV01 with ID: 192.168.50.101
+2024-10-06 01:37:23,860 - INFO - Starting tasks for device: [36mPixel 6a[0m
+2024-10-06 01:37:23,862 - INFO - Starting tasks for device: [32mATV01[0m
+2024-10-06 01:37:23,863 - INFO - Connecting to device at 192.168.50.101
+2024-10-06 01:37:23,906 - INFO - [36mPixel 6a - Running 10 loops on device 25281JEGR07570
+2024-10-06 01:37:23,907 - INFO - [36mPixel 6a - Starting loop 1/10
+2024-10-06 01:37:23,907 - INFO - [36mPixel 6a - Starting tasks on 25281JEGR07570[0m
+2024-10-06 01:37:23,907 - INFO - [36mPixel 6a - Task list generated: ['wikipedia_search', 'google_search'][0m
+2024-10-06 01:37:23,908 - INFO - [36mPixel 6a - Performing a Wikipedia search for 'Quantum biology'[0m
+2024-10-06 01:37:23,908 - INFO - Opening Wikipedia on 25281JEGR07570
+2024-10-06 01:37:23,909 - INFO - Successfully connected to device 192.168.50.101 via ADB over IP.
+2024-10-06 01:37:23,910 - INFO - [32mATV01 - Running 10 loops on device 192.168.50.101
+2024-10-06 01:37:23,910 - INFO - [32mATV01 - Starting loop 1/10
+2024-10-06 01:37:23,910 - INFO - [32mATV01 - Starting tasks on 192.168.50.101[0m
+2024-10-06 01:37:23,910 - INFO - [32mATV01 - Task list generated: ['wikipedia_search', 'google_search'][0m
+2024-10-06 01:37:23,910 - INFO - [32mATV01 - Performing a Wikipedia search for 'The role of technology in improving accessibility'[0m
+2024-10-06 01:37:23,910 - INFO - Opening Wikipedia on 192.168.50.101
+2024-10-06 01:37:23,950 - ERROR - Pixel 6a - Device 25281JEGR07570 is not available: adb.exe: device '25281JEGR07570' not found
+2024-10-06 01:37:30,358 - INFO - Searching for 'Quantum biology' on 25281JEGR07570
+2024-10-06 01:37:30,358 - ERROR - Pixel 6a - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text 'Quantum'
+2024-10-06 01:37:30,359 - ERROR - Pixel 6a - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text ' '
+2024-10-06 01:37:30,359 - ERROR - Pixel 6a - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text 'biology'
+2024-10-06 01:37:30,359 - ERROR - Pixel 6a - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text ' '
+2024-10-06 01:37:30,359 - ERROR - Pixel 6a - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input keyevent 66
+2024-10-06 01:37:31,516 - INFO - Searching for 'The role of technology in improving accessibility' on 192.168.50.101
+2024-10-06 01:37:44,017 - INFO - [36mPixel 6a - Completed loop 1/10
+2024-10-06 01:38:20,687 - INFO - [32mATV01 - Performing a Google search for 'History of vaccines'[0m
+2024-10-06 01:38:20,687 - INFO - Opening Google on 192.168.50.101
+2024-10-06 01:38:55,891 - INFO - Searching for 'History of vaccines' on 192.168.50.101
+2024-10-06 01:39:31,427 - INFO - Scrolling and reading on 192.168.50.101
+2024-10-06 01:39:54,960 - INFO - Reading for 15.66 seconds after scroll 1/3
+2024-10-06 01:40:15,879 - INFO - Reading for 16.42 seconds after scroll 2/3
+2024-10-06 01:40:18,654 - INFO - Script starting...
+2024-10-06 01:40:18,654 - INFO - Welcome to Rare's Android Profile Builder! Enjoy the process.
+2024-10-06 01:40:18,654 - INFO - Loading configuration...
+2024-10-06 01:40:18,663 - INFO - Loaded 608 search queries from searchlist.txt
+2024-10-06 01:40:18,664 - INFO - Configured device: Pixel 6a with ID: 25281JEGR07570
+2024-10-06 01:40:18,664 - INFO - Configured device: ATV01 with ID: 192.168.50.101
+2024-10-06 01:40:18,664 - INFO - Starting tasks for device: [36mPixel 6a[0m
+2024-10-06 01:40:18,665 - INFO - Starting tasks for device: [32mATV01[0m
+2024-10-06 01:40:18,665 - INFO - Connecting to device at 192.168.50.101
+2024-10-06 01:40:18,707 - INFO - [36mPixel 6a - Running 3 loops on device 25281JEGR07570
+2024-10-06 01:40:18,707 - INFO - [36mPixel 6a - Starting loop 1/3
+2024-10-06 01:40:18,708 - INFO - [36mPixel 6a - Starting tasks on 25281JEGR07570[0m
+2024-10-06 01:40:18,708 - INFO - [36mPixel 6a - Task list generated: ['wikipedia_search', 'google_search'][0m
+2024-10-06 01:40:18,708 - INFO - [36mPixel 6a - Performing a Google search for 'Solar storm prediction'[0m
+2024-10-06 01:40:18,708 - INFO - Opening Google on 25281JEGR07570
+2024-10-06 01:40:18,710 - INFO - Successfully connected to device 192.168.50.101 via ADB over IP.
+2024-10-06 01:40:18,710 - INFO - [32mATV01 - Running 5 loops on device 192.168.50.101
+2024-10-06 01:40:18,710 - INFO - [32mATV01 - Starting loop 1/5
+2024-10-06 01:40:18,710 - INFO - [32mATV01 - Starting tasks on 192.168.50.101[0m
+2024-10-06 01:40:18,711 - INFO - [32mATV01 - Task list generated: ['wikipedia_search', 'google_search'][0m
+2024-10-06 01:40:18,711 - INFO - [32mATV01 - Performing a Google search for 'The Big Bang theory'[0m
+2024-10-06 01:40:18,711 - INFO - Opening Google on 192.168.50.101
+2024-10-06 01:40:18,748 - ERROR - Pixel 6a - Device 25281JEGR07570 is not available: adb.exe: device '25281JEGR07570' not found
+2024-10-06 01:40:39,361 - ERROR - [36mPixel 6a - Skipping tasks due to disconnection.
+2024-10-06 01:40:39,361 - INFO - [36mPixel 6a - Completed loop 1/3
+2024-10-06 01:40:57,062 - INFO - Searching for 'The Big Bang theory' on 192.168.50.101
+2024-10-06 01:42:21,070 - INFO - Script starting...
+2024-10-06 01:42:21,070 - INFO - Welcome to Rare's Android Profile Builder! Enjoy the process.
+2024-10-06 01:42:21,071 - INFO - Loading configuration...
+2024-10-06 01:42:21,073 - INFO - Loaded 608 search queries from searchlist.txt
+2024-10-06 01:42:21,074 - INFO - Configured device: Pixel 6a with ID: 25281JEGR07570
+2024-10-06 01:42:21,074 - INFO - Configured device: ATV01 with ID: 192.168.50.101
+2024-10-06 01:42:21,074 - INFO - Starting tasks for device: [36mPixel 6a[0m
+2024-10-06 01:42:21,076 - INFO - Starting tasks for device: [32mATV01[0m
+2024-10-06 01:42:21,076 - INFO - Connecting to device at 192.168.50.101
+2024-10-06 01:42:21,119 - INFO - [36mPixel 6a - Running 5 loops on device 25281JEGR07570
+2024-10-06 01:42:21,119 - INFO - Successfully connected to device 192.168.50.101 via ADB over IP.
+2024-10-06 01:42:21,120 - INFO - [36mPixel 6a - Starting loop 1/5
+2024-10-06 01:42:21,120 - INFO - [32mATV01 - Running 2 loops on device 192.168.50.101
+2024-10-06 01:42:21,120 - INFO - [36mPixel 6a - Starting tasks on 25281JEGR07570[0m
+2024-10-06 01:42:21,120 - INFO - [32mATV01 - Starting loop 1/2
+2024-10-06 01:42:21,120 - INFO - [36mPixel 6a - Task list generated: ['wikipedia_search', 'google_search'][0m
+2024-10-06 01:42:21,121 - INFO - [32mATV01 - Starting tasks on 192.168.50.101[0m
+2024-10-06 01:42:21,121 - INFO - [36mPixel 6a - Performing a Google search for 'History of World War II'[0m
+2024-10-06 01:42:21,121 - INFO - [32mATV01 - Task list generated: ['wikipedia_search', 'google_search'][0m
+2024-10-06 01:42:21,121 - INFO - Opening Google on 25281JEGR07570
+2024-10-06 01:42:21,121 - INFO - [32mATV01 - Performing a Google search for 'Quantum field theory'[0m
+2024-10-06 01:42:21,122 - INFO - Opening Google on 192.168.50.101
+2024-10-06 01:42:21,172 - ERROR - Pixel 6a - Device 25281JEGR07570 is not available: adb.exe: device '25281JEGR07570' not found
+2024-10-06 01:42:41,445 - ERROR - [36mPixel 6a - Skipping tasks due to disconnection.
+2024-10-06 01:42:41,446 - INFO - [36mPixel 6a - Completed loop 1/5
+2024-10-06 01:42:53,551 - INFO - Searching for 'Quantum field theory' on 192.168.50.101
+2024-10-06 01:42:53,742 - ERROR - [36mPixel 6a - Stopping further tasks due to disconnection.
+2024-10-06 01:43:25,357 - INFO - [32mATV01 - Performing a Google search for 'The future of cloud computing'[0m
+2024-10-06 01:43:25,357 - INFO - Opening Google on 192.168.50.101
+2024-10-06 01:44:14,394 - INFO - Searching for 'The future of cloud computing' on 192.168.50.101
+2024-10-06 01:45:00,924 - INFO - [32mATV01 - Performing a Google search for 'AI in legal technology'[0m
+2024-10-06 01:45:00,924 - INFO - Opening Google on 192.168.50.101
+2024-10-06 01:45:39,772 - INFO - Searching for 'AI in legal technology' on 192.168.50.101
+2024-10-06 01:46:22,289 - INFO - [32mATV01 - Performing a Wikipedia search for 'AI in healthcare'[0m
+2024-10-06 01:46:22,290 - INFO - Opening Wikipedia on 192.168.50.101
+2024-10-06 01:56:12,649 - INFO - Script starting...
+2024-10-06 01:56:12,650 - INFO - Welcome to Rare's Android Profile Builder! Enjoy the process.
+2024-10-06 01:56:12,650 - INFO - Loading configuration...
+2024-10-06 01:56:12,662 - INFO - Loaded 856 search queries from searchlist.txt
+2024-10-06 01:56:12,663 - INFO - Configured device: Pixel 6a with ID: 25281JEGR07570
+2024-10-06 01:56:12,663 - INFO - Configured device: ATV01 with ID: 192.168.50.101
+2024-10-06 01:56:12,663 - INFO - Starting tasks for device: [36mPixel 6a[0m
+2024-10-06 01:56:12,665 - INFO - Starting tasks for device: [32mATV01[0m
+2024-10-06 01:56:12,666 - INFO - Connecting to device at 192.168.50.101
+2024-10-06 01:56:12,711 - INFO - [36mPixel 6a - Running 1 loops on device 25281JEGR07570
+2024-10-06 01:56:12,711 - INFO - [36mPixel 6a - Starting loop 1/1
+2024-10-06 01:56:12,711 - INFO - [36mPixel 6a - Starting tasks on 25281JEGR07570[0m
+2024-10-06 01:56:12,711 - INFO - [36mPixel 6a - Task list generated: ['wikipedia_search', 'google_search'][0m
+2024-10-06 01:56:12,713 - INFO - [36mPixel 6a - Performing a Wikipedia search for 'How can I track Pokémon spawns in my area?'[0m
+2024-10-06 01:56:12,713 - INFO - Opening Wikipedia on 25281JEGR07570
+2024-10-06 01:56:12,714 - INFO - Successfully connected to device 192.168.50.101 via ADB over IP.
+2024-10-06 01:56:12,714 - INFO - [32mATV01 - Running 5 loops on device 192.168.50.101
+2024-10-06 01:56:12,714 - INFO - [32mATV01 - Starting loop 1/5
+2024-10-06 01:56:12,715 - INFO - [32mATV01 - Starting tasks on 192.168.50.101[0m
+2024-10-06 01:56:12,715 - INFO - [32mATV01 - Task list generated: ['wikipedia_search', 'google_search'][0m
+2024-10-06 01:56:12,715 - INFO - [32mATV01 - Performing a Wikipedia search for 'What is the best way to approach a Pokémon raid?'[0m
+2024-10-06 01:56:12,716 - INFO - Opening Wikipedia on 192.168.50.101
+2024-10-06 01:56:12,760 - ERROR - Pixel 6a - Device 25281JEGR07570 is not available: adb.exe: device '25281JEGR07570' not found
+2024-10-06 01:56:23,215 - INFO - Searching for 'How can I track Pokémon spawns in my area?' on 25281JEGR07570
+2024-10-06 01:56:23,215 - ERROR - Pixel 6a - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text 'How'
+2024-10-06 01:56:23,215 - ERROR - Pixel 6a - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text ' '
+2024-10-06 01:56:23,215 - ERROR - Pixel 6a - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text 'can'
+2024-10-06 01:56:23,215 - ERROR - Pixel 6a - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text ' '
+2024-10-06 01:56:23,215 - ERROR - Pixel 6a - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text 'I'
+2024-10-06 01:56:23,215 - ERROR - Pixel 6a - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text ' '
+2024-10-06 01:56:23,217 - ERROR - Pixel 6a - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text 'track'
+2024-10-06 01:56:23,217 - ERROR - Pixel 6a - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text ' '
+2024-10-06 01:56:23,217 - ERROR - Pixel 6a - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text 'Pokémon'
+2024-10-06 01:56:23,217 - ERROR - Pixel 6a - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text ' '
+2024-10-06 01:56:23,218 - ERROR - Pixel 6a - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text 'spawns'
+2024-10-06 01:56:23,218 - ERROR - Pixel 6a - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text ' '
+2024-10-06 01:56:23,218 - ERROR - Pixel 6a - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text 'in'
+2024-10-06 01:56:23,218 - ERROR - Pixel 6a - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text ' '
+2024-10-06 01:56:23,218 - ERROR - Pixel 6a - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text 'my'
+2024-10-06 01:56:23,218 - ERROR - Pixel 6a - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text ' '
+2024-10-06 01:56:23,218 - ERROR - Pixel 6a - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text 'area?'
+2024-10-06 01:56:23,219 - ERROR - Pixel 6a - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input text ' '
+2024-10-06 01:56:23,219 - ERROR - Pixel 6a - Device 25281JEGR07570 is marked as disconnected. Skipping command: shell input keyevent 66
+2024-10-06 01:56:25,707 - INFO - Searching for 'What is the best way to approach a Pokémon raid?' on 192.168.50.101
+2024-10-06 01:56:39,847 - ERROR - [36mPixel 6a - Skipping tasks due to disconnection.
+2024-10-06 01:56:39,847 - INFO - [36mPixel 6a - Completed loop 1/1
+2024-10-06 01:57:51,192 - INFO - Script starting...
+2024-10-06 01:57:51,192 - INFO - Welcome to Rare's Android Profile Builder! Enjoy the process.
+2024-10-06 01:57:51,192 - INFO - Loading configuration...
+2024-10-06 01:57:51,195 - INFO - Loaded 856 search queries from searchlist.txt
+2024-10-06 01:57:51,195 - INFO - Configured device: Pixel 6a with ID: 25281JEGR07570
+2024-10-06 01:57:51,195 - INFO - Configured device: ATV01 with ID: 192.168.50.101
+2024-10-06 01:57:51,195 - INFO - Starting tasks for device: [36mPixel 6a[0m
+2024-10-06 01:57:51,196 - INFO - Starting tasks for device: [32mATV01[0m
+2024-10-06 01:57:51,197 - INFO - Connecting to device at 192.168.50.101
+2024-10-06 01:57:51,235 - INFO - [36mPixel 6a - Running 4 loops on device 25281JEGR07570
+2024-10-06 01:57:51,235 - INFO - [36mPixel 6a - Starting loop 1/4
+2024-10-06 01:57:51,235 - INFO - [36mPixel 6a - Starting tasks on 25281JEGR07570[0m
+2024-10-06 01:57:51,235 - INFO - [36mPixel 6a - Task list generated: ['wikipedia_search', 'google_search'][0m
+2024-10-06 01:57:51,236 - INFO - [36mPixel 6a - Performing a Google search for 'Biodiversity conservation'[0m
+2024-10-06 01:57:51,236 - INFO - Opening Google on 25281JEGR07570
+2024-10-06 01:57:51,236 - INFO - Successfully connected to device 192.168.50.101 via ADB over IP.
+2024-10-06 01:57:51,237 - INFO - [32mATV01 - Running 2 loops on device 192.168.50.101
+2024-10-06 01:57:51,237 - INFO - [32mATV01 - Starting loop 1/2
+2024-10-06 01:57:51,237 - INFO - [32mATV01 - Starting tasks on 192.168.50.101[0m
+2024-10-06 01:57:51,237 - INFO - [32mATV01 - Task list generated: ['wikipedia_search', 'google_search'][0m
+2024-10-06 01:57:51,237 - INFO - [32mATV01 - Performing a Google search for 'Asteroid deflection technologies'[0m
+2024-10-06 01:57:51,237 - INFO - Opening Google on 192.168.50.101
+2024-10-06 01:57:51,273 - ERROR - Pixel 6a - Device 25281JEGR07570 is not available: adb.exe: device '25281JEGR07570' not found
