@@ -1680,3 +1680,94 @@ java.lang.IllegalArgumentException: Argument expected after "text"
 2024-10-06 01:59:49,933 - INFO - Searching for 'The importance of community development' on 192.168.50.101
 2024-10-06 02:00:32,008 - INFO - [32mATV01 - Performing a Google search for 'Big data in healthcare'[0m
 2024-10-06 02:00:32,008 - INFO - Opening Google on 192.168.50.101
+2024-10-06 02:01:01,436 - INFO - Searching for 'Big data in healthcare' on 192.168.50.101
+2024-10-06 02:01:39,785 - INFO - [32mATV01 - Performing a Google search for 'The concept of a smart city'[0m
+2024-10-06 02:01:39,785 - INFO - Opening Google on 192.168.50.101
+2024-10-06 02:02:13,241 - INFO - Searching for 'The concept of a smart city' on 192.168.50.101
+2024-10-06 02:03:26,038 - INFO - Script starting...
+2024-10-06 02:03:26,038 - INFO - Welcome to Rare's Android Profile Builder! Enjoy the process.
+2024-10-06 02:03:26,039 - INFO - Loading configuration...
+2024-10-06 02:03:26,041 - INFO - Loaded 856 search queries from searchlist.txt
+2024-10-06 02:03:26,041 - INFO - Configured device: Pixel 6a with ID: 25281JEGR07570
+2024-10-06 02:03:26,041 - INFO - Configured device: ATV01 with ID: 192.168.50.101
+2024-10-06 02:03:26,041 - INFO - Starting tasks for device: [36mPixel 6a[0m
+2024-10-06 02:03:26,043 - INFO - Starting tasks for device: [32mATV01[0m
+2024-10-06 02:03:26,043 - INFO - Connecting to device at 192.168.50.101
+2024-10-06 02:03:26,081 - INFO - [36mPixel 6a - Running 4 loops on device 25281JEGR07570
+2024-10-06 02:03:26,081 - INFO - [36mPixel 6a - Starting loop 1/4
+2024-10-06 02:03:26,081 - INFO - [36mPixel 6a - Starting tasks on 25281JEGR07570[0m
+2024-10-06 02:03:26,082 - INFO - [36mPixel 6a - Performing a Google search for 'Artificial ecosystems'[0m
+2024-10-06 02:03:26,082 - INFO - Opening Google on 25281JEGR07570
+2024-10-06 02:03:26,083 - INFO - Successfully connected to device 192.168.50.101 via ADB over IP.
+2024-10-06 02:03:26,083 - INFO - [32mATV01 - Running 1 loops on device 192.168.50.101
+2024-10-06 02:03:26,083 - INFO - [32mATV01 - Starting loop 1/1
+2024-10-06 02:03:26,083 - INFO - [32mATV01 - Starting tasks on 192.168.50.101[0m
+2024-10-06 02:03:26,084 - INFO - [32mATV01 - Performing a Wikipedia search for 'The significance of community building'[0m
+2024-10-06 02:03:26,084 - INFO - Opening Wikipedia on 192.168.50.101
+2024-10-06 02:03:26,118 - ERROR - Pixel 6a - Device 25281JEGR07570 is not available: adb.exe: device '25281JEGR07570' not found
+2024-10-06 02:03:38,441 - INFO - Searching for 'The significance of community building' on 192.168.50.101
+2024-10-06 02:03:48,841 - INFO - [36mPixel 6a - Completed loop 1/4
+2024-10-06 02:04:17,850 - INFO - Scrolling and reading on 192.168.50.101
+2024-10-06 02:04:42,415 - INFO - Reading for 15.87 seconds after scroll 1/3
+2024-10-06 02:05:03,312 - INFO - Reading for 23.81 seconds after scroll 2/3
+2024-10-06 02:05:31,462 - INFO - Reading for 24.08 seconds after scroll 3/3
+2024-10-06 02:06:04,905 - INFO - [32mATV01 - Performing a Wikipedia search for 'The history of robotics'[0m
+2024-10-06 02:06:04,905 - INFO - Opening Wikipedia on 192.168.50.101
+2024-10-06 02:06:16,199 - INFO - Searching for 'The history of robotics' on 192.168.50.101
+2024-10-06 02:07:02,688 - INFO - Scrolling and reading on 192.168.50.101
+2024-10-06 02:07:26,867 - INFO - Reading for 21.89 seconds after scroll 1/3
+2024-10-06 02:09:09,379 - INFO - Script starting...
+2024-10-06 02:09:09,379 - INFO - Welcome to Rare's Android Profile Builder! Enjoy the process.
+2024-10-06 02:09:09,379 - INFO - Loading configuration...
+2024-10-06 02:09:09,381 - INFO - Loaded 856 search queries from searchlist.txt
+2024-10-06 02:09:09,382 - INFO - Configured device: Pixel 6a with ID: 25281JEGR07570
+2024-10-06 02:09:09,382 - INFO - Configured device: ATV01 with ID: 192.168.50.101
+2024-10-06 02:09:09,382 - INFO - Starting tasks for device: [36mPixel 6a[0m
+2024-10-06 02:09:09,383 - INFO - Starting tasks for device: [32mATV01[0m
+2024-10-06 02:09:09,383 - INFO - Connecting to device at 192.168.50.101
+2024-10-06 02:09:09,418 - INFO - [36mPixel 6a - Running 1 loops on device 25281JEGR07570
+2024-10-06 02:09:09,418 - INFO - [36mPixel 6a - Starting loop 1/1
+2024-10-06 02:09:09,418 - INFO - [36mPixel 6a - Starting tasks on 25281JEGR07570[0m
+2024-10-06 02:09:09,418 - INFO - [36mPixel 6a - Performing a Google search for 'AI in healthcare diagnostics'[0m
+2024-10-06 02:09:09,419 - INFO - Opening Google on 25281JEGR07570
+2024-10-06 02:09:09,419 - INFO - Successfully connected to device 192.168.50.101 via ADB over IP.
+2024-10-06 02:09:09,419 - INFO - [32mATV01 - Running 1 loops on device 192.168.50.101
+2024-10-06 02:09:09,419 - INFO - [32mATV01 - Starting loop 1/1
+2024-10-06 02:09:09,419 - INFO - [32mATV01 - Starting tasks on 192.168.50.101[0m
+2024-10-06 02:09:09,420 - INFO - [32mATV01 - Performing a Wikipedia search for 'Plate tectonics'[0m
+2024-10-06 02:09:09,420 - INFO - Opening Wikipedia on 192.168.50.101
+2024-10-06 02:09:09,458 - ERROR - Pixel 6a - Device 25281JEGR07570 is not available: adb.exe: device '25281JEGR07570' not found
+2024-10-06 02:09:22,114 - INFO - Searching for 'Plate tectonics' on 192.168.50.101
+2024-10-06 02:09:27,781 - INFO - [36mPixel 6a - Completed loop 1/1
+2024-10-06 02:09:57,205 - INFO - Scrolling and reading on 192.168.50.101
+2024-10-06 02:10:04,550 - INFO - Reading for 22.53 seconds after scroll 1/3
+2024-10-06 02:10:29,227 - INFO - Reading for 23.00 seconds after scroll 2/3
+2024-10-06 02:10:54,684 - INFO - Reading for 18.79 seconds after scroll 3/3
+2024-10-06 02:11:42,045 - INFO - Script starting...
+2024-10-06 02:11:42,045 - INFO - Welcome to Rare's Android Profile Builder! Enjoy the process.
+2024-10-06 02:11:42,045 - INFO - Loading configuration...
+2024-10-06 02:11:42,049 - INFO - Loaded 856 search queries from searchlist.txt
+2024-10-06 02:11:42,049 - INFO - Configured device: Pixel 6a with ID: 25281JEGR07570
+2024-10-06 02:11:42,050 - INFO - Configured device: ATV01 with ID: 192.168.50.101
+2024-10-06 02:11:42,050 - INFO - Starting tasks for device: [36mPixel 6a[0m
+2024-10-06 02:11:42,051 - INFO - Starting tasks for device: [32mATV01[0m
+2024-10-06 02:11:42,051 - INFO - Connecting to device at 192.168.50.101
+2024-10-06 02:11:42,093 - INFO - [36mPixel 6a - Running 3 loops on device 25281JEGR07570
+2024-10-06 02:11:42,094 - INFO - [36mPixel 6a - Starting loop 1/3
+2024-10-06 02:11:42,094 - INFO - [36mPixel 6a - Starting tasks on 25281JEGR07570[0m
+2024-10-06 02:11:42,094 - INFO - [36mPixel 6a - Performing a Wikipedia search for 'Cognitive neuroscience'[0m
+2024-10-06 02:11:42,094 - INFO - Opening Wikipedia on 25281JEGR07570
+2024-10-06 02:11:42,095 - INFO - Successfully connected to device 192.168.50.101 via ADB over IP.
+2024-10-06 02:11:42,095 - INFO - [32mATV01 - Running 2 loops on device 192.168.50.101
+2024-10-06 02:11:42,095 - INFO - [32mATV01 - Starting loop 1/2
+2024-10-06 02:11:42,095 - INFO - [32mATV01 - Starting tasks on 192.168.50.101[0m
+2024-10-06 02:11:42,095 - INFO - [32mATV01 - Performing a Wikipedia search for 'Exoplanets'[0m
+2024-10-06 02:11:42,096 - INFO - Opening Wikipedia on 192.168.50.101
+2024-10-06 02:11:42,134 - ERROR - Pixel 6a - Device 25281JEGR07570 is not available: adb.exe: device '25281JEGR07570' not found
+2024-10-06 02:11:53,107 - INFO - Searching for 'Exoplanets' on 192.168.50.101
+2024-10-06 02:11:53,659 - INFO - Searching for 'Cognitive neuroscience' on 25281JEGR07570
+2024-10-06 02:12:10,638 - INFO - Scrolling and reading on 25281JEGR07570
+2024-10-06 02:12:10,638 - INFO - Reading for 17.94 seconds after scroll 1/3
+2024-10-06 02:12:28,579 - INFO - Reading for 16.96 seconds after scroll 2/3
+2024-10-06 02:12:45,542 - INFO - Reading for 20.17 seconds after scroll 3/3
+2024-10-06 02:12:53,630 - INFO - Scrolling and reading on 192.168.50.101

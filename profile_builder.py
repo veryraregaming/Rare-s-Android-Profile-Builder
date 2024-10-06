@@ -100,7 +100,7 @@ def random_delay(min_time, max_time):
     time.sleep(delay)
 
 def perform_tasks(device_id, device, alias_color, search_queries, config, device_status):
-    """Performs tasks on a single device."""
+    """Performs tasks on a single device."""    
     alias = device['alias']
     
     if not device_status['connected']:
@@ -142,6 +142,8 @@ def perform_google_search(device_id, query, device_status, config):
         adb_command(device_id, "shell input keyevent 61", device_status, device_status['alias'])
         random_delay(0.5, 1)
     perform_search(device_id, query, device_status)
+    random_delay(config['scroll_delay']['after_search'], config['scroll_delay']['after_search'] + 2)  # Delay before scrolling
+    scroll_and_read(device_id, device_status)  # Scroll and read after search
 
 def open_google(device_id, device_status, config):
     """Opens Google on the specified device.""" 
@@ -153,6 +155,8 @@ def perform_wikipedia_search(device_id, query, device_status, config):
     """Performs a Wikipedia search."""
     open_wikipedia(device_id, device_status, config)
     perform_search(device_id, query, device_status)
+    random_delay(config['scroll_delay']['after_search'], config['scroll_delay']['after_search'] + 2)  # Delay before scrolling
+    scroll_and_read(device_id, device_status)  # Scroll and read after search
 
 def open_wikipedia(device_id, device_status, config):
     """Opens Wikipedia on the specified device."""

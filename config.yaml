@@ -20,6 +20,10 @@ loading_delays:
   google: 10  # Initial delay for loading Google (in seconds)
   wikipedia: 10  # Initial delay for loading Wikipedia (in seconds)
 
+# Delay before scrolling after a search
+scroll_delay:
+  after_search: 10  # Delay before scrolling after submitting a search (in seconds)
+
 # Loop settings for task execution
 loop_settings:
   min_loops: 1  # Minimum number of loops to run (0 for infinite)
