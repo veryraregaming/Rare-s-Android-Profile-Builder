@@ -1651,3 +1651,32 @@ java.lang.IllegalArgumentException: Argument expected after "text"
 2024-10-06 01:57:51,237 - INFO - [32mATV01 - Performing a Google search for 'Asteroid deflection technologies'[0m
 2024-10-06 01:57:51,237 - INFO - Opening Google on 192.168.50.101
 2024-10-06 01:57:51,273 - ERROR - Pixel 6a - Device 25281JEGR07570 is not available: adb.exe: device '25281JEGR07570' not found
+2024-10-06 01:58:40,849 - INFO - Script starting...
+2024-10-06 01:58:40,850 - INFO - Welcome to Rare's Android Profile Builder! Enjoy the process.
+2024-10-06 01:58:40,850 - INFO - Loading configuration...
+2024-10-06 01:58:40,852 - INFO - Loaded 856 search queries from searchlist.txt
+2024-10-06 01:58:40,852 - INFO - Configured device: Pixel 6a with ID: 25281JEGR07570
+2024-10-06 01:58:40,852 - INFO - Configured device: ATV01 with ID: 192.168.50.101
+2024-10-06 01:58:40,852 - INFO - Starting tasks for device: [36mPixel 6a[0m
+2024-10-06 01:58:40,853 - INFO - Starting tasks for device: [32mATV01[0m
+2024-10-06 01:58:40,853 - INFO - Connecting to device at 192.168.50.101
+2024-10-06 01:58:40,889 - INFO - [36mPixel 6a - Running 1 loops on device 25281JEGR07570
+2024-10-06 01:58:40,889 - INFO - [36mPixel 6a - Starting loop 1/1
+2024-10-06 01:58:40,889 - INFO - [36mPixel 6a - Starting tasks on 25281JEGR07570[0m
+2024-10-06 01:58:40,890 - INFO - [36mPixel 6a - Performing a Wikipedia search for 'Energy storage solutions'[0m
+2024-10-06 01:58:40,890 - INFO - Opening Wikipedia on 25281JEGR07570
+2024-10-06 01:58:40,890 - INFO - Successfully connected to device 192.168.50.101 via ADB over IP.
+2024-10-06 01:58:40,890 - INFO - [32mATV01 - Running 4 loops on device 192.168.50.101
+2024-10-06 01:58:40,890 - INFO - [32mATV01 - Starting loop 1/4
+2024-10-06 01:58:40,891 - INFO - [32mATV01 - Starting tasks on 192.168.50.101[0m
+2024-10-06 01:58:40,891 - INFO - [32mATV01 - Performing a Wikipedia search for 'History of cryptoeconomics'[0m
+2024-10-06 01:58:40,891 - INFO - Opening Wikipedia on 192.168.50.101
+2024-10-06 01:58:40,928 - ERROR - Pixel 6a - Device 25281JEGR07570 is not available: adb.exe: device '25281JEGR07570' not found
+2024-10-06 01:58:51,966 - INFO - Searching for 'Energy storage solutions' on 25281JEGR07570
+2024-10-06 01:58:52,295 - INFO - Searching for 'History of cryptoeconomics' on 192.168.50.101
+2024-10-06 01:59:07,598 - INFO - [36mPixel 6a - Completed loop 1/1
+2024-10-06 01:59:20,074 - INFO - [32mATV01 - Performing a Google search for 'The importance of community development'[0m
+2024-10-06 01:59:20,074 - INFO - Opening Google on 192.168.50.101
+2024-10-06 01:59:49,933 - INFO - Searching for 'The importance of community development' on 192.168.50.101
+2024-10-06 02:00:32,008 - INFO - [32mATV01 - Performing a Google search for 'Big data in healthcare'[0m
+2024-10-06 02:00:32,008 - INFO - Opening Google on 192.168.50.101
